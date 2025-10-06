@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Phil Niekro | Atlanta | 20 | Top 25
+table_2,ERA | JohnCandelaria | Pittsburgh | 2.34 | Top 25
+table_2,Games | Rollie Fingers | San Diego | 78 | Top 25
+table_2,Saves | Rollie Fingers | San Diego | 35 | Top 25
+table_2,Shutouts | Tom Seaver | New York | 7 | Top 25
+table_2,Strikeouts | Phil Niekro | Atlanta | 262 | Top 25
+table_2,Winning Percentage | JohnCandelaria | Pittsburgh | .800 | Top 25
+table_2,Wins | Steve Carlton | Philadelphia | 23 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Houston | 37
+table_5,ERA | Los Angeles | 3.23
+table_5,"Fewest Hits Allowed | New York | 1,378"
+table_5,Fewest Home Runs Allowed | Houston | 110
+table_5,Fewest Walks Allowed | Los Angeles | 438
+table_5,Saves | Philadelphia | 47
+table_5,Shutouts | Pittsburgh | 15
+table_5,Strikeouts | Chicago | 942

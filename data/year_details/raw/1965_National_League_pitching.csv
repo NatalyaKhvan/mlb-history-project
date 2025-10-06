@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Sandy Koufax | Los Angeles | 27 | Top 25
+table_2,ERA | Sandy Koufax | Los Angeles | 2.04 | Top 25
+table_2,Games | Ted Abernathy | Chicago | 84 | Top 25
+table_2,Saves | Ted Abernathy | Chicago | 31 | Top 25
+table_2,Shutouts | Juan Marichal | San Francisco | 10 | Top 25
+table_2,Strikeouts | Sandy Koufax | Los Angeles | 382 | Top 25
+table_2,Winning Percentage | Sandy Koufax | Los Angeles | .765 | Top 25
+table_2,Wins | Sandy Koufax | Los Angeles | 26 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Los Angeles | 58
+table_5,ERA | Los Angeles | 2.81
+table_5,"Fewest Hits Allowed | Los Angeles | 1,223"
+table_5,Fewest Home Runs Allowed | Pittsburgh | 89
+table_5,Fewest Walks Allowed | Houston | 388
+table_5,Saves | San Francisco | 42
+table_5,Shutouts | Los Angeles | 23
+table_5,"Strikeouts | Cincinnati | 1,113"
+table_5,Statistic | Team | #

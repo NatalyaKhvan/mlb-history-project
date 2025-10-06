@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Dean Chance | Minnesota | 18 | Top 25
+table_2,ERA | Joe Horlen | Chicago | 2.06 | Top 25
+table_2,Games | Bob Locker | Chicago | 77 | Top 25
+table_2,Saves | Minnie Rojas | California | 27 | Top 25
+table_2,Shutouts | Steve Hargan | Cleveland | 6 | Top 25
+table_2,Strikeouts | Jim Lonborg | Boston | 246 | Top 25
+table_2,Winning Percentage | Joe Horlen | Chicago | .731 | Top 25
+table_2,Wins | Jim Lonborg | Boston | 22 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Minnesota | 58
+table_5,ERA | Chicago | 2.45
+table_5,"Fewest Hits Allowed | Chicago | 1,197"
+table_5,Fewest Home Runs Allowed | Chicago | 87
+table_5,Fewest Walks Allowed | Minnesota | 396
+table_5,Saves | California | 46
+table_5,Shutouts | Chicago | 24
+table_5,"Strikeouts | Cleveland | 1,189"
+table_5,Statistic | Team | #

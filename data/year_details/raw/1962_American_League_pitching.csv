@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Camilo Pascual | Minnesota | 18 | Top 25
+table_2,ERA | Hank Aguirre | Detroit | 2.21 | Top 25
+table_2,Games | Dick Radatz | Boston | 62 | Top 25
+table_2,Saves | Dick Radatz | Boston | 24 | Top 25
+table_2,Shutouts | Dick Donovan | Cleveland | 5 | Top 25
+table_2,Strikeouts | Camilo Pascual | Minnesota | 206 | Top 25
+table_2,Winning Percentage | Ray Herbert | Chicago | .690 | Top 25
+table_2,Wins | Ralph Terry | New York | 23 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Minnesota | 53
+table_5,ERA | Baltimore | 3.70
+table_5,"Fewest Hits Allowed | Baltimore | 1,373"
+table_5,Fewest Home Runs Allowed | Los Angeles | 118
+table_5,Fewest Walks Allowed | Minnesota | 493
+table_5,Saves | Los Angeles | 47
+table_5,Shutouts | Los Angeles | 15
+table_5,Strikeouts | Minnesota | 948

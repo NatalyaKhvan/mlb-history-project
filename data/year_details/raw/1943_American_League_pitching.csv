@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Spud Chandler | New York | 20 | Top 25
+table_2,ERA | Spud Chandler | New York | 1.64 | Top 25
+table_2,Games | Mace Brown | Boston | 49 | Top 25
+table_2,Saves | Gordon Maltzberger | Chicago | 14 | Top 25
+table_2,Shutouts | Spud Chandler | New York | 5 | Top 25
+table_2,Strikeouts | Allie Reynolds | Cleveland | 151 | Top 25
+table_2,Winning Percentage | Spud Chandler | New York | .833 | Top 25
+table_2,Wins | Spud Chandler | New York | 20 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | New York | 83
+table_5,ERA | New York | 2.93
+table_5,"Fewest Hits Allowed | Detroit | 1,226"
+table_5,Fewest Home Runs Allowed | Washington | 48
+table_5,Fewest Walks Allowed | St. Louis | 488
+table_5,Saves | Washington | 21
+table_5,Shutouts | Detroit | 18
+table_5,Strikeouts | Detroit | 706

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Rick Reuschel | San Francisco | 12 | Top 25
+table_2,ERA | Nolan Ryan | Houston | 2.76 | Top 25
+table_2,Games | Kent Tekulve | Philadelphia | 90 | Top 25
+table_2,Saves | Steve Bedrosian | Philadelphia | 40 | Top 25
+table_2,Shutouts | Rick Reuschel | San Francisco | 4 | Top 25
+table_2,Strikeouts | Nolan Ryan | Houston | 270 | Top 25
+table_2,Winning Percentage | Dwight Gooden | New York | .682 | Top 25
+table_2,Wins | Rick Sutcliffe | Chicago | 18 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Los Angeles | 29
+table_5,ERA | San Francisco | 3.68
+table_5,"Fewest Hits Allowed | Houston | 1,363"
+table_5,Fewest Home Runs Allowed | St. Louis | 129
+table_5,Fewest Walks Allowed | Montreal | 446
+table_5,Saves | New York | 51
+table_5,Shutouts | Houston | 13
+table_5,"Strikeouts | Houston | 1,137"

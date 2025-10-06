@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Chuck Finley | California | 13 | Top 25
+table_2,ERA | Kevin Appier | Kansas City | 2.56 | Top 25
+table_2,Games | Greg Harris | Boston | 80 | Top 25
+table_2,Saves | Jeff Montgomery | Kansas City | 45 | Top 25
+table_2,Shutouts | Jack McDowell | Chicago | 4 | Top 25
+table_2,Strikeouts | Randy Johnson | Seattle | 308 | Top 25
+table_2,Winning Percentage | Jimmy Key | New York | .750 | Top 25
+table_2,Wins | Jack McDowell | Chicago | 22 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | California | 26
+table_5,ERA | Chicago | 3.70
+table_5,"Fewest Hits Allowed | Boston | 1,379"
+table_5,Fewest Home Runs Allowed | Kansas City | 105
+table_5,Fewest Walks Allowed | Minnesota | 514
+table_5,Saves | Toronto | 50
+table_5,Shutouts | New York | 13
+table_5,"Strikeouts | Seattle | 1,083"

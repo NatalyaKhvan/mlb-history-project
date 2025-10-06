@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Grover Alexander | Philadelphia | 31 | Top 25
+table_2,ERA | Christy Mathewson | New York | 1.99 | Top 25
+table_2,Games | Mordecai Brown | Chicago | 53 | Top 25
+table_2,Saves | Mordecai Brown | Chicago | 13 | Top 25
+table_2,Shutouts | Grover Alexander | Philadelphia | 7 | Top 25
+table_2,Strikeouts | Rube Marquard | New York | 237 | Top 25
+table_2,Winning Percentage | Rube Marquard | New York | .774 | Top 25
+table_2,Wins | Grover Alexander | Philadelphia | 28 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | New York | 95
+table_5,ERA | New York | 2.70
+table_5,"Fewest Hits Allowed | Pittsburgh | 1,249"
+table_5,Fewest Home Runs Allowed | Chicago | 26
+table_5,Fewest Walks Allowed | New York | 369
+table_5,Saves | Chicago | 16
+table_5,Shutouts | Philadelphia | 20
+table_5,Strikeouts | New York | 771
+table_5,Statistic | Team | #

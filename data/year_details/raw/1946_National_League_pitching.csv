@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Johnny Sain | Boston | 24 | Top 25
+table_2,ERA | Howie Pollet | St. Louis | 2.10 | Top 25
+table_2,Games | Ken Trinkle | New York | 48 | Top 25
+table_2,Saves | Ken Raffensberger | Philadelphia | 6 | Top 25
+table_2,Shutouts | Ewell Blackwell | Cincinnati | 5 | Top 25
+table_2,Strikeouts | Johnny Schmitz | Chicago | 135 | Top 25
+table_2,Winning Percentage | Murry Dickson | St. Louis | .714 | Top 25
+table_2,Wins | Howie Pollet | St. Louis | 21 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | St. Louis | 75
+table_5,ERA | St. Louis | 3.01
+table_5,"Fewest Hits Allowed | Brooklyn | 1,280"
+table_5,Fewest Home Runs Allowed | Pittsburgh | 50
+table_5,Fewest Walks Allowed | Cincinnati | 467
+table_5,Saves | Brooklyn | 28
+table_5,Shutouts | St. Louis | 18
+table_5,Strikeouts | Brooklyn | 467

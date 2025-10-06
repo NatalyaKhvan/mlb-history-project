@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Jim McCormick | Cleveland | 65 | Top 25
+table_2,ERA | Larry Corcoran | Chicago | 1.95 | Top 25
+table_2,Games | Jim McCormick | Cleveland | 68 | Top 25
+table_2,Saves | John Ward | Providence | 1 | Top 25
+table_2,Shutouts | Old Hoss Radbourn | Providence | 6 | Top 25
+table_2,Strikeouts | Old Hoss Radbourn | Providence | 201 | Top 25
+table_2,Winning Percentage | Larry Corcoran | Chicago | .692 | Top 25
+table_2,Wins | Jim McCormick | Cleveland | 36 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Chicago | 83
+table_5,ERA | Chicago | 2.22
+table_5,Fewest Hits Allowed | Chicago | 667
+table_5,Fewest Home Runs Allowed | Boston | 10
+table_5,Fewest Walks Allowed | Boston | 77
+table_5,Saves | Providence | 1
+table_5,Shutouts | Providence | 10
+table_5,Strikeouts | Detroit | 354
+table_5,Statistic | Team | #

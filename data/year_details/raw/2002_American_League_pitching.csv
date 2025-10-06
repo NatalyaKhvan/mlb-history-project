@@ -1,0 +1,26 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Paul Byrd | Kansas City | 7 | Top 25
+table_2,ERA | Pedro Martinez | Boston | 2.26 | Top 25
+table_2,Games | Billy Koch | Oakland | 84 | Top 25
+table_2,Saves | Eddie Guardado | Minnesota | 45 | Top 25
+table_2,Shutouts | Jeff Weaver | New York | 3 | Top 25
+table_2,Strikeouts | Pedro Martinez | Boston | 239 | Top 25
+table_2,Winning Percentage | Pedro Martinez | Boston | .833 | Top 25
+table_2,Wins | Barry Zito | Oakland | 23 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,TEAM | W | L | ERA | CG | SH | SV | SVO | IP | H | R | ER | HR | HBP | BB | SO
+table_5,"Anaheim | 99 | 63 | 3.69 | 7 | 14 | 54 | 70 | 1452.1 | 1,345 | 644 | 595 | 169 | 49 | 509 | 999"
+table_5,"Baltimore | 67 | 95 | 4.46 | 8 | 3 | 31 | 46 | 1450.2 | 1,491 | 773 | 719 | 208 | 54 | 549 | 967"
+table_5,"Boston | 93 | 69 | 3.75 | 5 | 17 | 51 | 68 | 1446.0 | 1,339 | 665 | 603 | 146 | 84 | 430 | 1,157"
+table_5,"Chicago | 81 | 81 | 4.53 | 7 | 7 | 35 | 46 | 1423.0 | 1,422 | 798 | 716 | 190 | 60 | 528 | 945"
+table_5,"Cleveland | 74 | 88 | 4.91 | 9 | 4 | 34 | 53 | 1424.2 | 1,508 | 837 | 777 | 142 | 57 | 603 | 1,058"
+table_5,"Detroit | 55 | 106 | 4.92 | 11 | 7 | 33 | 53 | 1414.0 | 1,593 | 864 | 773 | 163 | 62 | 463 | 794"
+table_5,"Kansas City | 62 | 100 | 5.21 | 12 | 6 | 30 | 54 | 1441.0 | 1,587 | 891 | 834 | 212 | 52 | 572 | 909"
+table_5,"Minnesota | 94 | 67 | 4.12 | 8 | 9 | 47 | 65 | 1444.2 | 1,454 | 712 | 662 | 184 | 45 | 439 | 1,026"
+table_5,"New York | 103 | 58 | 3.87 | 9 | 11 | 53 | 69 | 1452.0 | 1,441 | 697 | 625 | 144 | 48 | 403 | 1,135"
+table_5,"Oakland | 103 | 59 | 3.68 | 9 | 19 | 48 | 68 | 1452.0 | 1,391 | 654 | 593 | 135 | 62 | 474 | 1,021"
+table_5,"Seattle | 93 | 69 | 4.07 | 8 | 12 | 43 | 64 | 1445.1 | 1,422 | 699 | 654 | 178 | 49 | 441 | 1,063"
+table_5,"Tampa Bay | 55 | 106 | 5.29 | 12 | 3 | 25 | 46 | 1440.1 | 1,567 | 918 | 846 | 215 | 94 | 620 | 925"
+table_5,"Texas | 72 | 90 | 5.15 | 4 | 4 | 33 | 65 | 1439.2 | 1,528 | 882 | 824 | 194 | 76 | 669 | 1,030"
+table_5,"Toronto | 78 | 84 | 4.80 | 6 | 6 | 41 | 70 | 1438.1 | 1,504 | 828 | 767 | 177 | 71 | 590 | 991"

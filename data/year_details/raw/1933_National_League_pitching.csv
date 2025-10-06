@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Lon Warneke | Chicago | 26 | Top 25
+table_2,ERA | Carl Hubbell | New York | 1.66 | Top 25
+table_2,Games | Dizzy Dean | St. Louis | 48 | Top 25
+table_2,Saves | Phil Collins | Philadelphia | 6 | Top 25
+table_2,Shutouts | Carl Hubbell | New York | 10 | Top 25
+table_2,Strikeouts | Dizzy Dean | St. Louis | 199 | Top 25
+table_2,Winning Percentage | Ben Cantwell | Boston | .667 | Top 25
+table_2,Wins | Carl Hubbell | New York | 23 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Chicago | 95
+table_5,ERA | New York | 2.71
+table_5,"Fewest Hits Allowed | New York | 1,280"
+table_5,Fewest Home Runs Allowed | Cincinnati | 47
+table_5,Fewest Walks Allowed | Cincinnati | 257
+table_5,Saves | Boston | 16
+table_5,Shutouts | New York | 23
+table_5,Strikeouts | St. Louis | 635

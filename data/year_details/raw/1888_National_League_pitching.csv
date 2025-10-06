@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Ed Morris | Pittsburgh | 54 | Top 25
+table_2,ERA | Tim Keefe | New York | 1.74 | Top 25
+table_2,Games | Ed Morris | Pittsburgh | 55 | Top 25
+table_2,Saves | George Wood | Philadelphia | 2 | Top 25
+table_2,Shutouts | Tim Keefe | New York | 8 | Top 25
+table_2,Strikeouts | Tim Keefe | New York | 335 | Top 25
+table_2,Winning Percentage | Tim Keefe | New York | .745 | Top 25
+table_2,Wins | Tim Keefe | New York | 35 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Pittsburgh | 135
+table_5,ERA | New York | 1.96
+table_5,Fewest Hits Allowed | New York | 907
+table_5,Fewest Home Runs Allowed | Pittsburgh | 23
+table_5,Fewest Walks Allowed | Detroit | 183
+table_5,Saves | Philadelphia | 3
+table_5,Shutouts | New York | 20
+table_5,Strikeouts | New York | 726

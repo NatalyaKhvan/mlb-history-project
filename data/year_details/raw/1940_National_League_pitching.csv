@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bucky Walters | Cincinnati | 29 | Top 25
+table_2,ERA | Bucky Walters | Cincinnati | 2.48 | Top 25
+table_2,Games | Clyde Shoun | St. Louis | 54 | Top 25
+table_2,Saves | Joe Beggs | Cincinnati | 7 | Top 25
+table_2,Shutouts | Manny Salvo | Boston | 5 | Top 25
+table_2,Strikeouts | Kirby Higbe | Philadelphia | 137 | Top 25
+table_2,Winning Percentage | Freddie Fitzsimmons | Brooklyn | .889 | Top 25
+table_2,Wins | Bucky Walters | Cincinnati | 22 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cincinnati | 91
+table_5,ERA | Cincinnati | 3.05
+table_5,"Fewest Hits Allowed | Cincinnati | 1,263"
+table_5,Fewest Home Runs Allowed | Pittsburgh | 72
+table_5,Fewest Walks Allowed | Brooklyn | 393
+table_5,Saves | Pittsburgh | 24
+table_5,Shutouts | Brooklyn | 17
+table_5,Strikeouts | Brooklyn | 639

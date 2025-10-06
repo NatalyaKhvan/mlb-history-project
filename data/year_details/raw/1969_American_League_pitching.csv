@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Mel Stottlemyre | New York | 24 | Top 25
+table_2,ERA | Dick Bosman | Washington | 2.19 | Top 25
+table_2,Games | Wilbur Wood | Chicago | 76 | Top 25
+table_2,Saves | Ron Perranoski | Minnesota | 31 | Top 25
+table_2,Shutouts | Denny McLain | Detroit | 9 | Top 25
+table_2,Strikeouts | Sam McDowell | Cleveland | 279 | Top 25
+table_2,Winning Percentage | Jim Palmer | Baltimore | .800 | Top 25
+table_2,Wins | Denny McLain | Detroit | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Detroit | 55
+table_5,ERA | Baltimore | 2.83
+table_5,"Fewest Hits Allowed | Baltimore | 1,194"
+table_5,Fewest Home Runs Allowed | Baltimore | 117
+table_5,Fewest Walks Allowed | Baltimore | 498
+table_5,Saves | Minnesota | 43
+table_5,Shutouts | Baltimore | 20
+table_5,"Strikeouts | Detroit | 1,032"

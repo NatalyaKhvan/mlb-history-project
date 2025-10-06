@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Catfish Hunter | New York | 30 | Top 25
+table_2,ERA | Jim Palmer | Baltimore | 2.09 | Top 25
+table_2,Games | Rollie Fingers | Oakland | 75 | Top 25
+table_2,Saves | Rich Gossage | Chicago | 26 | Top 25
+table_2,Shutouts | Jim Palmer | Baltimore | 10 | Top 25
+table_2,Strikeouts | Frank Tanana | California | 269 | Top 25
+table_2,Winning Percentage | Mike Torrez | Baltimore | .690 | Top 25
+table_2,Wins | Catfish Hunter | New York | 23 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Baltimore | 70
+table_5,ERA | Baltimore | 3.17
+table_5,"Fewest Hits Allowed | Oakland | 1,267"
+table_5,Fewest Home Runs Allowed | Oakland | 102
+table_5,Fewest Walks Allowed | Boston | 490
+table_5,Saves | Oakland | 44
+table_5,Shutouts | Baltimore | 19
+table_5,Strikeouts | California | 975

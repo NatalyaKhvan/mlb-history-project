@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Jim Tobin | Boston | 28 | Top 25
+table_2,ERA | Mort Cooper | St. Louis | 1.78 | Top 25
+table_2,Games | Ace Adams | New York | 61 | Top 25
+table_2,Saves | Hugh Casey | Brooklyn | 13 | Top 25
+table_2,Shutouts | Mort Cooper | St. Louis | 10 | Top 25
+table_2,Strikeouts | Johnny Vander Meer | Cincinnati | 186 | Top 25
+table_2,Winning Percentage | Larry French | Brooklyn | .789 | Top 25
+table_2,Wins | Mort Cooper | St. Louis | 22 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cincinnati | 80
+table_5,ERA | St. Louis | 2.55
+table_5,"Fewest Hits Allowed | St. Louis | 1,192"
+table_5,Fewest Home Runs Allowed | Cincinnati | 47
+table_5,Fewest Walks Allowed | Pittsburgh | 435
+table_5,Saves | Brooklyn | 24
+table_5,Shutouts | St. Louis | 18
+table_5,Strikeouts | St. Louis | 651

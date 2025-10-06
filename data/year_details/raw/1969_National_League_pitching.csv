@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bob Gibson | St. Louis | 28 | Top 25
+table_2,ERA | Juan Marichal | San Francisco | 2.10 | Top 25
+table_2,Games | Wayne Granger | Cincinnati | 90 | Top 25
+table_2,Saves | Fred Gladding | Houston | 29 | Top 25
+table_2,Shutouts | Juan Marichal | San Francisco | 8 | Top 25
+table_2,Strikeouts | Fergie Jenkins | Chicago | 273 | Top 25
+table_2,Winning Percentage | Tom Seaver | New York | .781 | Top 25
+table_2,Wins | Tom Seaver | New York | 25 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | San Francisco | 71
+table_5,ERA | St. Louis | 2.94
+table_5,"Fewest Hits Allowed | New York | 1,217"
+table_5,Fewest Home Runs Allowed | Pittsburgh | 96
+table_5,Fewest Walks Allowed | Los Angeles | 420
+table_5,Saves | Cincinnati | 44
+table_5,Shutouts | New York | 28
+table_5,"Strikeouts | Houston | 1,221"

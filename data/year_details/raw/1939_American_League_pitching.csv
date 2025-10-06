@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bobo Newsom | St. Louis | 24 | Top 25
+table_2,ERA | Lefty Grove | Boston | 2.54 | Top 25
+table_2,Games | Clint Brown | Chicago | 61 | Top 25
+table_2,Saves | Johnny Murphy | New York | 19 | Top 25
+table_2,Shutouts | Red Ruffing | New York | 5 | Top 25
+table_2,Strikeouts | Bob Feller | Cleveland | 246 | Top 25
+table_2,Winning Percentage | Lefty Grove | Boston | .789 | Top 25
+table_2,Wins | Bob Feller | Cleveland | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | New York | 87
+table_5,ERA | New York | 3.31
+table_5,"Fewest Hits Allowed | New York | 1,208"
+table_5,Fewest Home Runs Allowed | Cleveland | 75
+table_5,Fewest Walks Allowed | Chicago | 454
+table_5,Saves | New York | 26
+table_5,Shutouts | New York | 15
+table_5,Strikeouts | Detroit | 633

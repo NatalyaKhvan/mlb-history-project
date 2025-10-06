@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Frank Smith | Chicago | 37 | Top 25
+table_2,ERA | Harry Krause | Philadelphia | 1.39 | Top 25
+table_2,Games | Frank Smith | Chicago | 51 | Top 25
+table_2,Saves | Frank Arellanes | Boston | 8 | Top 25
+table_2,Shutouts | Ed Walsh | Chicago | 8 | Top 25
+table_2,Strikeouts | Frank Smith | Chicago | 177 | Top 25
+table_2,Winning Percentage | George Mullin | Detroit | .784 | Top 25
+table_2,Wins | George Mullin | Detroit | 29 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Detroit | 117
+table_5,ERA | Philadelphia | 1.93
+table_5,"Fewest Hits Allowed | Philadelphia | 1,069"
+table_5,Fewest Home Runs Allowed | Chicago | 8
+table_5,Fewest Walks Allowed | Chicago | 340
+table_5,Saves | Boston | 15
+table_5,Shutouts | Philadelphia | 27
+table_5,Strikeouts | Philadelphia | 728
+table_5,Statistic | Team | #

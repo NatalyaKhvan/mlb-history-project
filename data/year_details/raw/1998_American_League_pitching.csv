@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Scott Erickson | Baltimore | 11 | Top 25
+table_2,ERA | Roger Clemens | Toronto | 2.65 | Top 25
+table_2,Games | Sean Runyan | Detroit | 88 | Top 25
+table_2,Saves | Tom Gordon | Boston | 46 | Top 25
+table_2,Shutouts | David Wells | New York | 5 | Top 25
+table_2,Strikeouts | Roger Clemens | Toronto | 271 | Top 25
+table_2,Winning Percentage | David Wells | New York | .818 | Top 25
+table_2,Wins | Roger Clemens | Toronto | 20 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | New York | 22
+table_5,ERA | New York | 3.82
+table_5,"Fewest Hits Allowed | New York | 1,357"
+table_5,Fewest Home Runs Allowed | New York | 156
+table_5,Fewest Walks Allowed | Minnesota | 458
+table_5,Saves | Boston | 53
+table_5,Shutouts | New York | 16
+table_5,"Strikeouts | Seattle | 1,156"

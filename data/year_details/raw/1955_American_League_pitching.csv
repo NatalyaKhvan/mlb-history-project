@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Whitey Ford | New York | 18 | Top 25
+table_2,ERA | Billy Pierce | Chicago | 1.97 | Top 25
+table_2,Games | Ray Narleski | Cleveland | 60 | Top 25
+table_2,Saves | Ray Narleski | Cleveland | 19 | Top 25
+table_2,Shutouts | Billy Hoeft | Detroit | 7 | Top 25
+table_2,Strikeouts | Herb Score | Cleveland | 245 | Top 25
+table_2,Winning Percentage | Tommy Byrne | New York | .762 | Top 25
+table_2,Wins | Whitey Ford | New York | 18 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Detroit | 66
+table_5,ERA | New York | 3.23
+table_5,"Fewest Hits Allowed | New York | 1,163"
+table_5,Fewest Home Runs Allowed | Washington | 99
+table_5,Fewest Walks Allowed | Chicago | 497
+table_5,Saves | Cleveland | 36
+table_5,Shutouts | Chicago | 20
+table_5,Strikeouts | Cleveland | 877

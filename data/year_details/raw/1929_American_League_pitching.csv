@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Tommy Thomas | Chicago | 24 | Top 25
+table_2,ERA | Lefty Grove | Philadelphia | 2.81 | Top 25
+table_2,Games | Firpo Marberry | Washington | 49 | Top 25
+table_2,Saves | Firpo Marberry | Washington | 11 | Top 25
+table_2,Shutouts | George Blaeholder | St. Louis | 5 | Top 25
+table_2,Strikeouts | Lefty Grove | Philadelphia | 170 | Top 25
+table_2,Winning Percentage | Lefty Grove | Philadelphia | .769 | Top 25
+table_2,Wins | George Earnshaw | Philadelphia | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Boston | 84
+table_5,ERA | Philadelphia | 3.44
+table_5,"Fewest Hits Allowed | Philadelphia | 1,371"
+table_5,Fewest Home Runs Allowed | Washington | 48
+table_5,Fewest Walks Allowed | St. Louis | 462
+table_5,Saves | Philadelphia | 24
+table_5,Shutouts | St. Louis | 15
+table_5,Strikeouts | Philadelphia | 573

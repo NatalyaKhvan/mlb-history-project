@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Andy Messersmith | Los Angeles | 19 | Top 25
+table_2,ERA | Randy Jones | San Diego | 2.24 | Top 25
+table_2,Games | Gene Garber | Philadelphia | 71 | Top 25
+table_2,Saves | Rawly Eastwick | Cincinnati | 22 | Top 25
+table_2,Shutouts | Andy Messersmith | Los Angeles | 7 | Top 25
+table_2,Strikeouts | Tom Seaver | New York | 243 | Top 25
+table_2,Winning Percentage | Don Gullett | Cincinnati | .789 | Top 25
+table_2,Wins | Tom Seaver | New York | 22 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Los Angeles | 51
+table_5,ERA | Los Angeles | 2.93
+table_5,"Fewest Hits Allowed | Los Angeles | 1,215"
+table_5,Fewest Home Runs Allowed | Pittsburgh | 79
+table_5,Fewest Walks Allowed | Los Angeles | 448
+table_5,Saves | Cincinnati | 50
+table_5,Shutouts | Los Angeles | 18
+table_5,Strikeouts | New York | 989

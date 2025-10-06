@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Greg Maddux | Atlanta | 10 | Top 25
+table_2,ERA | Greg Maddux | Atlanta | 1.63 | Top 25
+table_2,Games | Curt Leskanic | Colorado | 76 | Top 25
+table_2,Saves | Randy Myers | Chicago | 38 | Top 25
+table_2,Shutouts | Hideo Nomo | Los Angeles | 3 | Top 25
+table_2,Strikeouts | Hideo Nomo | Los Angeles | 236 | Top 25
+table_2,Winning Percentage | Greg Maddux | Atlanta | .905 | Top 25
+table_2,Wins | Greg Maddux | Atlanta | 19 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Atlanta | 18
+table_5,ERA | Atlanta | 3.44
+table_5,"Fewest Hits Allowed | Atlanta | 1,184"
+table_5,Fewest Home Runs Allowed | Atlanta | 107
+table_5,Fewest Walks Allowed | New York | 401
+table_5,Saves | Chicago | 45
+table_5,Shutouts | Chicago | 12
+table_5,"Strikeouts | Atlanta | 1,087"

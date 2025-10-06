@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Roger Clemens | Boston | 14 | Top 25
+table_2,ERA | Allan Anderson | Minnesota | 2.45 | Top 25
+table_2,Games | Chuck Crim | Milwaukee | 70 | Top 25
+table_2,Saves | Dennis Eckersley | Oakland | 45 | Top 25
+table_2,Shutouts | Roger Clemens | Boston | 8 | Top 25
+table_2,Strikeouts | Roger Clemens | Boston | 291 | Top 25
+table_2,Winning Percentage | Frank Viola | Minnesota | .774 | Top 25
+table_2,Wins | Frank Viola | Minnesota | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Texas | 41
+table_5,ERA | Oakland | 3.44
+table_5,"Fewest Hits Allowed | Texas | 1,310"
+table_5,Fewest Home Runs Allowed | Kansas City | 102
+table_5,Fewest Walks Allowed | Milwaukee | 437
+table_5,Saves | Oakland | 64
+table_5,Shutouts | Toronto | 17
+table_5,"Strikeouts | Boston | 1,085"
