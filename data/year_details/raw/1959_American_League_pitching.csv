@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Camilo Pascual | Washington | 17 | Top 25
+table_2,ERA | Hoyt Wilhelm | Baltimore | 2.19 | Top 25
+table_2,Games | Gerry Staley | Chicago | 67 | Top 25
+table_2,Saves | Turk Lown | Chicago | 15 | Top 25
+table_2,Shutouts | Camilo Pascual | Washington | 6 | Top 25
+table_2,Strikeouts | Jim Bunning | Detroit | 201 | Top 25
+table_2,Winning Percentage | Bob Shaw | Chicago | .750 | Top 25
+table_2,Wins | Early Wynn | Chicago | 22 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cleveland | 58
+table_5,ERA | Chicago | 3.29
+table_5,"Fewest Hits Allowed | Cleveland | 1,230"
+table_5,Fewest Home Runs Allowed | Baltimore | 111
+table_5,Fewest Walks Allowed | Detroit | 432
+table_5,Saves | Chicago | 36
+table_5,Shutouts | Baltimore | 15
+table_5,Strikeouts | New York | 836

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Camilo Pascual | Minnesota | 18 | Top 25
+table_2,ERA | Gary Peters | Chicago | 2.33 | Top 25
+table_2,Games | Stu Miller | Baltimore | 71 | Top 25
+table_2,Saves | Stu Miller | Baltimore | 27 | Top 25
+table_2,Shutouts | Ray Herbert | Chicago | 7 | Top 25
+table_2,Strikeouts | Camilo Pascual | Minnesota | 202 | Top 25
+table_2,Winning Percentage | Whitey Ford | New York | .774 | Top 25
+table_2,Wins | Whitey Ford | New York | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | New York | 59
+table_5,ERA | Chicago | 2.98
+table_5,"Fewest Hits Allowed | New York | 1,239"
+table_5,Fewest Home Runs Allowed | Chicago | 100
+table_5,Fewest Walks Allowed | Chicago | 440
+table_5,Saves | Baltimore | 43
+table_5,Shutouts | Chicago | 21
+table_5,"Strikeouts | Cleveland | 1,019"

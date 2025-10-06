@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Greg Maddux | Atlanta | 10 | Top 25
+table_2,ERA | Greg Maddux | Atlanta | 1.56 | Top 25
+table_2,Games | Steve Reed | Colorado | 61 | Top 25
+table_2,Saves | John Franco | New York | 30 | Top 25
+table_2,Shutouts | Greg Maddux | Atlanta | 3 | Top 25
+table_2,Strikeouts | Andy Benes | San Diego | 189 | Top 25
+table_2,Winning Percentage | Bret Saberhagen | New York | .778 | Top 25
+table_2,Wins | Ken Hill | Montreal | 16 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Atlanta | 16
+table_5,ERA | Montreal | 3.56
+table_5,Fewest Hits Allowed | Atlanta | 929
+table_5,Fewest Home Runs Allowed | Atlanta | 76
+table_5,Fewest Walks Allowed | Montreal | 288
+table_5,Saves | Montreal | 46
+table_5,Shutouts | Atlanta | 8
+table_5,Strikeouts | Atlanta | 865

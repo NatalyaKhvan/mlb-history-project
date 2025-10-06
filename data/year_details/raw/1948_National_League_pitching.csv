@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Johnny Sain | Boston | 28 | Top 25
+table_2,ERA | Harry Brecheen | St. Louis | 2.24 | Top 25
+table_2,Games | Harry Gumbert | Cincinnati | 61 | Top 25
+table_2,Saves | Harry Gumbert | Cincinnati | 17 | Top 25
+table_2,Shutouts | Harry Brecheen | St. Louis | 7 | Top 25
+table_2,Strikeouts | Harry Brecheen | St. Louis | 149 | Top 25
+table_2,Winning Percentage | Harry Brecheen | St. Louis | .741 | Top 25
+table_2,Wins | Johnny Sain | Boston | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Boston | 70
+table_5,ERA | Boston | 3.38
+table_5,"Fewest Hits Allowed | Brooklyn | 1,328"
+table_5,Fewest Home Runs Allowed | Chicago | 89
+table_5,Fewest Walks Allowed | Boston | 430
+table_5,Saves | Brooklyn | 22
+table_5,Shutouts | New York | 15
+table_5,Strikeouts | Brooklyn | 670

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Gaylord Perry | Cleveland | 29 | Top 25
+table_2,ERA | Luis Tiant | Boston | 1.91 | Top 25
+table_2,Games | Paul Lindblad | Texas | 66 | Top 25
+table_2,Saves | Sparky Lyle | New York | 35 | Top 25
+table_2,Shutouts | Nolan Ryan | California | 9 | Top 25
+table_2,Strikeouts | Nolan Ryan | California | 329 | Top 25
+table_2,Winning Percentage | Catfish Hunter | Oakland | .750 | Top 25
+table_2,Wins | Gaylord Perry | Cleveland | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Baltimore | 62
+table_5,ERA | Baltimore | 2.53
+table_5,"Fewest Hits Allowed | California | 1,109"
+table_5,Fewest Home Runs Allowed | Baltimore | 85
+table_5,Fewest Walks Allowed | Baltimore | 395
+table_5,Saves | Oakland | 43
+table_5,Shutouts | Oakland | 23
+table_5,"Strikeouts | California | 1,000"

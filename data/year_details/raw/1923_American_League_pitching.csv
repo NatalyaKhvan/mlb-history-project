@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | George Uhle | Cleveland | 29 | Top 25
+table_2,ERA | Stan Coveleski | Cleveland | 2.76 | Top 25
+table_2,Games | Eddie Rommel | Philadelphia | 56 | Top 25
+table_2,Saves | Allan Russell | Washington | 9 | Top 25
+table_2,Shutouts | Stan Coveleski | Cleveland | 5 | Top 25
+table_2,Strikeouts | Walter Johnson | Washington | 130 | Top 25
+table_2,Winning Percentage | Herb Pennock | New York | .760 | Top 25
+table_2,Wins | George Uhle | Cleveland | 26 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | New York | 101
+table_5,ERA | New York | 3.63
+table_5,"Fewest Hits Allowed | New York | 1,365"
+table_5,Fewest Home Runs Allowed | Cleveland | 36
+table_5,Fewest Walks Allowed | Detroit | 449
+table_5,Saves | Washington | 16
+table_5,Shutouts | Cleveland | 10
+table_5,Strikeouts | New York | 506

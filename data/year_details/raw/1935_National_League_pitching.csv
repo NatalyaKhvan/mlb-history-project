@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Dizzy Dean | St. Louis | 29 | Top 25
+table_2,ERA | Cy Blanton | Pittsburgh | 2.58 | Top 25
+table_2,Games | Orville Jorgens | Philadelphia | 53 | Top 25
+table_2,Saves | Dutch Leonard | Pittsburgh | 8 | Top 25
+table_2,Shutouts | Cy Blanton | Pittsburgh | 4 | Top 25
+table_2,Strikeouts | Dizzy Dean | St. Louis | 190 | Top 25
+table_2,Winning Percentage | Bill Lee | Chicago | .769 | Top 25
+table_2,Wins | Dizzy Dean | St. Louis | 28 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Chicago | 81
+table_5,ERA | Chicago | 3.26
+table_5,"Fewest Hits Allowed | Chicago | 1,417"
+table_5,Fewest Home Runs Allowed | Pittsburgh | 63
+table_5,Fewest Walks Allowed | Pittsburgh | 312
+table_5,Saves | Brooklyn | 20
+table_5,Shutouts | Pittsburgh | 15
+table_5,Strikeouts | St. Louis | 602

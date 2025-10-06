@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Cy Young | Boston | 41 | Top 25
+table_2,ERA | Ed Siever | Detroit | 1.91 | Top 25
+table_2,Games | Cy Young | Boston | 45 | Top 25
+table_2,Saves | Jack Powell | St. Louis | 2 | Top 25
+table_2,Shutouts | Addie Joss | Cleveland | 5 | Top 25
+table_2,Strikeouts | Rube Waddell | Philadelphia | 210 | Top 25
+table_2,Winning Percentage | Bill Bernhard | Philadelphia | .783 | Top 25
+table_2,Wins | Cy Young | Boston | 32 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Washington | 130
+table_5,ERA | Boston | 3.02
+table_5,"Fewest Hits Allowed | Cleveland | 1,199"
+table_5,Fewest Home Runs Allowed | Detroit | 20
+table_5,Fewest Walks Allowed | Washington | 312
+table_5,Saves | Cleveland | 3
+table_5,Shutouts | Cleveland | 16
+table_5,Strikeouts | Philadelphia | 455
+table_5,Statistic | Team | #

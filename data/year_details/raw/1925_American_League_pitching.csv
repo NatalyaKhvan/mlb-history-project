@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Howard Ehmke | Boston | 22 | Top 25
+table_2,ERA | Stan Coveleski | Washington | 2.84 | Top 25
+table_2,Games | Firpo Marberry | Washington | 55 | Top 25
+table_2,Saves | Firpo Marberry | Washington | 15 | Top 25
+table_2,Shutouts | Ted Lyons | Chicago | 5 | Top 25
+table_2,Strikeouts | Lefty Grove | Philadelphia | 116 | Top 25
+table_2,Winning Percentage | Stan Coveleski | Washington | .800 | Top 25
+table_2,Wins | Ted Lyons | Chicago | 21 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cleveland | 93
+table_5,ERA | Washington | 3.70
+table_5,"Fewest Hits Allowed | Washington | 1,434"
+table_5,Fewest Home Runs Allowed | Cleveland | 41
+table_5,Fewest Walks Allowed | Chicago | 489
+table_5,Saves | Washington | 21
+table_5,Shutouts | Chicago | 12
+table_5,Strikeouts | Philadelphia | 495

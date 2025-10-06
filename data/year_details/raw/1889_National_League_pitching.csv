@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | John Clarkson | Boston | 68 | Top 25
+table_2,ERA | John Clarkson | Boston | 2.73 | Top 25
+table_2,Games | John Clarkson | Boston | 73 | Top 25
+table_2,Saves | Bill Bishop | Chicago | 2 | Top 25
+table_2,Shutouts | John Clarkson | Boston | 8 | Top 25
+table_2,Strikeouts | John Clarkson | Boston | 284 | Top 25
+table_2,Winning Percentage | John Clarkson | Boston | .721 | Top 25
+table_2,Wins | John Clarkson | Boston | 49 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cleveland | 132
+table_5,ERA | Boston | 3.36
+table_5,"Fewest Hits Allowed | New York | 1,073"
+table_5,Fewest Home Runs Allowed | Philadelphia | 33
+table_5,Fewest Walks Allowed | Pittsburgh | 374
+table_5,Saves | Boston | 4
+table_5,Shutouts | Boston | 10
+table_5,Strikeouts | New York | 558
+table_5,Statistic | Team | #

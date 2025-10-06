@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Juan Marichal | San Francisco | 30 | Top 25
+table_2,ERA | Bob Gibson | St. Louis | 1.12 | Top 25
+table_2,Games | Ted Abernathy | Cincinnati | 78 | Top 25
+table_2,Saves | Phil Regan | Los Angeles | 25 | Top 25
+table_2,Shutouts | Bob Gibson | St. Louis | 13 | Top 25
+table_2,Strikeouts | Bob Gibson | St. Louis | 268 | Top 25
+table_2,Winning Percentage | Steve Blass | Pittsburgh | .750 | Top 25
+table_2,Wins | Juan Marichal | San Francisco | 26 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | San Francisco | 77
+table_5,ERA | St. Louis | 2.49
+table_5,"Fewest Hits Allowed | New York | 1,250"
+table_5,Fewest Home Runs Allowed | Los Angeles | 65
+table_5,Fewest Walks Allowed | San Francisco | 344
+table_5,Saves | Cincinnati | 38
+table_5,Shutouts | St. Louis | 30
+table_5,"Strikeouts | Houston | 1,021"

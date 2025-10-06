@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Red Faber | Chicago | 32 | Top 25
+table_2,ERA | Red Faber | Chicago | 2.48 | Top 25
+table_2,Games | Carl Mays | New York | 49 | Top 25
+table_2,Saves | Carl Mays | New York | 7 | Top 25
+table_2,Shutouts | Sam Jones | Boston | 5 | Top 25
+table_2,Strikeouts | Walter Johnson | Washington | 143 | Top 25
+table_2,Winning Percentage | Carl Mays | New York | .750 | Top 25
+table_2,Wins | Carl Mays | New York | 27 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | New York | 92
+table_5,ERA | New York | 3.82
+table_5,"Fewest Hits Allowed | New York | 1,461"
+table_5,Fewest Home Runs Allowed | Cleveland | 43
+table_5,Fewest Walks Allowed | Cleveland | 431
+table_5,Saves | Detroit | 17
+table_5,Shutouts | Cleveland | 11
+table_5,Strikeouts | New York | 481
+table_5,Statistic | Team | #

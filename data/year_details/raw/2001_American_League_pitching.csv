@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Steve Sparks | Detroit | 8 | Top 25
+table_2,ERA | Freddy Garcia | Seattle | 3.05 | Top 25
+table_2,Games | Paul Quantrill | Toronto | 80 | Top 25
+table_2,Saves | Mariano Rivera | New York | 50 | Top 25
+table_2,Shutouts | Mark Mulder | Oakland | 4 | Top 25
+table_2,Strikeouts | Hideo Nomo | Boston | 220 | Top 25
+table_2,Winning Percentage | Roger Clemens | New York | .870 | Top 25
+table_2,Wins | Mark Mulder | Oakland | 21 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Detroit | 16
+table_5,ERA | Seattle | 3.54
+table_5,"Fewest Hits Allowed | Seattle | 1,293"
+table_5,Fewest Home Runs Allowed | Boston | 146
+table_5,Fewest Walks Allowed | Oakland | 440
+table_5,Saves | New York | 57
+table_5,Shutouts | Seattle | 14
+table_5,"Strikeouts | New York | 1,266"

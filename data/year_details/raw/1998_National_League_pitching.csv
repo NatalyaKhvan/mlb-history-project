@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Curt Schilling | Philadelphia | 15 | Top 25
+table_2,ERA | Greg Maddux | Atlanta | 2.22 | Top 25
+table_2,Games | Rod Beck | Chicago | 81 | Top 25
+table_2,Saves | Trevor Hoffman | San Diego | 53 | Top 25
+table_2,Shutouts | Greg Maddux | Atlanta | 5 | Top 25
+table_2,Strikeouts | Curt Schilling | Philadelphia | 300 | Top 25
+table_2,Winning Percentage | John Smoltz | Atlanta | .850 | Top 25
+table_2,Wins | Tom Glavine | Atlanta | 20 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Atlanta | 24
+table_5,ERA | Atlanta | 3.25
+table_5,"Fewest Hits Allowed | Atlanta | 1,291"
+table_5,Fewest Home Runs Allowed | Atlanta | 117
+table_5,Fewest Walks Allowed | Houston | 465
+table_5,Saves | San Diego | 59
+table_5,Shutouts | Atlanta | 23
+table_5,"Strikeouts | Atlanta | 1,232"

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Steve Carlton | Philadelphia | 30 | Top 25
+table_2,ERA | Steve Carlton | Philadelphia | 1.97 | Top 25
+table_2,Games | Clay Carroll | Cincinnati | 65 | Top 25
+table_2,Saves | Clay Carroll | Cincinnati | 37 | Top 25
+table_2,Shutouts | Don Sutton | Los Angeles | 9 | Top 25
+table_2,Strikeouts | Steve Carlton | Philadelphia | 310 | Top 25
+table_2,Winning Percentage | Gary Nolan | Cincinnati | .750 | Top 25
+table_2,Wins | Steve Carlton | Philadelphia | 27 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | St. Louis | 64
+table_5,ERA | Los Angeles | 2.78
+table_5,"Fewest Hits Allowed | Los Angeles | 1,196"
+table_5,Fewest Home Runs Allowed | Los Angeles | 83
+table_5,Fewest Walks Allowed | Chicago | 421
+table_5,Saves | Cincinnati | 60
+table_5,Shutouts | Los Angeles | 23
+table_5,"Strikeouts | New York | 1,059"

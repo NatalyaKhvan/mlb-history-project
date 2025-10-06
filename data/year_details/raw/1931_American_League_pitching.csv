@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Wes Ferrell | Cleveland | 27 | Top 25
+table_2,ERA | Lefty Grove | Philadelphia | 2.06 | Top 25
+table_2,Games | Bump Hadley | Washington | 55 | Top 25
+table_2,Saves | Wilcy Moore | Boston | 10 | Top 25
+table_2,Shutouts | Lefty Grove | Philadelphia | 4 | Top 25
+table_2,Strikeouts | Lefty Grove | Philadelphia | 175 | Top 25
+table_2,Winning Percentage | Lefty Grove | Philadelphia | .886 | Top 25
+table_2,Wins | Lefty Grove | Philadelphia | 31 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Philadelphia | 97
+table_5,ERA | Philadelphia | 3.47
+table_5,"Fewest Hits Allowed | Philadelphia | 1,342"
+table_5,Fewest Home Runs Allowed | Boston | 54
+table_5,Fewest Walks Allowed | St. Louis | 448
+table_5,Saves | Washington | 24
+table_5,Shutouts | Philadelphia | 12
+table_5,Strikeouts | New York | 686

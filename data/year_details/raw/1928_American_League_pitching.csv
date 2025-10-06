@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Red Ruffing | Boston | 25 | Top 25
+table_2,ERA | Garland Braxton | Washington | 2.51 | Top 25
+table_2,Games | Firpo Marberry | Washington | 48 | Top 25
+table_2,Saves | Waite Hoyt | New York | 8 | Top 25
+table_2,Shutouts | Herb Pennock | New York | 5 | Top 25
+table_2,Strikeouts | Lefty Grove | Philadelphia | 183 | Top 25
+table_2,Winning Percentage | Alvin Crowder | St. Louis | .808 | Top 25
+table_2,Wins | Lefty Grove | Philadelphia | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Chicago | 88
+table_5,ERA | Philadelphia | 3.37
+table_5,"Fewest Hits Allowed | Philadelphia | 1,349"
+table_5,Fewest Home Runs Allowed | Washington | 40
+table_5,Fewest Walks Allowed | Philadelphia | 424
+table_5,Saves | New York | 21
+table_5,Shutouts | Philadelphia | 15
+table_5,Strikeouts | Philadelphia | 607

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Curt Schilling | Philadelphia | 8 | Top 25
+table_2,ERA | Kevin Brown | Florida | 1.89 | Top 25
+table_2,Games | Brad Clontz | Atlanta | 81 | Top 25
+table_2,Saves | Jeff Brantley | Cincinnati | 44 | Top 25
+table_2,Shutouts | Kevin Brown | Florida | 3 | Top 25
+table_2,Strikeouts | John Smoltz | Atlanta | 276 | Top 25
+table_2,Winning Percentage | John Smoltz | Atlanta | .750 | Top 25
+table_2,Wins | John Smoltz | Atlanta | 24 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Atlanta | 14
+table_5,ERA | Los Angeles | 3.46
+table_5,"Fewest Hits Allowed | Montreal | 1,353"
+table_5,Fewest Home Runs Allowed | Florida | 113
+table_5,Fewest Walks Allowed | Atlanta | 451
+table_5,Saves | Cincinnati | 52
+table_5,Shutouts | Florida | 13
+table_5,"Strikeouts | Atlanta | 1,245"

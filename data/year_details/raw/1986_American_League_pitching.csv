@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Tom Candiotti | Cleveland | 17 | Top 25
+table_2,ERA | Roger Clemens | Boston | 2.48 | Top 25
+table_2,Games | Mitch Williams | Texas | 80 | Top 25
+table_2,Saves | Dave Righetti | New York | 46 | Top 25
+table_2,Shutouts | Jack Morris | Detroit | 6 | Top 25
+table_2,Strikeouts | Mark Langston | Seattle | 245 | Top 25
+table_2,Winning Percentage | Roger Clemens | Boston | .857 | Top 25
+table_2,Wins | Roger Clemens | Boston | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Minnesota | 39
+table_5,ERA | Kansas City | 3.82
+table_5,"Fewest Hits Allowed | Oakland | 1,334"
+table_5,Fewest Home Runs Allowed | Kansas City | 121
+table_5,Fewest Walks Allowed | Boston | 474
+table_5,Saves | New York | 58
+table_5,Shutouts | Kansas City | 13
+table_5,"Strikeouts | Texas | 1,059"

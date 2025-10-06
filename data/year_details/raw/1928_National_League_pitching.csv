@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Larry Benton | New York | 28 | Top 25
+table_2,ERA | Dazzy Vance | Brooklyn | 2.09 | Top 25
+table_2,Games | Burleigh Grimes | Pittsburgh | 48 | Top 25
+table_2,Saves | Hal Haid | St. Louis | 5 | Top 25
+table_2,Shutouts | Sheriff Blake | Chicago | 4 | Top 25
+table_2,Strikeouts | Dazzy Vance | Brooklyn | 200 | Top 25
+table_2,Winning Percentage | Larry Benton | New York | .735 | Top 25
+table_2,Wins | Larry Benton | New York | 25 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | St. Louis | 83
+table_5,ERA | Brooklyn | 3.25
+table_5,"Fewest Hits Allowed | Brooklyn | 1,378"
+table_5,Fewest Home Runs Allowed | Chicago | 56
+table_5,Fewest Walks Allowed | St. Louis | 399
+table_5,Saves | St. Louis | 21
+table_5,Shutouts | Brooklyn | 16
+table_5,Strikeouts | Brooklyn | 551

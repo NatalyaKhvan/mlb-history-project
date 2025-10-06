@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bill Donovan | Detroit | 34 | Top 25
+table_2,ERA | Earl Moore | Cleveland | 1.74 | Top 25
+table_2,Games | Eddie Plank | Philadelphia | 43 | Top 25
+table_2,Saves | Bill Dinneen | Boston | 2 | Top 25
+table_2,Shutouts | Cy Young | Boston | 7 | Top 25
+table_2,Strikeouts | Rube Waddell | Philadelphia | 302 | Top 25
+table_2,Winning Percentage | Cy Young | Boston | .757 | Top 25
+table_2,Wins | Cy Young | Boston | 28 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cleveland | 125
+table_5,ERA | Boston | 2.57
+table_5,"Fewest Hits Allowed | Philadelphia | 1,124"
+table_5,Fewest Home Runs Allowed | Cleveland | 16
+table_5,Fewest Walks Allowed | St. Louis | 237
+table_5,Saves | Boston | 4
+table_5,Shutouts | Boston | 20
+table_5,Strikeouts | Philadelphia | 728
+table_5,Statistic | Team | #

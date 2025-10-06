@@ -1,13 +1,15 @@
 # MLB History Web Scraping & Streamlit App
 
-This project scrapes historical baseball data from the Major League Baseball History website, stores it in a SQLite database, and visualizes insights using an interactive Streamlit app.
+This project scrapes historical **pitching data** from the Major League Baseball History website, stores it in a SQLite database, and visualizes insights using an interactive Streamlit app.
 
 ## Project Structure
 
-- `data/` – CSV files of raw and processed data
+- `data/`
+  - `raw/` – Raw CSV files of pitching data for each year
+  - `processed/` – Cleaned CSV files ready for database import
 - `notebooks/` – Exploratory analysis and visualizations
 - `src/` – Python scripts for:
-  - Web scraping
+  - Web scraping pitching statistics
   - Database import
   - Database query
   - Streamlit app

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Burleigh Grimes | Brooklyn | 33 | Top 25
+table_2,ERA | Dolf Luque | Cincinnati | 1.93 | Top 25
+table_2,Games | Claude Jonnard | New York | 45 | Top 25
+table_2,Saves | Claude Jonnard | New York | 5 | Top 25
+table_2,Shutouts | Dolf Luque | Cincinnati | 5 | Top 25
+table_2,Strikeouts | Dazzy Vance | Brooklyn | 197 | Top 25
+table_2,Winning Percentage | Dolf Luque | Cincinnati | .771 | Top 25
+table_2,Wins | Dolf Luque | Cincinnati | 27 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Brooklyn | 94
+table_5,ERA | Cincinnati | 3.22
+table_5,"Fewest Hits Allowed | Chicago | 1,419"
+table_5,Fewest Home Runs Allowed | Cincinnati | 28
+table_5,Fewest Walks Allowed | Cincinnati | 359
+table_5,Saves | New York | 18
+table_5,Shutouts | Boston | 13
+table_5,Strikeouts | Brooklyn | 548

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bert Blyleven | Cleveland | 24 | Top 25
+table_2,ERA | Dave Stieb | Toronto | 2.48 | Top 25
+table_2,Games | Dan Quisenberry | Kansas City | 84 | Top 25
+table_2,Saves | Dan Quisenberry | Kansas City | 37 | Top 25
+table_2,Shutouts | Bert Blyleven | Cleveland | 5 | Top 25
+table_2,Strikeouts | Bert Blyleven | Cleveland | 206 | Top 25
+table_2,Winning Percentage | Ron Guidry | New York | .786 | Top 25
+table_2,Wins | Ron Guidry | New York | 22 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Minnesota | 41
+table_5,ERA | Toronto | 3.31
+table_5,"Fewest Hits Allowed | Toronto | 1,312"
+table_5,Fewest Home Runs Allowed | Kansas City | 103
+table_5,Fewest Walks Allowed | Minnesota | 462
+table_5,Saves | New York | 49
+table_5,Shutouts | Detroit | 11
+table_5,"Strikeouts | Chicago | 1,023"

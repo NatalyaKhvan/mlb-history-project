@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | David Wells | Toronto | 7 | Top 25
+table_2,ERA | Pedro Martinez | Boston | 2.07 | Top 25
+table_2,Games | Buddy Groom | Oakland | 76 | Top 25
+table_2,Saves | Mariano Rivera | New York | 45 | Top 25
+table_2,Shutouts | Scott Erickson | Baltimore | 3 | Top 25
+table_2,Strikeouts | Pedro Martinez | Boston | 313 | Top 25
+table_2,Winning Percentage | Pedro Martinez | Boston | .852 | Top 25
+table_2,Wins | Pedro Martinez | Boston | 23 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Baltimore | 17
+table_5,ERA | Boston | 4.00
+table_5,"Fewest Hits Allowed | Boston | 1,396"
+table_5,Fewest Home Runs Allowed | New York | 158
+table_5,Fewest Walks Allowed | Boston | 469
+table_5,Saves | Boston | 50
+table_5,Shutouts | Baltimore | 4
+table_5,"Strikeouts | Boston | 1,131"

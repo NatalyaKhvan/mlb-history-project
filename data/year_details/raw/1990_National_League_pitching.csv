@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Ramon Martinez | Los Angeles | 12 | Top 25
+table_2,ERA | Danny Darwin | Houston | 2.21 | Top 25
+table_2,Games | Juan Agosto | Houston | 82 | Top 25
+table_2,Saves | John Franco | New York | 33 | Top 25
+table_2,Shutouts | Bruce Hurst | San Diego | 4 | Top 25
+table_2,Strikeouts | David Cone | New York | 233 | Top 25
+table_2,Winning Percentage | Doug Drabek | Pittsburgh | .786 | Top 25
+table_2,Wins | Doug Drabek | Pittsburgh | 22 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Los Angeles | 29
+table_5,ERA | Montreal | 3.37
+table_5,"Fewest Hits Allowed | Cincinnati | 1,338"
+table_5,Fewest Home Runs Allowed | St. Louis | 98
+table_5,Fewest Walks Allowed | Pittsburgh | 413
+table_5,Saves | Cincinnati | 50
+table_5,Shutouts | New York | 14
+table_5,"Strikeouts | New York | 1,217"

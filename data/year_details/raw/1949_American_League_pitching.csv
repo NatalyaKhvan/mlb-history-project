@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Mel Parnell | Boston | 27 | Top 25
+table_2,ERA | Mike Garcia | Cleveland | 2.36 | Top 25
+table_2,Games | Joe Page | New York | 60 | Top 25
+table_2,Saves | Joe Page | New York | 27 | Top 25
+table_2,Shutouts | Ellis Kinder | Boston | 6 | Top 25
+table_2,Strikeouts | Virgil Trucks | Detroit | 153 | Top 25
+table_2,Winning Percentage | Ellis Kinder | Boston | .793 | Top 25
+table_2,Wins | Mel Parnell | Boston | 25 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Philadelphia | 85
+table_5,ERA | Cleveland | 3.36
+table_5,"Fewest Hits Allowed | New York | 1,231"
+table_5,Fewest Home Runs Allowed | Washington | 79
+table_5,Fewest Walks Allowed | Cleveland | 611
+table_5,Saves | New York | 36
+table_5,Shutouts | Detroit | 19
+table_5,Strikeouts | New York | 671

@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name | Team | # | Top 25
+table_2,Complete Games | Terry Mulholland | Philadelphia | 12 | Top 25
+table_2,ERA | Bill Swift | San Francisco | 2.08 | Top 25
+table_2,Games | Joe Boever | Houston | 81 | Top 25
+table_2,Saves | Lee Smith | St. Louis | 43 | Top 25
+table_2,Shutouts | David Cone | New York | 5 | Top 25
+table_2,Strikeouts | John Smoltz | Atlanta | 215 | Top 25
+table_2,Winning Percentage | Bob Tewksbury | St. Louis | .762 | Top 25
+table_2,Wins | Tom Glavine | Atlanta | 20 | Top 25
+table_2,Statistic | Name | Team | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Philadelphia | 27
+table_5,ERA | Atlanta | 3.14
+table_5,"Fewest Hits Allowed | Montreal | 1,296"
+table_5,Fewest Home Runs Allowed | Los Angeles | 82
+table_5,Fewest Walks Allowed | St. Louis | 400
+table_5,Saves | Cincinnati | 55
+table_5,Shutouts | Atlanta | 24
+table_5,"Strikeouts | Cincinnati | 1,060"

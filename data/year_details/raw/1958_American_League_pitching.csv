@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Frank Lary | Detroit | 19 | Top 25
+table_2,ERA | Whitey Ford | New York | 2.01 | Top 25
+table_2,Games | Tex Clevenger | Washington | 55 | Top 25
+table_2,Saves | Ryne Duren | New York | 20 | Top 25
+table_2,Shutouts | Whitey Ford | New York | 7 | Top 25
+table_2,Strikeouts | Early Wynn | Chicago | 179 | Top 25
+table_2,Winning Percentage | Bob Turley | New York | .750 | Top 25
+table_2,Wins | Bob Turley | New York | 21 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Detroit | 59
+table_5,ERA | New York | 3.22
+table_5,"Fewest Hits Allowed | New York | 1,201"
+table_5,Fewest Home Runs Allowed | Baltimore | 106
+table_5,Fewest Walks Allowed | Baltimore | 403
+table_5,Saves | New York | 33
+table_5,Shutouts | New York | 21
+table_5,Strikeouts | Detroit | 797

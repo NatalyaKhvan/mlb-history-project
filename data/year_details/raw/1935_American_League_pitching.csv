@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Wes Ferrell | Boston | 31 | Top 25
+table_2,ERA | Lefty Grove | Boston | 2.70 | Top 25
+table_2,Games | Russ Van Atta | New York | 58 | Top 25
+table_2,Saves | Jack Knott | St. Louis | 7 | Top 25
+table_2,Shutouts | Schoolboy Rowe | Detroit | 6 | Top 25
+table_2,Strikeouts | Tommy Bridges | Detroit | 163 | Top 25
+table_2,Winning Percentage | Elden Auker | Detroit | .720 | Top 25
+table_2,Wins | Wes Ferrell | Boston | 25 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Detroit | 87
+table_5,ERA | New York | 3.60
+table_5,"Fewest Hits Allowed | New York | 1,276"
+table_5,Fewest Home Runs Allowed | Boston | 67
+table_5,Fewest Walks Allowed | Cleveland | 457
+table_5,Saves | Cleveland | 21
+table_5,Shutouts | Detroit | 16
+table_5,Strikeouts | New York | 594

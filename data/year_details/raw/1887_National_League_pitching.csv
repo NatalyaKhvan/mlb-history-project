@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | John Clarkson | Chicago | 56 | Top 25
+table_2,ERA | Dan Casey | Philadelphia | 2.86 | Top 25
+table_2,Games | John Clarkson | Chicago | 60 | Top 25
+table_2,Saves | Lady Baldwin | Chicago | 1 | Top 25
+table_2,Shutouts | Dan Casey | Philadelphia | 4 | Top 25
+table_2,Strikeouts | John Clarkson | Chicago | 237 | Top 25
+table_2,Winning Percentage | Charlie Getzien | Detroit | .690 | Top 25
+table_2,Wins | John Clarkson | Chicago | 38 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Washington | 124
+table_5,ERA | Chicago | 3.46
+table_5,"Fewest Hits Allowed | New York | 1,096"
+table_5,Fewest Home Runs Allowed | New York | 27
+table_5,Fewest Walks Allowed | Pittsburgh | 246
+table_5,Saves | Chicago | 3
+table_5,Shutouts | Philadelphia | 7
+table_5,Strikeouts | Chicago | 510

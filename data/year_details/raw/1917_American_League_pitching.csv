@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Babe Ruth | Boston | 35 | Top 25
+table_2,ERA | Eddie Cicotte | Chicago | 1.53 | Top 25
+table_2,Games | Dave Danforth | Chicago | 50 | Top 25
+table_2,Saves | Dave Danforth | Chicago | 9 | Top 25
+table_2,Shutouts | Stan Coveleski | Cleveland | 9 | Top 25
+table_2,Strikeouts | Walter Johnson | Washington | 188 | Top 25
+table_2,Winning Percentage | Ed Klepfer | Cleveland | .778 | Top 25
+table_2,Wins | Eddie Cicotte | Chicago | 28 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Boston | 115
+table_5,ERA | Chicago | 2.16
+table_5,"Fewest Hits Allowed | Boston | 1,197"
+table_5,Fewest Home Runs Allowed | Chicago | 10
+table_5,Fewest Walks Allowed | Boston | 413
+table_5,Saves | Cleveland | 22
+table_5,Shutouts | Chicago | 22
+table_5,Strikeouts | Washington | 637
+table_5,Statistic | Team | #

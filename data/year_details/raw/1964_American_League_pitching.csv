@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Dean Chance | Los Angeles | 19 | Top 25
+table_2,ERA | Dean Chance | Los Angeles | 1.65 | Top 25
+table_2,Games | John Wyatt | Kansas City | 81 | Top 25
+table_2,Saves | Dick Radatz | Boston | 29 | Top 25
+table_2,Shutouts | Dean Chance | Los Angeles | 11 | Top 25
+table_2,Strikeouts | Al Downing | New York | 217 | Top 25
+table_2,Winning Percentage | Wally Bunker | Baltimore | .792 | Top 25
+table_2,Wins | Dean Chance | Los Angeles | 20 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Minnesota | 47
+table_5,ERA | Chicago | 2.73
+table_5,"Fewest Hits Allowed | Chicago | 1,216"
+table_5,Fewest Home Runs Allowed | Los Angeles | 100
+table_5,Fewest Walks Allowed | Chicago | 401
+table_5,Saves | Chicago | 45
+table_5,Shutouts | Los Angeles | 28
+table_5,"Strikeouts | Cleveland | 1,162"

@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bill Carrick | New York | 40 | Top 25
+table_2,ERA | Vic Willis | Boston | 2.50 | Top 25
+table_2,Games | Sam Leever | Pittsburgh | 51 | Top 25
+table_2,Saves | Sam Leever | Pittsburgh | 3 | Top 25
+table_2,Shutouts | Vic Willis | Boston | 5 | Top 25
+table_2,Strikeouts | Noodles Hahn | Cincinnati | 145 | Top 25
+table_2,Winning Percentage | Jay Hughes | Brooklyn | .824 | Top 25
+table_2,Wins | Jay Hughes | Brooklyn | 28 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Chicago | 147
+table_5,ERA | Brooklyn | 3.25
+table_5,"Fewest Hits Allowed | Boston | 1,273"
+table_5,Fewest Home Runs Allowed | Baltimore | 13
+table_5,Fewest Walks Allowed | St. Louis | 321
+table_5,Saves | Brooklyn | 9
+table_5,Shutouts | Philadelphia | 15
+table_5,Strikeouts | New York | 397
+table_5,Statistic | Team | #

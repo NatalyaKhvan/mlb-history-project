@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bob Lemon | Cleveland | 21 | Top 25
+table_2,ERA | Whitey Ford | New York | 2.47 | Top 25
+table_2,Games | George Zuverink | Baltimore | 62 | Top 25
+table_2,Saves | George Zuverink | Baltimore | 16 | Top 25
+table_2,Shutouts | Herb Score | Cleveland | 5 | Top 25
+table_2,Strikeouts | Herb Score | Cleveland | 263 | Top 25
+table_2,Winning Percentage | Whitey Ford | New York | .760 | Top 25
+table_2,Wins | Frank Lary | Detroit | 21 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cleveland | 67
+table_5,ERA | Cleveland | 3.33
+table_5,"Fewest Hits Allowed | Cleveland | 1,233"
+table_5,Fewest Home Runs Allowed | Baltimore | 99
+table_5,Fewest Walks Allowed | Chicago | 524
+table_5,Saves | New York | 35
+table_5,Shutouts | Cleveland | 17
+table_5,Strikeouts | Cleveland | 845

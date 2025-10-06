@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Bob Lemon | Cleveland | 28 | Top 25
+table_2,ERA | Allie Reynolds | New York | 2.06 | Top 25
+table_2,Games | Bill Kennedy | Chicago | 47 | Top 25
+table_2,Saves | Harry Dorish | Chicago | 11 | Top 25
+table_2,Shutouts | Mike Garcia | Cleveland | 6 | Top 25
+table_2,Strikeouts | Allie Reynolds | New York | 160 | Top 25
+table_2,Winning Percentage | Bobby Shantz | Philadelphia | .774 | Top 25
+table_2,Wins | Bobby Shantz | Philadelphia | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cleveland | 80
+table_5,ERA | New York | 3.15
+table_5,"Fewest Hits Allowed | New York | 1,240"
+table_5,Fewest Home Runs Allowed | Washington | 78
+table_5,Fewest Walks Allowed | Philadelphia | 526
+table_5,Saves | Chicago | 28
+table_5,Shutouts | New York | 21
+table_5,Strikeouts | Chicago | 774

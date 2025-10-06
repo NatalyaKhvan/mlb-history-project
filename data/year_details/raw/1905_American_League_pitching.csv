@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Harry Howell | St. Louis | 35 | Top 25
+table_2,ERA | Rube Waddell | Philadelphia | 1.48 | Top 25
+table_2,Games | Rube Waddell | Philadelphia | 46 | Top 25
+table_2,Saves | Jim Buchanan | St. Louis | 2 | Top 25
+table_2,Shutouts | Ed Killian | Detroit | 8 | Top 25
+table_2,Strikeouts | Rube Waddell | Philadelphia | 287 | Top 25
+table_2,Winning Percentage | Rube Waddell | Philadelphia | .730 | Top 25
+table_2,Wins | Rube Waddell | Philadelphia | 27 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Cleveland | 140
+table_5,ERA | Chicago | 1.99
+table_5,"Fewest Hits Allowed | Philadelphia | 1,137"
+table_5,Fewest Home Runs Allowed | Chicago | 11
+table_5,Fewest Walks Allowed | Boston | 292
+table_5,Saves | New York | 4
+table_5,Shutouts | Philadelphia | 19
+table_5,Strikeouts | Philadelphia | 895

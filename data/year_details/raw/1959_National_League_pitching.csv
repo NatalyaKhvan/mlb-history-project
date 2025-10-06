@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Warren Spahn | Milwaukee | 21 | Top 25
+table_2,ERA | Sam Jones | San Francisco | 2.83 | Top 25
+table_2,Games | Don Elston | Chicago | 65 | Top 25
+table_2,Saves | Lindy McDaniel | St. Louis | 15 | Top 25
+table_2,Shutouts | Johnny Antonelli | San Francisco | 4 | Top 25
+table_2,Strikeouts | Don Drysdale | Los Angeles | 242 | Top 25
+table_2,Winning Percentage | Roy Face | Pittsburgh | .947 | Top 25
+table_2,Wins | Lew Burdette | Milwaukee | 21 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Milwaukee | 69
+table_5,ERA | San Francisco | 3.47
+table_5,"Fewest Hits Allowed | San Francisco | 1,279"
+table_5,Fewest Home Runs Allowed | Milwaukee | 128
+table_5,Fewest Walks Allowed | Pittsburgh | 418
+table_5,Saves | Cincinnati | 26
+table_5,Shutouts | Milwaukee | 18
+table_5,"Strikeouts | Los Angeles | 1,077"

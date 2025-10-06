@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Stoney McGlynn | St. Louis | 33 | Top 25
+table_2,ERA | Jack Pfiester | Chicago | 1.15 | Top 25
+table_2,Games | Joe McGinnity | New York | 47 | Top 25
+table_2,Saves | Joe McGinnity | New York | 4 | Top 25
+table_2,Shutouts | Christy Mathewson | New York | 8 | Top 25
+table_2,Strikeouts | Christy Mathewson | New York | 178 | Top 25
+table_2,Winning Percentage | Ed Reulbach | Chicago | .810 | Top 25
+table_2,Wins | Christy Mathewson | New York | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | St. Louis | 127
+table_5,ERA | Chicago | 1.73
+table_5,"Fewest Hits Allowed | Chicago | 1,054"
+table_5,Fewest Home Runs Allowed | Chicago | 11
+table_5,Fewest Walks Allowed | Pittsburgh | 368
+table_5,Saves | New York | 13
+table_5,Shutouts | Chicago | 32
+table_5,Strikeouts | New York | 655
+table_5,Statistic | Team | #

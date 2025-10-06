@@ -1,0 +1,21 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Grover Alexander | Philadelphia | 36 | Top 25
+table_2,ERA | Grover Alexander | Philadelphia | 1.22 | Top 25
+table_2,Games | Tom Hughes | Boston | 50 | Top 25
+table_2,Saves | Tom Hughes | Boston | 9 | Top 25
+table_2,Shutouts | Grover Alexander | Philadelphia | 12 | Top 25
+table_2,Strikeouts | Grover Alexander | Philadelphia | 241 | Top 25
+table_2,Winning Percentage | Grover Alexander | Philadelphia | .756 | Top 25
+table_2,Wins | Grover Alexander | Philadelphia | 31 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | Philadelphia | 98
+table_5,ERA | Philadelphia | 2.17
+table_5,"Fewest Hits Allowed | Philadelphia | 1,161"
+table_5,Fewest Home Runs Allowed | Pittsburgh | 21
+table_5,Fewest Walks Allowed | New York | 325
+table_5,Saves | Boston | 13
+table_5,Shutouts | Philadelphia | 20
+table_5,Strikeouts | Chicago | 657
+table_5,Statistic | Team | #

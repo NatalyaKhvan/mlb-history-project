@@ -1,0 +1,20 @@
+category,text
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_2,Complete Games | Dwight Gooden | New York | 16 | Top 25
+table_2,ERA | Dwight Gooden | New York | 1.53 | Top 25
+table_2,Games | Tim Burke | Montreal | 78 | Top 25
+table_2,Saves | Jeff Reardon | Montreal | 41 | Top 25
+table_2,Shutouts | John Tudor | St. Louis | 10 | Top 25
+table_2,Strikeouts | Dwight Gooden | New York | 268 | Top 25
+table_2,Winning Percentage | Orel Hershiser | Los Angeles | .864 | Top 25
+table_2,Wins | Dwight Gooden | New York | 24 | Top 25
+table_2,Statistic | Name(s) | Team(s) | # | Top 25
+table_5,Statistic | Team | #
+table_5,Complete Games | St. Louis | 37
+table_5,ERA | Los Angeles | 2.96
+table_5,"Fewest Hits Allowed | Los Angeles | 1,280"
+table_5,Fewest Home Runs Allowed | St. Louis | 98
+table_5,Fewest Walks Allowed | San Diego | 443
+table_5,Saves | Montreal | 53
+table_5,Shutouts | Los Angeles | 21
+table_5,"Strikeouts | New York | 1,039"
