@@ -49,4 +49,4 @@ Usage:
 
 ## Screenshot
 
-![Streamlit App Screenshot](path/to/screenshot.png)
+![Streamlit App Screenshot](screenshots/streamlit_app.png)
