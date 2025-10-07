@@ -50,3 +50,7 @@ Usage:
 ## Screenshot
 
 ![Streamlit App Screenshot](screenshots/streamlit_app.png)
+
+## Live Demo
+
+Check out the dashboard live: [MLB Dashboard](https://mlb-dashboard-r88h.onrender.com)
