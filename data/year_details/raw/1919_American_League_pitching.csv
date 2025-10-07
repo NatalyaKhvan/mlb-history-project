@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Eddie Cicotte | Chicago | 30 | Top 25
-table_2,ERA | Walter Johnson | Washington | 1.49 | Top 25
-table_2,Games | Jim Shaw | Washington | 45 | Top 25
-table_2,Saves | Allan Russell | New York | 5 | Top 25
-table_2,Shutouts | Walter Johnson | Washington | 7 | Top 25
-table_2,Strikeouts | Walter Johnson | Washington | 147 | Top 25
-table_2,Winning Percentage | Eddie Cicotte | Chicago | .806 | Top 25
-table_2,Wins | Eddie Cicotte | Chicago | 29 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 89
-table_5,ERA | New York | 2.82
-table_5,"Fewest Hits Allowed | New York | 1,143"
-table_5,Fewest Home Runs Allowed | Boston | 16
-table_5,Fewest Walks Allowed | Chicago | 342
-table_5,Saves | Cleveland | 10
-table_5,Shutouts | Boston | 15
-table_5,Strikeouts | Washington | 536
-table_5,Statistic | Team | #
+year,league,category,text
+1919,American League,table_2,Complete Games | Eddie Cicotte | Chicago | 30
+1919,American League,table_2,ERA | Walter Johnson | Washington | 1.49
+1919,American League,table_2,Games | Jim Shaw | Washington | 45
+1919,American League,table_2,Saves | Allan Russell | New York | 5
+1919,American League,table_2,Shutouts | Walter Johnson | Washington | 7
+1919,American League,table_2,Strikeouts | Walter Johnson | Washington | 147
+1919,American League,table_2,Winning Percentage | Eddie Cicotte | Chicago | .806
+1919,American League,table_2,Wins | Eddie Cicotte | Chicago | 29
+1919,American League,table_5,Complete Games | Boston | 89
+1919,American League,table_5,ERA | New York | 2.82
+1919,American League,table_5,"Fewest Hits Allowed | New York | 1,143"
+1919,American League,table_5,Fewest Home Runs Allowed | Boston | 16
+1919,American League,table_5,Fewest Walks Allowed | Chicago | 342
+1919,American League,table_5,Saves | Cleveland | 10
+1919,American League,table_5,Shutouts | Boston | 15
+1919,American League,table_5,Strikeouts | Washington | 536

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Toronto,15
-table_5,ERA,Boston,4.24
-table_5,Fewest Hits Allowed,Boston,"1,433"
-table_5,Fewest Home Runs Allowed,Oakland,158
-table_5,Fewest Walks Allowed,Detroit,496
-table_5,Saves,Anaheim,46
-table_5,Shutouts,Boston,12
-table_5,Strikeouts,Cleveland,"1,213"
+Year,Category,Statistic,Team,Value
+2000,Team Pitching Stats,Complete Games,Toronto,15
+2000,Team Pitching Stats,ERA,Boston,4.24
+2000,Team Pitching Stats,Fewest Hits Allowed,Boston,"1,433"
+2000,Team Pitching Stats,Fewest Home Runs Allowed,Oakland,158
+2000,Team Pitching Stats,Fewest Walks Allowed,Detroit,496
+2000,Team Pitching Stats,Saves,Anaheim,46
+2000,Team Pitching Stats,Shutouts,Boston,12
+2000,Team Pitching Stats,Strikeouts,Cleveland,"1,213"

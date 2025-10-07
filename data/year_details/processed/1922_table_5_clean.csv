@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cincinnati,88
-table_5,ERA,New York,3.45
-table_5,Fewest Hits Allowed,New York,"1,454"
-table_5,Fewest Home Runs Allowed,Cincinnati,49
-table_5,Fewest Walks Allowed,Cincinnati,326
-table_5,Saves,New York,15
-table_5,Shutouts,Pittsburgh,15
-table_5,Strikeouts,Brooklyn,499
+Year,Category,Statistic,Team,Value
+1922,Team Pitching Stats,Complete Games,Cincinnati,88
+1922,Team Pitching Stats,ERA,New York,3.45
+1922,Team Pitching Stats,Fewest Hits Allowed,New York,"1,454"
+1922,Team Pitching Stats,Fewest Home Runs Allowed,Cincinnati,49
+1922,Team Pitching Stats,Fewest Walks Allowed,Cincinnati,326
+1922,Team Pitching Stats,Saves,New York,15
+1922,Team Pitching Stats,Shutouts,Pittsburgh,15
+1922,Team Pitching Stats,Strikeouts,Brooklyn,499

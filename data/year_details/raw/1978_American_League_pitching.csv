@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Mike Caldwell | Milwaukee | 23 | Top 25
-table_2,ERA | Ron Guidry | New York | 1.74 | Top 25
-table_2,Games | Bob Lacey | Oakland | 74 | Top 25
-table_2,Saves | Rich Gossage | New York | 27 | Top 25
-table_2,Shutouts | Ron Guidry | New York | 9 | Top 25
-table_2,Strikeouts | Nolan Ryan | California | 260 | Top 25
-table_2,Winning Percentage | Ron Guidry | New York | .893 | Top 25
-table_2,Wins | Ron Guidry | New York | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Baltimore | 65
-table_5,ERA | New York | 3.18
-table_5,"Fewest Hits Allowed | New York | 1,321"
-table_5,Fewest Home Runs Allowed | Cleveland | 100
-table_5,Fewest Walks Allowed | Milwaukee | 398
-table_5,Saves | New York | 36
-table_5,Shutouts | Milwaukee | 19
-table_5,Strikeouts | California | 892
-table_5,Statistic | Team | #
+year,league,category,text
+1978,American League,table_2,Complete Games | Mike Caldwell | Milwaukee | 23
+1978,American League,table_2,ERA | Ron Guidry | New York | 1.74
+1978,American League,table_2,Games | Bob Lacey | Oakland | 74
+1978,American League,table_2,Saves | Rich Gossage | New York | 27
+1978,American League,table_2,Shutouts | Ron Guidry | New York | 9
+1978,American League,table_2,Strikeouts | Nolan Ryan | California | 260
+1978,American League,table_2,Winning Percentage | Ron Guidry | New York | .893
+1978,American League,table_2,Wins | Ron Guidry | New York | 25
+1978,American League,table_5,Complete Games | Baltimore | 65
+1978,American League,table_5,ERA | New York | 3.18
+1978,American League,table_5,"Fewest Hits Allowed | New York | 1,321"
+1978,American League,table_5,Fewest Home Runs Allowed | Cleveland | 100
+1978,American League,table_5,Fewest Walks Allowed | Milwaukee | 398
+1978,American League,table_5,Saves | New York | 36
+1978,American League,table_5,Shutouts | Milwaukee | 19
+1978,American League,table_5,Strikeouts | California | 892

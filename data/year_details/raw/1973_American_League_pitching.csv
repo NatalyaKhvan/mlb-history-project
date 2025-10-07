@@ -1,10 +1,9 @@
-category,text
-table_5,Statistic | Team | #
-table_5,Complete Games | California | 72
-table_5,ERA | Baltimore | 3.07
-table_5,"Fewest Hits Allowed | Baltimore | 1,297"
-table_5,Fewest Home Runs Allowed | California | 104
-table_5,Fewest Walks Allowed | New York | 457
-table_5,Saves | Detroit | 46
-table_5,Shutouts | Minnesota | 18
-table_5,"Strikeouts | California | 1,010"
+year,league,category,text
+1973,American League,table_5,Complete Games | California | 72
+1973,American League,table_5,ERA | Baltimore | 3.07
+1973,American League,table_5,"Fewest Hits Allowed | Baltimore | 1,297"
+1973,American League,table_5,Fewest Home Runs Allowed | California | 104
+1973,American League,table_5,Fewest Walks Allowed | New York | 457
+1973,American League,table_5,Saves | Detroit | 46
+1973,American League,table_5,Shutouts | Minnesota | 18
+1973,American League,table_5,"Strikeouts | California | 1,010"

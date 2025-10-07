@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Philadelphia,38
-table_5,ERA,Los Angeles,3.26
-table_5,Fewest Hits Allowed,Houston,"1,338"
-table_5,Fewest Home Runs Allowed,Los Angeles,81
-table_5,Fewest Walks Allowed,Montreal,448
-table_5,Saves,Atlanta,51
-table_5,Shutouts,Houston,16
-table_5,Strikeouts,Philadelphia,"1,002"
+Year,Category,Statistic,Team,Value
+1982,Team Pitching Stats,Complete Games,Philadelphia,38
+1982,Team Pitching Stats,ERA,Los Angeles,3.26
+1982,Team Pitching Stats,Fewest Hits Allowed,Houston,"1,338"
+1982,Team Pitching Stats,Fewest Home Runs Allowed,Los Angeles,81
+1982,Team Pitching Stats,Fewest Walks Allowed,Montreal,448
+1982,Team Pitching Stats,Saves,Atlanta,51
+1982,Team Pitching Stats,Shutouts,Houston,16
+1982,Team Pitching Stats,Strikeouts,Philadelphia,"1,002"

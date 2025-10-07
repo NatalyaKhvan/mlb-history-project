@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,108
-table_5,ERA,Washington,2.69
-table_5,Fewest Hits Allowed,Washington,"1,219"
-table_5,Fewest Home Runs Allowed,Philadelphia,12
-table_5,Fewest Walks Allowed,Boston,385
-table_5,Saves,Chicago,16
-table_5,Shutouts,Boston,18
-table_5,Strikeouts,Washington,828
+Year,Category,Statistic,Team,Value
+1912,Team Pitching Stats,Complete Games,Boston,108
+1912,Team Pitching Stats,ERA,Washington,2.69
+1912,Team Pitching Stats,Fewest Hits Allowed,Washington,"1,219"
+1912,Team Pitching Stats,Fewest Home Runs Allowed,Philadelphia,12
+1912,Team Pitching Stats,Fewest Walks Allowed,Boston,385
+1912,Team Pitching Stats,Saves,Chicago,16
+1912,Team Pitching Stats,Shutouts,Boston,18
+1912,Team Pitching Stats,Strikeouts,Washington,828

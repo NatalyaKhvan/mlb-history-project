@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | David Wells | Toronto | 9 | Top 25
-table_2,ERA | Pedro Martinez | Boston | 1.74 | Top 25
-table_2,Games | Kelly Wunsch | Chicago | 83 | Top 25
-table_2,Saves | Todd Jones | Detroit | 42 | Top 25
-table_2,Shutouts | Pedro Martinez | Boston | 4 | Top 25
-table_2,Strikeouts | Pedro Martinez | Boston | 284 | Top 25
-table_2,Winning Percentage | Tim Hudson | Oakland | .769 | Top 25
-table_2,Wins | Tim Hudson | Oakland | 20 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Toronto | 15
-table_5,ERA | Boston | 4.24
-table_5,"Fewest Hits Allowed | Boston | 1,433"
-table_5,Fewest Home Runs Allowed | Oakland | 158
-table_5,Fewest Walks Allowed | Detroit | 496
-table_5,Saves | Anaheim | 46
-table_5,Shutouts | Boston | 12
-table_5,"Strikeouts | Cleveland | 1,213"
+year,league,category,text
+2000,American League,table_2,Complete Games | David Wells | Toronto | 9
+2000,American League,table_2,ERA | Pedro Martinez | Boston | 1.74
+2000,American League,table_2,Games | Kelly Wunsch | Chicago | 83
+2000,American League,table_2,Saves | Todd Jones | Detroit | 42
+2000,American League,table_2,Shutouts | Pedro Martinez | Boston | 4
+2000,American League,table_2,Strikeouts | Pedro Martinez | Boston | 284
+2000,American League,table_2,Winning Percentage | Tim Hudson | Oakland | .769
+2000,American League,table_2,Wins | Tim Hudson | Oakland | 20
+2000,American League,table_5,Complete Games | Toronto | 15
+2000,American League,table_5,ERA | Boston | 4.24
+2000,American League,table_5,"Fewest Hits Allowed | Boston | 1,433"
+2000,American League,table_5,Fewest Home Runs Allowed | Oakland | 158
+2000,American League,table_5,Fewest Walks Allowed | Detroit | 496
+2000,American League,table_5,Saves | Anaheim | 46
+2000,American League,table_5,Shutouts | Boston | 12
+2000,American League,table_5,"Strikeouts | Cleveland | 1,213"

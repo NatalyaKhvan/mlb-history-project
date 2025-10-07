@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Minnesota,52
-table_5,ERA,Chicago,2.69
-table_5,Fewest Hits Allowed,Chicago,"1,229"
-table_5,Fewest Home Runs Allowed,Chicago,101
-table_5,Fewest Walks Allowed,Minnesota,392
-table_5,Saves,Baltimore,51
-table_5,Shutouts,Chicago,22
-table_5,Strikeouts,Cleveland,"1,111"
+Year,Category,Statistic,Team,Value
+1966,Team Pitching Stats,Complete Games,Minnesota,52
+1966,Team Pitching Stats,ERA,Chicago,2.69
+1966,Team Pitching Stats,Fewest Hits Allowed,Chicago,"1,229"
+1966,Team Pitching Stats,Fewest Home Runs Allowed,Chicago,101
+1966,Team Pitching Stats,Fewest Walks Allowed,Minnesota,392
+1966,Team Pitching Stats,Saves,Baltimore,51
+1966,Team Pitching Stats,Shutouts,Chicago,22
+1966,Team Pitching Stats,Strikeouts,Cleveland,"1,111"

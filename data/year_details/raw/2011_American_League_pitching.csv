@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | James Shields | Tampa Bay | 11 | Top 25
-table_2,ERA | Justin Verlander | Detroit | 2.40 | Top 25
-table_2,Games | Jose Valverde | Detroit | 75 | Top 25
-table_2,Saves | Jose Valverde | Detroit | 49 | Top 25
-table_2,Shutouts | Derek Holland | Texas | 4 | Top 25
-table_2,Strikeouts | Justin Verlander | Detroit | 250 | Top 25
-table_2,Winning Percentage | Justin Verlander | Detroit | .828 | Top 25
-table_2,Wins | Justin Verlander | Detroit | 24 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2011,American League,table_2,Complete Games | James Shields | Tampa Bay | 11
+2011,American League,table_2,ERA | Justin Verlander | Detroit | 2.40
+2011,American League,table_2,Games | Jose Valverde | Detroit | 75
+2011,American League,table_2,Saves | Jose Valverde | Detroit | 49
+2011,American League,table_2,Shutouts | Derek Holland | Texas | 4
+2011,American League,table_2,Strikeouts | Justin Verlander | Detroit | 250
+2011,American League,table_2,Winning Percentage | Justin Verlander | Detroit | .828
+2011,American League,table_2,Wins | Justin Verlander | Detroit | 24

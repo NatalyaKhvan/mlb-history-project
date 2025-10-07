@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Bob Lemon | Cleveland | 21 | Top 25
-table_2,ERA | Mike Garcia | Cleveland | 2.64 | Top 25
-table_2,Games | Sonny Dixon | Washington | 54 | Top 25
-table_2,Saves | Johnny Sain | New York | 22 | Top 25
-table_2,Shutouts | Mike Garcia | Cleveland | 5 | Top 25
-table_2,Strikeouts | Bob Turley | Baltimore | 185 | Top 25
-table_2,Winning Percentage | Sandy Consuegra | Chicago | .842 | Top 25
-table_2,Wins | Bob Lemon | Cleveland | 23 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 77
-table_5,ERA | Cleveland | 2.79
-table_5,"Fewest Hits Allowed | Cleveland | 1,220"
-table_5,Fewest Home Runs Allowed | Baltimore | 78
-table_5,Fewest Walks Allowed | Cleveland | 486
-table_5,Saves | New York | 37
-table_5,Shutouts | Chicago | 23
-table_5,Strikeouts | Boston | 707
+year,league,category,text
+1954,American League,table_2,Complete Games | Bob Lemon | Cleveland | 21
+1954,American League,table_2,ERA | Mike Garcia | Cleveland | 2.64
+1954,American League,table_2,Games | Sonny Dixon | Washington | 54
+1954,American League,table_2,Saves | Johnny Sain | New York | 22
+1954,American League,table_2,Shutouts | Mike Garcia | Cleveland | 5
+1954,American League,table_2,Strikeouts | Bob Turley | Baltimore | 185
+1954,American League,table_2,Winning Percentage | Sandy Consuegra | Chicago | .842
+1954,American League,table_2,Wins | Bob Lemon | Cleveland | 23
+1954,American League,table_5,Complete Games | Cleveland | 77
+1954,American League,table_5,ERA | Cleveland | 2.79
+1954,American League,table_5,"Fewest Hits Allowed | Cleveland | 1,220"
+1954,American League,table_5,Fewest Home Runs Allowed | Baltimore | 78
+1954,American League,table_5,Fewest Walks Allowed | Cleveland | 486
+1954,American League,table_5,Saves | New York | 37
+1954,American League,table_5,Shutouts | Chicago | 23
+1954,American League,table_5,Strikeouts | Boston | 707

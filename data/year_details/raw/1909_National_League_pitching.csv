@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Mordecai Brown | Chicago | 32 | Top 25
-table_2,ERA | Christy Mathewson | New York | 1.14 | Top 25
-table_2,Games | Mordecai Brown | Chicago | 50 | Top 25
-table_2,Saves | Mordecai Brown | Chicago | 7 | Top 25
-table_2,Shutouts | Orval Overall | Chicago | 9 | Top 25
-table_2,Strikeouts | Orval Overall | Chicago | 205 | Top 25
-table_2,Winning Percentage | Howie Camnitz | Pittsburgh | .806 | Top 25
-table_2,Wins | Mordecai Brown | Chicago | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Brooklyn | 126
-table_5,ERA | Chicago | 1.75
-table_5,"Fewest Hits Allowed | Chicago | 1,094"
-table_5,Fewest Home Runs Allowed | Cincinnati | 5
-table_5,Fewest Walks Allowed | Pittsburgh | 320
-table_5,Saves | New York | 15
-table_5,Shutouts | Chicago | 32
-table_5,Strikeouts | New York | 735
-table_5,Statistic | Team | #
+year,league,category,text
+1909,National League,table_2,Complete Games | Mordecai Brown | Chicago | 32
+1909,National League,table_2,ERA | Christy Mathewson | New York | 1.14
+1909,National League,table_2,Games | Mordecai Brown | Chicago | 50
+1909,National League,table_2,Saves | Mordecai Brown | Chicago | 7
+1909,National League,table_2,Shutouts | Orval Overall | Chicago | 9
+1909,National League,table_2,Strikeouts | Orval Overall | Chicago | 205
+1909,National League,table_2,Winning Percentage | Howie Camnitz | Pittsburgh | .806
+1909,National League,table_2,Wins | Mordecai Brown | Chicago | 27
+1909,National League,table_5,Complete Games | Brooklyn | 126
+1909,National League,table_5,ERA | Chicago | 1.75
+1909,National League,table_5,"Fewest Hits Allowed | Chicago | 1,094"
+1909,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 5
+1909,National League,table_5,Fewest Walks Allowed | Pittsburgh | 320
+1909,National League,table_5,Saves | New York | 15
+1909,National League,table_5,Shutouts | Chicago | 32
+1909,National League,table_5,Strikeouts | New York | 735

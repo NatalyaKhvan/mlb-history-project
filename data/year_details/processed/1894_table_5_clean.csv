@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,117
-table_5,ERA,New York,3.83
-table_5,Fewest Hits Allowed,New York,"1,292"
-table_5,Fewest Home Runs Allowed,Baltimore,31
-table_5,Fewest Walks Allowed,Boston,411
-table_5,Saves,Baltimore,11
-table_5,Shutouts,Cleveland,6
-table_5,Strikeouts,New York,395
+Year,Category,Statistic,Team,Value
+1894,Team Pitching Stats,Complete Games,Chicago,117
+1894,Team Pitching Stats,ERA,New York,3.83
+1894,Team Pitching Stats,Fewest Hits Allowed,New York,"1,292"
+1894,Team Pitching Stats,Fewest Home Runs Allowed,Baltimore,31
+1894,Team Pitching Stats,Fewest Walks Allowed,Boston,411
+1894,Team Pitching Stats,Saves,Baltimore,11
+1894,Team Pitching Stats,Shutouts,Cleveland,6
+1894,Team Pitching Stats,Strikeouts,New York,395

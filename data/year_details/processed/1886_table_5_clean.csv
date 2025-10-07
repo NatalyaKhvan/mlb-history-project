@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Detroit,122
-table_5,ERA,Philadelphia,2.45
-table_5,Fewest Hits Allowed,Philadelphia,923
-table_5,Fewest Home Runs Allowed,Detroit,20
-table_5,Fewest Walks Allowed,Kansas City,246
-table_5,Saves,Chicago,3
-table_5,Shutouts,Philadelphia,10
-table_5,Strikeouts,Chicago,647
+Year,Category,Statistic,Team,Value
+1886,Team Pitching Stats,Complete Games,Detroit,122
+1886,Team Pitching Stats,ERA,Philadelphia,2.45
+1886,Team Pitching Stats,Fewest Hits Allowed,Philadelphia,923
+1886,Team Pitching Stats,Fewest Home Runs Allowed,Detroit,20
+1886,Team Pitching Stats,Fewest Walks Allowed,Kansas City,246
+1886,Team Pitching Stats,Saves,Chicago,3
+1886,Team Pitching Stats,Shutouts,Philadelphia,10
+1886,Team Pitching Stats,Strikeouts,Chicago,647

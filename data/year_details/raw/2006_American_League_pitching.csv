@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | C.C. Sabathia | Cleveland | 6 | Top 25
-table_2,ERA | Johan Santana | Minnesota | 2.77 | Top 25
-table_2,Games | Scott Proctor | New York | 83 | Top 25
-table_2,Saves | Francisco Rodriguez | Los Angeles | 47 | Top 25
-table_2,Shutouts | John Lackey | Los Angeles | 2 | Top 25
-table_2,Strikeouts | Johan Santana | Minnesota | 245 | Top 25
-table_2,Winning Percentage | Roy Halladay | Toronto | .762 | Top 25
-table_2,Wins | Johan Santana | Minnesota | 19 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2006,American League,table_2,Complete Games | C.C. Sabathia | Cleveland | 6
+2006,American League,table_2,ERA | Johan Santana | Minnesota | 2.77
+2006,American League,table_2,Games | Scott Proctor | New York | 83
+2006,American League,table_2,Saves | Francisco Rodriguez | Los Angeles | 47
+2006,American League,table_2,Shutouts | John Lackey | Los Angeles | 2
+2006,American League,table_2,Strikeouts | Johan Santana | Minnesota | 245
+2006,American League,table_2,Winning Percentage | Roy Halladay | Toronto | .762
+2006,American League,table_2,Wins | Johan Santana | Minnesota | 19

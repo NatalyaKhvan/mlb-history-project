@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Wes Ferrell | Boston | 26 | Top 25
-table_2,ERA | Lefty Gomez | New York | 2.33 | Top 25
-table_2,Games | Clint Brown | Chicago | 53 | Top 25
-table_2,Saves | Clint Brown | Chicago | 18 | Top 25
-table_2,Shutouts | Lefty Gomez | New York | 6 | Top 25
-table_2,Strikeouts | Lefty Gomez | New York | 194 | Top 25
-table_2,Winning Percentage | Johnny Allen | Cleveland | .938 | Top 25
-table_2,Wins | Lefty Gomez | New York | 21 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 82
-table_5,ERA | New York | 3.65
-table_5,"Fewest Hits Allowed | New York | 1,417"
-table_5,Fewest Home Runs Allowed | Cleveland | 61
-table_5,Fewest Walks Allowed | New York | 506
-table_5,Saves | Chicago | 21
-table_5,Shutouts | Chicago | 15
-table_5,Strikeouts | Boston | 682
+year,league,category,text
+1937,American League,table_2,Complete Games | Wes Ferrell | Boston | 26
+1937,American League,table_2,ERA | Lefty Gomez | New York | 2.33
+1937,American League,table_2,Games | Clint Brown | Chicago | 53
+1937,American League,table_2,Saves | Clint Brown | Chicago | 18
+1937,American League,table_2,Shutouts | Lefty Gomez | New York | 6
+1937,American League,table_2,Strikeouts | Lefty Gomez | New York | 194
+1937,American League,table_2,Winning Percentage | Johnny Allen | Cleveland | .938
+1937,American League,table_2,Wins | Lefty Gomez | New York | 21
+1937,American League,table_5,Complete Games | New York | 82
+1937,American League,table_5,ERA | New York | 3.65
+1937,American League,table_5,"Fewest Hits Allowed | New York | 1,417"
+1937,American League,table_5,Fewest Home Runs Allowed | Cleveland | 61
+1937,American League,table_5,Fewest Walks Allowed | New York | 506
+1937,American League,table_5,Saves | Chicago | 21
+1937,American League,table_5,Shutouts | Chicago | 15
+1937,American League,table_5,Strikeouts | Boston | 682

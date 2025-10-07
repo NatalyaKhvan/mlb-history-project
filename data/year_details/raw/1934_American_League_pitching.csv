@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Lefty Gomez | New York | 25 | Top 25
-table_2,ERA | Lefty Gomez | New York | 2.33 | Top 25
-table_2,Games | Jack Russell | Washington | 54 | Top 25
-table_2,Saves | Jack Russell | Washington | 7 | Top 25
-table_2,Shutouts | Mel Harder | Cleveland | 6 | Top 25
-table_2,Strikeouts | Lefty Gomez | New York | 158 | Top 25
-table_2,Winning Percentage | Lefty Gomez | New York | .839 | Top 25
-table_2,Wins | Lefty Gomez | New York | 26 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 83
-table_5,ERA | New York | 3.76
-table_5,"Fewest Hits Allowed | New York | 1,349"
-table_5,Fewest Home Runs Allowed | Cleveland | 70
-table_5,Fewest Walks Allowed | Detroit | 488
-table_5,Saves | St. Louis | 20
-table_5,Shutouts | Detroit | 13
-table_5,Strikeouts | New York | 656
+year,league,category,text
+1934,American League,table_2,Complete Games | Lefty Gomez | New York | 25
+1934,American League,table_2,ERA | Lefty Gomez | New York | 2.33
+1934,American League,table_2,Games | Jack Russell | Washington | 54
+1934,American League,table_2,Saves | Jack Russell | Washington | 7
+1934,American League,table_2,Shutouts | Mel Harder | Cleveland | 6
+1934,American League,table_2,Strikeouts | Lefty Gomez | New York | 158
+1934,American League,table_2,Winning Percentage | Lefty Gomez | New York | .839
+1934,American League,table_2,Wins | Lefty Gomez | New York | 26
+1934,American League,table_5,Complete Games | New York | 83
+1934,American League,table_5,ERA | New York | 3.76
+1934,American League,table_5,"Fewest Hits Allowed | New York | 1,349"
+1934,American League,table_5,Fewest Home Runs Allowed | Cleveland | 70
+1934,American League,table_5,Fewest Walks Allowed | Detroit | 488
+1934,American League,table_5,Saves | St. Louis | 20
+1934,American League,table_5,Shutouts | Detroit | 13
+1934,American League,table_5,Strikeouts | New York | 656

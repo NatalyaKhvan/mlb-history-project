@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Jack McDowell | New York | 8 | Top 25
-table_2,ERA | Randy Johnson | Seattle | 2.48 | Top 25
-table_2,Games | Jesse Orosco | Baltimore | 65 | Top 25
-table_2,Saves | Jose Mesa | Cleveland | 46 | Top 25
-table_2,Shutouts | Mike Mussina | Baltimore | 4 | Top 25
-table_2,Strikeouts | Randy Johnson | Seattle | 294 | Top 25
-table_2,Winning Percentage | Randy Johnson | Seattle | .900 | Top 25
-table_2,Wins | Mike Mussina | Baltimore | 19 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Baltimore | 19
-table_5,ERA | Cleveland | 3.83
-table_5,"Fewest Hits Allowed | Baltimore | 1,165"
-table_5,Fewest Home Runs Allowed | Boston | 127
-table_5,Fewest Walks Allowed | Cleveland | 445
-table_5,Saves | Cleveland | 50
-table_5,Shutouts | Baltimore | 10
-table_5,"Strikeouts | Seattle | 1,068"
+year,league,category,text
+1995,American League,table_2,Complete Games | Jack McDowell | New York | 8
+1995,American League,table_2,ERA | Randy Johnson | Seattle | 2.48
+1995,American League,table_2,Games | Jesse Orosco | Baltimore | 65
+1995,American League,table_2,Saves | Jose Mesa | Cleveland | 46
+1995,American League,table_2,Shutouts | Mike Mussina | Baltimore | 4
+1995,American League,table_2,Strikeouts | Randy Johnson | Seattle | 294
+1995,American League,table_2,Winning Percentage | Randy Johnson | Seattle | .900
+1995,American League,table_2,Wins | Mike Mussina | Baltimore | 19
+1995,American League,table_5,Complete Games | Baltimore | 19
+1995,American League,table_5,ERA | Cleveland | 3.83
+1995,American League,table_5,"Fewest Hits Allowed | Baltimore | 1,165"
+1995,American League,table_5,Fewest Home Runs Allowed | Boston | 127
+1995,American League,table_5,Fewest Walks Allowed | Cleveland | 445
+1995,American League,table_5,Saves | Cleveland | 50
+1995,American League,table_5,Shutouts | Baltimore | 10
+1995,American League,table_5,"Strikeouts | Seattle | 1,068"

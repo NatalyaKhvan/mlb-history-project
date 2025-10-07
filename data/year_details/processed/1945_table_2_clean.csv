@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Hal Newhouser,Detroit,29,Top 25
-table_2,ERA,Hal Newhouser,Detroit,1.81,Top 25
-table_2,Games,Joe Berry,Philadelphia,52,Top 25
-table_2,Saves,Jim Turner,New York,10,Top 25
-table_2,Shutouts,Hal Newhouser,Detroit,8,Top 25
-table_2,Strikeouts,Hal Newhouser,Detroit,212,Top 25
-table_2,Winning Percentage,Hal Newhouser,Detroit,.735,Top 25
-table_2,Wins,Hal Newhouser,Detroit,25,Top 25
+Year,Category,Statistic,Player,Team,Value
+1945,Individual Pitching Stats,Complete Games,Hal Newhouser,Detroit,29
+1945,Individual Pitching Stats,ERA,Hal Newhouser,Detroit,1.81
+1945,Individual Pitching Stats,Games,Joe Berry,Philadelphia,52
+1945,Individual Pitching Stats,Saves,Jim Turner,New York,10
+1945,Individual Pitching Stats,Shutouts,Hal Newhouser,Detroit,8
+1945,Individual Pitching Stats,Strikeouts,Hal Newhouser,Detroit,212
+1945,Individual Pitching Stats,Winning Percentage,Hal Newhouser,Detroit,.735
+1945,Individual Pitching Stats,Wins,Hal Newhouser,Detroit,25

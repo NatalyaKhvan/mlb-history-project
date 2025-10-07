@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Grover Alexander | Philadelphia | 38 | Top 25
-table_2,ERA | Grover Alexander | Philadelphia | 1.55 | Top 25
-table_2,Games | Lee Meadows | St. Louis | 51 | Top 25
-table_2,Saves | Red Ames | St. Louis | 8 | Top 25
-table_2,Shutouts | Grover Alexander | Philadelphia | 16 | Top 25
-table_2,Strikeouts | Grover Alexander | Philadelphia | 167 | Top 25
-table_2,Winning Percentage | Tom Hughes | Boston | .842 | Top 25
-table_2,Wins | Grover Alexander | Philadelphia | 33 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 97
-table_5,ERA | Brooklyn | 2.12
-table_5,"Fewest Hits Allowed | Brooklyn | 1,201"
-table_5,Fewest Home Runs Allowed | Boston | 24
-table_5,Fewest Walks Allowed | Philadelphia | 295
-table_5,Saves | St. Louis | 15
-table_5,Shutouts | Philadelphia | 25
-table_5,Strikeouts | Boston | 644
-table_5,Statistic | Team | #
+year,league,category,text
+1916,National League,table_2,Complete Games | Grover Alexander | Philadelphia | 38
+1916,National League,table_2,ERA | Grover Alexander | Philadelphia | 1.55
+1916,National League,table_2,Games | Lee Meadows | St. Louis | 51
+1916,National League,table_2,Saves | Red Ames | St. Louis | 8
+1916,National League,table_2,Shutouts | Grover Alexander | Philadelphia | 16
+1916,National League,table_2,Strikeouts | Grover Alexander | Philadelphia | 167
+1916,National League,table_2,Winning Percentage | Tom Hughes | Boston | .842
+1916,National League,table_2,Wins | Grover Alexander | Philadelphia | 33
+1916,National League,table_5,Complete Games | Boston | 97
+1916,National League,table_5,ERA | Brooklyn | 2.12
+1916,National League,table_5,"Fewest Hits Allowed | Brooklyn | 1,201"
+1916,National League,table_5,Fewest Home Runs Allowed | Boston | 24
+1916,National League,table_5,Fewest Walks Allowed | Philadelphia | 295
+1916,National League,table_5,Saves | St. Louis | 15
+1916,National League,table_5,Shutouts | Philadelphia | 25
+1916,National League,table_5,Strikeouts | Boston | 644

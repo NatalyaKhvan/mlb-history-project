@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jim Tobin | Boston | 28 | Top 25
-table_2,ERA | Ed Heusser | Cincinnati | 2.38 | Top 25
-table_2,Games | Ace Adams | New York | 65 | Top 25
-table_2,Saves | Ace Adams | New York | 13 | Top 25
-table_2,Shutouts | Mort Cooper | St. Louis | 7 | Top 25
-table_2,Strikeouts | Bill Voiselle | New York | 161 | Top 25
-table_2,Winning Percentage | Ted Wilks | St. Louis | .810 | Top 25
-table_2,Wins | Bucky Walters | Cincinnati | 23 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cincinnati | 93
-table_5,ERA | St. Louis | 2.68
-table_5,"Fewest Hits Allowed | St. Louis | 1,228"
-table_5,Fewest Home Runs Allowed | Philadelphia | 49
-table_5,Fewest Walks Allowed | Cincinnati | 390
-table_5,Saves | New York | 21
-table_5,Shutouts | St. Louis | 26
-table_5,Strikeouts | St. Louis | 637
-table_5,Statistic | Team | #
+year,league,category,text
+1944,National League,table_2,Complete Games | Jim Tobin | Boston | 28
+1944,National League,table_2,ERA | Ed Heusser | Cincinnati | 2.38
+1944,National League,table_2,Games | Ace Adams | New York | 65
+1944,National League,table_2,Saves | Ace Adams | New York | 13
+1944,National League,table_2,Shutouts | Mort Cooper | St. Louis | 7
+1944,National League,table_2,Strikeouts | Bill Voiselle | New York | 161
+1944,National League,table_2,Winning Percentage | Ted Wilks | St. Louis | .810
+1944,National League,table_2,Wins | Bucky Walters | Cincinnati | 23
+1944,National League,table_5,Complete Games | Cincinnati | 93
+1944,National League,table_5,ERA | St. Louis | 2.68
+1944,National League,table_5,"Fewest Hits Allowed | St. Louis | 1,228"
+1944,National League,table_5,Fewest Home Runs Allowed | Philadelphia | 49
+1944,National League,table_5,Fewest Walks Allowed | Cincinnati | 390
+1944,National League,table_5,Saves | New York | 21
+1944,National League,table_5,Shutouts | St. Louis | 26
+1944,National League,table_5,Strikeouts | St. Louis | 637

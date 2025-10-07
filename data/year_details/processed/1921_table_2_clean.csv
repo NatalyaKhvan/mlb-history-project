@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Burleigh Grimes,Brooklyn,30,Top 25
-table_2,ERA,Bill Doak,St. Louis,2.59,Top 25
-table_2,Games,Jack Scott,Boston,47,Top 25
-table_2,Saves,Lou North,St. Louis,7,Top 25
-table_2,Shutouts,Grover Alexander,Chicago,3,Top 25
-table_2,Strikeouts,Burleigh Grimes,Brooklyn,136,Top 25
-table_2,Winning Percentage,Babe Adams,Pittsburgh,.737,Top 25
-table_2,Wins,Wilbur Cooper,Pittsburgh,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+1921,Individual Pitching Stats,Complete Games,Burleigh Grimes,Brooklyn,30
+1921,Individual Pitching Stats,ERA,Bill Doak,St. Louis,2.59
+1921,Individual Pitching Stats,Games,Jack Scott,Boston,47
+1921,Individual Pitching Stats,Saves,Lou North,St. Louis,7
+1921,Individual Pitching Stats,Shutouts,Grover Alexander,Chicago,3
+1921,Individual Pitching Stats,Strikeouts,Burleigh Grimes,Brooklyn,136
+1921,Individual Pitching Stats,Winning Percentage,Babe Adams,Pittsburgh,.737
+1921,Individual Pitching Stats,Wins,Wilbur Cooper,Pittsburgh,22

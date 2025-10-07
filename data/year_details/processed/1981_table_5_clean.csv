@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Los Angeles,26
-table_5,ERA,Houston,2.67
-table_5,Fewest Hits Allowed,Houston,842
-table_5,Fewest Home Runs Allowed,Houston,40
-table_5,Fewest Walks Allowed,Montreal,268
-table_5,Saves,San Francisco,33
-table_5,Shutouts,Houston,19
-table_5,Strikeouts,Houston,610
+Year,Category,Statistic,Team,Value
+1981,Team Pitching Stats,Complete Games,Los Angeles,26
+1981,Team Pitching Stats,ERA,Houston,2.67
+1981,Team Pitching Stats,Fewest Hits Allowed,Houston,842
+1981,Team Pitching Stats,Fewest Home Runs Allowed,Houston,40
+1981,Team Pitching Stats,Fewest Walks Allowed,Montreal,268
+1981,Team Pitching Stats,Saves,San Francisco,33
+1981,Team Pitching Stats,Shutouts,Houston,19
+1981,Team Pitching Stats,Strikeouts,Houston,610

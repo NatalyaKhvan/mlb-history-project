@@ -1,16 +1,16 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Nick Lodolo,Cincinnati,2,Top 25
-table_2,ERA,Paul Skenes,Pittsburgh,1.97,Top 25
-table_2,Games,Tyler Rogers,San Francisco (53),81,Top 25
-table_2,Saves,Robert Suarez,San Diego,40,Top 25
-table_2,Shutouts,Andrew Abbott,Cincinnati,1,Top 25
-table_2,Erick Fedde,St. Louis,1,,
-table_2,Sonny Gray,St. Louis,1,,
-table_2,Hunter Greene,Cincinnati,1,,
-table_2,Michael King,San Diego,1,,
-table_2,Stephen Kolek,San Diego,1,,
-table_2,Nick Lodolo,Cincinnati,1,,
-table_2,David Peterson,New York,1,,
-table_2,Strikeouts,Logan Webb,San Francisco,224,Top 25
-table_2,Winning Percentage,Freddy Peralta,Milwaukee,.739,Top 25
-table_2,Wins,Freddy Peralta,Milwaukee,17,Top 25
+Year,Category,Statistic,Player,Team,Value
+2025,Individual Pitching Stats,Complete Games,Nick Lodolo,Cincinnati,2
+2025,Individual Pitching Stats,ERA,Paul Skenes,Pittsburgh,1.97
+2025,Individual Pitching Stats,Games,Tyler Rogers,San Francisco (53),81
+2025,Individual Pitching Stats,Saves,Robert Suarez,San Diego,40
+2025,Individual Pitching Stats,Shutouts,Andrew Abbott,Cincinnati,1
+2025,Individual Pitching Stats,Erick Fedde,St. Louis,1,
+2025,Individual Pitching Stats,Sonny Gray,St. Louis,1,
+2025,Individual Pitching Stats,Hunter Greene,Cincinnati,1,
+2025,Individual Pitching Stats,Michael King,San Diego,1,
+2025,Individual Pitching Stats,Stephen Kolek,San Diego,1,
+2025,Individual Pitching Stats,Nick Lodolo,Cincinnati,1,
+2025,Individual Pitching Stats,David Peterson,New York,1,
+2025,Individual Pitching Stats,Strikeouts,Logan Webb,San Francisco,224
+2025,Individual Pitching Stats,Winning Percentage,Freddy Peralta,Milwaukee,.739
+2025,Individual Pitching Stats,Wins,Freddy Peralta,Milwaukee,17

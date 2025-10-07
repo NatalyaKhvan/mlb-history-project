@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Red Lucas | Cincinnati | 28 | Top 25
-table_2,ERA | Bill Walker | New York | 3.09 | Top 25
-table_2,Games | Guy Bush | Chicago | 50 | Top 25
-table_2,Saves | Guy Bush | Chicago | 8 | Top 25
-table_2,Shutouts | Pat Malone | Chicago | 5 | Top 25
-table_2,Strikeouts | Pat Malone | Chicago | 166 | Top 25
-table_2,Winning Percentage | Charlie Root | Chicago | .760 | Top 25
-table_2,Wins | Pat Malone | Chicago | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | St. Louis | 83
-table_5,ERA | New York | 3.97
-table_5,"Fewest Hits Allowed | Pittsburgh | 1,530"
-table_5,Fewest Home Runs Allowed | Cincinnati | 61
-table_5,Fewest Walks Allowed | New York | 387
-table_5,Saves | Philadelphia | 24
-table_5,Shutouts | Chicago | 14
-table_5,Strikeouts | Brooklyn | 549
+year,league,category,text
+1929,National League,table_2,Complete Games | Red Lucas | Cincinnati | 28
+1929,National League,table_2,ERA | Bill Walker | New York | 3.09
+1929,National League,table_2,Games | Guy Bush | Chicago | 50
+1929,National League,table_2,Saves | Guy Bush | Chicago | 8
+1929,National League,table_2,Shutouts | Pat Malone | Chicago | 5
+1929,National League,table_2,Strikeouts | Pat Malone | Chicago | 166
+1929,National League,table_2,Winning Percentage | Charlie Root | Chicago | .760
+1929,National League,table_2,Wins | Pat Malone | Chicago | 22
+1929,National League,table_5,Complete Games | St. Louis | 83
+1929,National League,table_5,ERA | New York | 3.97
+1929,National League,table_5,"Fewest Hits Allowed | Pittsburgh | 1,530"
+1929,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 61
+1929,National League,table_5,Fewest Walks Allowed | New York | 387
+1929,National League,table_5,Saves | Philadelphia | 24
+1929,National League,table_5,Shutouts | Chicago | 14
+1929,National League,table_5,Strikeouts | Brooklyn | 549

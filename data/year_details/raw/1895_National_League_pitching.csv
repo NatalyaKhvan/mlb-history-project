@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Ted Breitenstein | St. Louis | 46 | Top 25
-table_2,ERA | Al Maul | Washington | 2.45 | Top 25
-table_2,Games | Pink Hawley | Pittsburgh | 56 | Top 25
-table_2,Saves | Ernie Beam | Philadelphia | 3 | Top 25
-table_2,Shutouts | Pink Hawley | Pittsburgh | 4 | Top 25
-table_2,Strikeouts | Amos Rusie | New York | 201 | Top 25
-table_2,Winning Percentage | Bill Hoffer | Baltimore | .838 | Top 25
-table_2,Wins | Cy Young | Cleveland | 35 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 119
-table_5,ERA | Baltimore | 3.80
-table_5,"Fewest Hits Allowed | Baltimore | 1,216"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 17
-table_5,Fewest Walks Allowed | Cleveland | 346
-table_5,Saves | Philadelphia | 7
-table_5,Shutouts | Baltimore | 10
-table_5,Strikeouts | New York | 409
-table_5,Statistic | Team | #
+year,league,category,text
+1895,National League,table_2,Complete Games | Ted Breitenstein | St. Louis | 46
+1895,National League,table_2,ERA | Al Maul | Washington | 2.45
+1895,National League,table_2,Games | Pink Hawley | Pittsburgh | 56
+1895,National League,table_2,Saves | Ernie Beam | Philadelphia | 3
+1895,National League,table_2,Shutouts | Pink Hawley | Pittsburgh | 4
+1895,National League,table_2,Strikeouts | Amos Rusie | New York | 201
+1895,National League,table_2,Winning Percentage | Bill Hoffer | Baltimore | .838
+1895,National League,table_2,Wins | Cy Young | Cleveland | 35
+1895,National League,table_5,Complete Games | Chicago | 119
+1895,National League,table_5,ERA | Baltimore | 3.80
+1895,National League,table_5,"Fewest Hits Allowed | Baltimore | 1,216"
+1895,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 17
+1895,National League,table_5,Fewest Walks Allowed | Cleveland | 346
+1895,National League,table_5,Saves | Philadelphia | 7
+1895,National League,table_5,Shutouts | Baltimore | 10
+1895,National League,table_5,Strikeouts | New York | 409

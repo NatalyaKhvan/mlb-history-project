@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Warren Spahn,Boston,26,Top 25
-table_2,ERA,Chet Nichols,Boston,2.88,Top 25
-table_2,Games,Ted Wilks,St. Louis,65,Top 25
-table_2,Saves,Ted Wilks,St. Louis,13,Top 25
-table_2,Shutouts,Warren Spahn,Boston,7,Top 25
-table_2,Strikeouts,Don Newcombe,Brooklyn,164,Top 25
-table_2,Winning Percentage,Preacher Roe,Brooklyn,.880,Top 25
-table_2,Wins,Larry Jansen,New York,23,Top 25
+Year,Category,Statistic,Player,Team,Value
+1951,Individual Pitching Stats,Complete Games,Warren Spahn,Boston,26
+1951,Individual Pitching Stats,ERA,Chet Nichols,Boston,2.88
+1951,Individual Pitching Stats,Games,Ted Wilks,St. Louis,65
+1951,Individual Pitching Stats,Saves,Ted Wilks,St. Louis,13
+1951,Individual Pitching Stats,Shutouts,Warren Spahn,Boston,7
+1951,Individual Pitching Stats,Strikeouts,Don Newcombe,Brooklyn,164
+1951,Individual Pitching Stats,Winning Percentage,Preacher Roe,Brooklyn,.880
+1951,Individual Pitching Stats,Wins,Larry Jansen,New York,23

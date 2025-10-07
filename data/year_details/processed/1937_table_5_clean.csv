@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,85
-table_5,ERA,Boston,3.22
-table_5,Fewest Hits Allowed,New York,"1,341"
-table_5,Fewest Home Runs Allowed,Cincinnati,38
-table_5,Fewest Walks Allowed,Boston,372
-table_5,Saves,Cincinnati,18
-table_5,Shutouts,Boston,16
-table_5,Strikeouts,New York,653
+Year,Category,Statistic,Team,Value
+1937,Team Pitching Stats,Complete Games,Boston,85
+1937,Team Pitching Stats,ERA,Boston,3.22
+1937,Team Pitching Stats,Fewest Hits Allowed,New York,"1,341"
+1937,Team Pitching Stats,Fewest Home Runs Allowed,Cincinnati,38
+1937,Team Pitching Stats,Fewest Walks Allowed,Boston,372
+1937,Team Pitching Stats,Saves,Cincinnati,18
+1937,Team Pitching Stats,Shutouts,Boston,16
+1937,Team Pitching Stats,Strikeouts,New York,653

@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Walter Johnson | Washington | 38 | Top 25
-table_2,ERA | Ed Walsh | Chicago | 1.27 | Top 25
-table_2,Games | Ed Walsh | Chicago | 45 | Top 25
-table_2,Saves | Ed Walsh | Chicago | 5 | Top 25
-table_2,Shutouts | Jack Coombs | Philadelphia | 13 | Top 25
-table_2,Strikeouts | Walter Johnson | Washington | 313 | Top 25
-table_2,Winning Percentage | Chief Bender | Philadelphia | .821 | Top 25
-table_2,Wins | Jack Coombs | Philadelphia | 31 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Philadelphia | 123
-table_5,ERA | Philadelphia | 1.79
-table_5,"Fewest Hits Allowed | Philadelphia | 1,103"
-table_5,Fewest Home Runs Allowed | Philadelphia | 8
-table_5,Fewest Walks Allowed | New York | 364
-table_5,Saves | New York | 8
-table_5,Shutouts | Philadelphia | 24
-table_5,Strikeouts | Philadelphia | 789
-table_5,Statistic | Team | #
+year,league,category,text
+1910,American League,table_2,Complete Games | Walter Johnson | Washington | 38
+1910,American League,table_2,ERA | Ed Walsh | Chicago | 1.27
+1910,American League,table_2,Games | Ed Walsh | Chicago | 45
+1910,American League,table_2,Saves | Ed Walsh | Chicago | 5
+1910,American League,table_2,Shutouts | Jack Coombs | Philadelphia | 13
+1910,American League,table_2,Strikeouts | Walter Johnson | Washington | 313
+1910,American League,table_2,Winning Percentage | Chief Bender | Philadelphia | .821
+1910,American League,table_2,Wins | Jack Coombs | Philadelphia | 31
+1910,American League,table_5,Complete Games | Philadelphia | 123
+1910,American League,table_5,ERA | Philadelphia | 1.79
+1910,American League,table_5,"Fewest Hits Allowed | Philadelphia | 1,103"
+1910,American League,table_5,Fewest Home Runs Allowed | Philadelphia | 8
+1910,American League,table_5,Fewest Walks Allowed | New York | 364
+1910,American League,table_5,Saves | New York | 8
+1910,American League,table_5,Shutouts | Philadelphia | 24
+1910,American League,table_5,Strikeouts | Philadelphia | 789

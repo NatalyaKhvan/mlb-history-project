@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Warren Spahn | Boston | 26 | Top 25
-table_2,ERA | Chet Nichols | Boston | 2.88 | Top 25
-table_2,Games | Ted Wilks | St. Louis | 65 | Top 25
-table_2,Saves | Ted Wilks | St. Louis | 13 | Top 25
-table_2,Shutouts | Warren Spahn | Boston | 7 | Top 25
-table_2,Strikeouts | Don Newcombe | Brooklyn | 164 | Top 25
-table_2,Winning Percentage | Preacher Roe | Brooklyn | .880 | Top 25
-table_2,Wins | Larry Jansen | New York | 23 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 73
-table_5,ERA | New York | 3.48
-table_5,"Fewest Hits Allowed | New York | 1,334"
-table_5,Fewest Home Runs Allowed | Boston | 96
-table_5,Fewest Walks Allowed | New York | 482
-table_5,Saves | Cincinnati | 23
-table_5,Shutouts | Philadelphia | 19
-table_5,Strikeouts | Brooklyn | 693
+year,league,category,text
+1951,National League,table_2,Complete Games | Warren Spahn | Boston | 26
+1951,National League,table_2,ERA | Chet Nichols | Boston | 2.88
+1951,National League,table_2,Games | Ted Wilks | St. Louis | 65
+1951,National League,table_2,Saves | Ted Wilks | St. Louis | 13
+1951,National League,table_2,Shutouts | Warren Spahn | Boston | 7
+1951,National League,table_2,Strikeouts | Don Newcombe | Brooklyn | 164
+1951,National League,table_2,Winning Percentage | Preacher Roe | Brooklyn | .880
+1951,National League,table_2,Wins | Larry Jansen | New York | 23
+1951,National League,table_5,Complete Games | Boston | 73
+1951,National League,table_5,ERA | New York | 3.48
+1951,National League,table_5,"Fewest Hits Allowed | New York | 1,334"
+1951,National League,table_5,Fewest Home Runs Allowed | Boston | 96
+1951,National League,table_5,Fewest Walks Allowed | New York | 482
+1951,National League,table_5,Saves | Cincinnati | 23
+1951,National League,table_5,Shutouts | Philadelphia | 19
+1951,National League,table_5,Strikeouts | Brooklyn | 693

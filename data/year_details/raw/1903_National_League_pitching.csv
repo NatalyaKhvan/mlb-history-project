@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Joe McGinnity | New York | 44 | Top 25
-table_2,ERA | Sam Leever | Pittsburgh | 2.06 | Top 25
-table_2,Games | Joe McGinnity | New York | 55 | Top 25
-table_2,Saves | Carl Lundgren | Chicago | 3 | Top 25
-table_2,Shutouts | Sam Leever | Pittsburgh | 7 | Top 25
-table_2,Strikeouts | Christy Mathewson | New York | 267 | Top 25
-table_2,Winning Percentage | Sam Leever | Pittsburgh | .781 | Top 25
-table_2,Wins | Joe McGinnity | New York | 31 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cincinnati | 126
-table_5,ERA | Chicago | 2.77
-table_5,"Fewest Hits Allowed | Chicago | 1,182"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 9
-table_5,Fewest Walks Allowed | Chicago | 354
-table_5,Saves | New York | 8
-table_5,Shutouts | Pittsburgh | 16
-table_5,Strikeouts | New York | 628
-table_5,Statistic | Team | #
+year,league,category,text
+1903,National League,table_2,Complete Games | Joe McGinnity | New York | 44
+1903,National League,table_2,ERA | Sam Leever | Pittsburgh | 2.06
+1903,National League,table_2,Games | Joe McGinnity | New York | 55
+1903,National League,table_2,Saves | Carl Lundgren | Chicago | 3
+1903,National League,table_2,Shutouts | Sam Leever | Pittsburgh | 7
+1903,National League,table_2,Strikeouts | Christy Mathewson | New York | 267
+1903,National League,table_2,Winning Percentage | Sam Leever | Pittsburgh | .781
+1903,National League,table_2,Wins | Joe McGinnity | New York | 31
+1903,National League,table_5,Complete Games | Cincinnati | 126
+1903,National League,table_5,ERA | Chicago | 2.77
+1903,National League,table_5,"Fewest Hits Allowed | Chicago | 1,182"
+1903,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 9
+1903,National League,table_5,Fewest Walks Allowed | Chicago | 354
+1903,National League,table_5,Saves | New York | 8
+1903,National League,table_5,Shutouts | Pittsburgh | 16
+1903,National League,table_5,Strikeouts | New York | 628

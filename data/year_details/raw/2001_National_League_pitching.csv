@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Curt Schilling | Arizona | 6 | Top 25
-table_2,ERA | Randy Johnson | Arizona | 2.49 | Top 25
-table_2,Games | Steve Kline | St. Louis | 89 | Top 25
-table_2,Saves | Robb Nen | San Francisco | 45 | Top 25
-table_2,Shutouts | Greg Maddux | Atlanta | 3 | Top 25
-table_2,Strikeouts | Randy Johnson | Arizona | 372 | Top 25
-table_2,Winning Percentage | Roy Oswalt | Houston | .824 | Top 25
-table_2,Wins | Curt Schilling | Arizona | 22 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Arizona | 12
-table_5,ERA | Atlanta | 3.59
-table_5,"Fewest Hits Allowed | Arizona | 1,352"
-table_5,Fewest Home Runs Allowed | San Francisco | 145
-table_5,Fewest Walks Allowed | New York | 438
-table_5,Saves | Houston | 48
-table_5,Shutouts | New York | 14
-table_5,"Strikeouts | Chicago | 1,344"
+year,league,category,text
+2001,National League,table_2,Complete Games | Curt Schilling | Arizona | 6
+2001,National League,table_2,ERA | Randy Johnson | Arizona | 2.49
+2001,National League,table_2,Games | Steve Kline | St. Louis | 89
+2001,National League,table_2,Saves | Robb Nen | San Francisco | 45
+2001,National League,table_2,Shutouts | Greg Maddux | Atlanta | 3
+2001,National League,table_2,Strikeouts | Randy Johnson | Arizona | 372
+2001,National League,table_2,Winning Percentage | Roy Oswalt | Houston | .824
+2001,National League,table_2,Wins | Curt Schilling | Arizona | 22
+2001,National League,table_5,Complete Games | Arizona | 12
+2001,National League,table_5,ERA | Atlanta | 3.59
+2001,National League,table_5,"Fewest Hits Allowed | Arizona | 1,352"
+2001,National League,table_5,Fewest Home Runs Allowed | San Francisco | 145
+2001,National League,table_5,Fewest Walks Allowed | New York | 438
+2001,National League,table_5,Saves | Houston | 48
+2001,National League,table_5,Shutouts | New York | 14
+2001,National League,table_5,"Strikeouts | Chicago | 1,344"

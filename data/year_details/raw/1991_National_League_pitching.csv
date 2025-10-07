@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Tom Glavine | Atlanta | 9 | Top 25
-table_2,ERA | Dennis Martinez | Montreal | 2.39 | Top 25
-table_2,Games | Barry Jones | Montreal | 77 | Top 25
-table_2,Saves | Lee Smith | St. Louis | 47 | Top 25
-table_2,Shutouts | Dennis Martinez | Montreal | 5 | Top 25
-table_2,Strikeouts | David Cone | New York | 241 | Top 25
-table_2,Winning Percentage | Jose Rijo | Cincinnati | .714 | Top 25
-table_2,Wins | Tom Glavine | Atlanta | 20 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Atlanta | 18
-table_5,ERA | Los Angeles | 3.06
-table_5,"Fewest Hits Allowed | Atlanta | 1,304"
-table_5,Fewest Home Runs Allowed | Los Angeles | 96
-table_5,Fewest Walks Allowed | Pittsburgh | 401
-table_5,Saves | Pittsburgh | 51
-table_5,Shutouts | Los Angeles | 14
-table_5,"Strikeouts | Houston | 1,033"
-table_5,Statistic | Team | #
+year,league,category,text
+1991,National League,table_2,Complete Games | Tom Glavine | Atlanta | 9
+1991,National League,table_2,ERA | Dennis Martinez | Montreal | 2.39
+1991,National League,table_2,Games | Barry Jones | Montreal | 77
+1991,National League,table_2,Saves | Lee Smith | St. Louis | 47
+1991,National League,table_2,Shutouts | Dennis Martinez | Montreal | 5
+1991,National League,table_2,Strikeouts | David Cone | New York | 241
+1991,National League,table_2,Winning Percentage | Jose Rijo | Cincinnati | .714
+1991,National League,table_2,Wins | Tom Glavine | Atlanta | 20
+1991,National League,table_5,Complete Games | Atlanta | 18
+1991,National League,table_5,ERA | Los Angeles | 3.06
+1991,National League,table_5,"Fewest Hits Allowed | Atlanta | 1,304"
+1991,National League,table_5,Fewest Home Runs Allowed | Los Angeles | 96
+1991,National League,table_5,Fewest Walks Allowed | Pittsburgh | 401
+1991,National League,table_5,Saves | Pittsburgh | 51
+1991,National League,table_5,Shutouts | Los Angeles | 14
+1991,National League,table_5,"Strikeouts | Houston | 1,033"

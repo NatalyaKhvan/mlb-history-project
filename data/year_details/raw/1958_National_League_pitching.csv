@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Warren Spahn | Milwaukee | 23 | Top 25
-table_2,ERA | Stu Miller | San Francisco | 2.47 | Top 25
-table_2,Games | Don Elston | Chicago | 69 | Top 25
-table_2,Saves | Roy Face | Pittsburgh | 20 | Top 25
-table_2,Shutouts | Carl Willey | Milwaukee | 4 | Top 25
-table_2,Strikeouts | Sam Jones | St. Louis | 225 | Top 25
-table_2,Winning Percentage | Lew Burdette | Milwaukee | .667 | Top 25
-table_2,Wins | Bob Friend | Pittsburgh | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Milwaukee | 72
-table_5,ERA | Milwaukee | 3.22
-table_5,"Fewest Hits Allowed | Milwaukee | 1,261"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 123
-table_5,Fewest Walks Allowed | Cincinnati | 419
-table_5,Saves | Pittsburgh | 41
-table_5,Shutouts | Milwaukee | 16
-table_5,Strikeouts | Los Angeles | 855
+year,league,category,text
+1958,National League,table_2,Complete Games | Warren Spahn | Milwaukee | 23
+1958,National League,table_2,ERA | Stu Miller | San Francisco | 2.47
+1958,National League,table_2,Games | Don Elston | Chicago | 69
+1958,National League,table_2,Saves | Roy Face | Pittsburgh | 20
+1958,National League,table_2,Shutouts | Carl Willey | Milwaukee | 4
+1958,National League,table_2,Strikeouts | Sam Jones | St. Louis | 225
+1958,National League,table_2,Winning Percentage | Lew Burdette | Milwaukee | .667
+1958,National League,table_2,Wins | Bob Friend | Pittsburgh | 22
+1958,National League,table_5,Complete Games | Milwaukee | 72
+1958,National League,table_5,ERA | Milwaukee | 3.22
+1958,National League,table_5,"Fewest Hits Allowed | Milwaukee | 1,261"
+1958,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 123
+1958,National League,table_5,Fewest Walks Allowed | Cincinnati | 419
+1958,National League,table_5,Saves | Pittsburgh | 41
+1958,National League,table_5,Shutouts | Milwaukee | 16
+1958,National League,table_5,Strikeouts | Los Angeles | 855

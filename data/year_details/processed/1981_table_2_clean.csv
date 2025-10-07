@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Fernando Valenzuela,Los Angeles,11,Top 25
-table_2,ERA,Nolan Ryan,Houston,1.69,Top 25
-table_2,Games,Gary Lucas,San Diego,57,Top 25
-table_2,Saves,Bruce Sutter,St. Louis,25,Top 25
-table_2,Shutouts,Fernando Valenzuela,Los Angeles,8,Top 25
-table_2,Strikeouts,Fernando Valenzuela,Los Angeles,180,Top 25
-table_2,Winning Percentage,Tom Seaver,Cincinnati,.875,Top 25
-table_2,Wins,Tom Seaver,Cincinnati,14,Top 25
+Year,Category,Statistic,Player,Team,Value
+1981,Individual Pitching Stats,Complete Games,Fernando Valenzuela,Los Angeles,11
+1981,Individual Pitching Stats,ERA,Nolan Ryan,Houston,1.69
+1981,Individual Pitching Stats,Games,Gary Lucas,San Diego,57
+1981,Individual Pitching Stats,Saves,Bruce Sutter,St. Louis,25
+1981,Individual Pitching Stats,Shutouts,Fernando Valenzuela,Los Angeles,8
+1981,Individual Pitching Stats,Strikeouts,Fernando Valenzuela,Los Angeles,180
+1981,Individual Pitching Stats,Winning Percentage,Tom Seaver,Cincinnati,.875
+1981,Individual Pitching Stats,Wins,Tom Seaver,Cincinnati,14

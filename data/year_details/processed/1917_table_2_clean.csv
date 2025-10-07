@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Grover Alexander,Philadelphia,34,Top 25
-table_2,ERA,Fred Anderson,New York,1.44,Top 25
-table_2,Games,Phil Douglas,Chicago,51,Top 25
-table_2,Saves,Slim Sallee,New York,4,Top 25
-table_2,Shutouts,Grover Alexander,Philadelphia,8,Top 25
-table_2,Strikeouts,Grover Alexander,Philadelphia,200,Top 25
-table_2,Winning Percentage,Ferdie Schupp,New York,.750,Top 25
-table_2,Wins,Grover Alexander,Philadelphia,30,Top 25
+Year,Category,Statistic,Player,Team,Value
+1917,Individual Pitching Stats,Complete Games,Grover Alexander,Philadelphia,34
+1917,Individual Pitching Stats,ERA,Fred Anderson,New York,1.44
+1917,Individual Pitching Stats,Games,Phil Douglas,Chicago,51
+1917,Individual Pitching Stats,Saves,Slim Sallee,New York,4
+1917,Individual Pitching Stats,Shutouts,Grover Alexander,Philadelphia,8
+1917,Individual Pitching Stats,Strikeouts,Grover Alexander,Philadelphia,200
+1917,Individual Pitching Stats,Winning Percentage,Ferdie Schupp,New York,.750
+1917,Individual Pitching Stats,Wins,Grover Alexander,Philadelphia,30

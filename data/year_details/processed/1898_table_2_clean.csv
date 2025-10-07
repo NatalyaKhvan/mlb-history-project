@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Jack Taylor,St. Louis,42,Top 25
-table_2,ERA,Clark Griffith,Chicago,1.88,Top 25
-table_2,Games,Kid Nichols,Boston,50,Top 25
-table_2,Saves,Kid Nichols,Boston,4,Top 25
-table_2,Shutouts,Wiley Piatt,Philadelphia,6,Top 25
-table_2,Strikeouts,Cy Seymour,New York,239,Top 25
-table_2,Winning Percentage,Ted Lewis,Boston,.765,Top 25
-table_2,Wins,Kid Nichols,Boston,31,Top 25
+Year,Category,Statistic,Player,Team,Value
+1898,Individual Pitching Stats,Complete Games,Jack Taylor,St. Louis,42
+1898,Individual Pitching Stats,ERA,Clark Griffith,Chicago,1.88
+1898,Individual Pitching Stats,Games,Kid Nichols,Boston,50
+1898,Individual Pitching Stats,Saves,Kid Nichols,Boston,4
+1898,Individual Pitching Stats,Shutouts,Wiley Piatt,Philadelphia,6
+1898,Individual Pitching Stats,Strikeouts,Cy Seymour,New York,239
+1898,Individual Pitching Stats,Winning Percentage,Ted Lewis,Boston,.765
+1898,Individual Pitching Stats,Wins,Kid Nichols,Boston,31

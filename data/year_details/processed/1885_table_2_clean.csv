@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,John Clarkson,Chicago,68,Top 25
-table_2,ERA,Tim Keefe,New York,1.58,Top 25
-table_2,Games,John Clarkson,Chicago,70,Top 25
-table_2,Saves,Fred Pfeffer,Chicago,2,Top 25
-table_2,Shutouts,John Clarkson,Chicago,10,Top 25
-table_2,Strikeouts,John Clarkson,Chicago,308,Top 25
-table_2,Winning Percentage,Mickey Welch,New York,.800,Top 25
-table_2,Wins,John Clarkson,Chicago,53,Top 25
+Year,Category,Statistic,Player,Team,Value
+1885,Individual Pitching Stats,Complete Games,John Clarkson,Chicago,68
+1885,Individual Pitching Stats,ERA,Tim Keefe,New York,1.58
+1885,Individual Pitching Stats,Games,John Clarkson,Chicago,70
+1885,Individual Pitching Stats,Saves,Fred Pfeffer,Chicago,2
+1885,Individual Pitching Stats,Shutouts,John Clarkson,Chicago,10
+1885,Individual Pitching Stats,Strikeouts,John Clarkson,Chicago,308
+1885,Individual Pitching Stats,Winning Percentage,Mickey Welch,New York,.800
+1885,Individual Pitching Stats,Wins,John Clarkson,Chicago,53

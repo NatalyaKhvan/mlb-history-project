@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Roy Hallady,Philadelphia,9,Top 25
-table_2,ERA,Josh Johnson,Florida,2.30,Top 25
-table_2,Games,Pedro Feliciano,New York,92,Top 25
-table_2,Saves,Brian Wilson,San Francisco,48,Top 25
-table_2,Shutouts,Roy Hallady,Philadelphia,4,Top 25
-table_2,Strikeouts,Tim Lincecum,San Francisco,231,Top 25
-table_2,Winning Percentage,Ubaldo Jimenez,Colorado,.704,Top 25
-table_2,Wins,Roy Hallady,Philadelphia,21,Top 25
+Year,Category,Statistic,Player,Team,Value
+2010,Individual Pitching Stats,Complete Games,Roy Hallady,Philadelphia,9
+2010,Individual Pitching Stats,ERA,Josh Johnson,Florida,2.30
+2010,Individual Pitching Stats,Games,Pedro Feliciano,New York,92
+2010,Individual Pitching Stats,Saves,Brian Wilson,San Francisco,48
+2010,Individual Pitching Stats,Shutouts,Roy Hallady,Philadelphia,4
+2010,Individual Pitching Stats,Strikeouts,Tim Lincecum,San Francisco,231
+2010,Individual Pitching Stats,Winning Percentage,Ubaldo Jimenez,Colorado,.704
+2010,Individual Pitching Stats,Wins,Roy Hallady,Philadelphia,21

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,James Shields,Tampa Bay,11,Top 25
-table_2,ERA,Justin Verlander,Detroit,2.40,Top 25
-table_2,Games,Jose Valverde,Detroit,75,Top 25
-table_2,Saves,Jose Valverde,Detroit,49,Top 25
-table_2,Shutouts,Derek Holland,Texas,4,Top 25
-table_2,Strikeouts,Justin Verlander,Detroit,250,Top 25
-table_2,Winning Percentage,Justin Verlander,Detroit,.828,Top 25
-table_2,Wins,Justin Verlander,Detroit,24,Top 25
+Year,Category,Statistic,Player,Team,Value
+2011,Individual Pitching Stats,Complete Games,James Shields,Tampa Bay,11
+2011,Individual Pitching Stats,ERA,Justin Verlander,Detroit,2.40
+2011,Individual Pitching Stats,Games,Jose Valverde,Detroit,75
+2011,Individual Pitching Stats,Saves,Jose Valverde,Detroit,49
+2011,Individual Pitching Stats,Shutouts,Derek Holland,Texas,4
+2011,Individual Pitching Stats,Strikeouts,Justin Verlander,Detroit,250
+2011,Individual Pitching Stats,Winning Percentage,Justin Verlander,Detroit,.828
+2011,Individual Pitching Stats,Wins,Justin Verlander,Detroit,24

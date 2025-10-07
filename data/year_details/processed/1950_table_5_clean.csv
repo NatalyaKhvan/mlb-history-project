@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Detroit,72
-table_5,ERA,Cleveland,3.76
-table_5,Fewest Hits Allowed,Cleveland,"1,289"
-table_5,Fewest Home Runs Allowed,Washington,99
-table_5,Fewest Walks Allowed,Detroit,553
-table_5,Saves,New York,31
-table_5,Shutouts,New York,12
-table_5,Strikeouts,New York,712
+Year,Category,Statistic,Team,Value
+1950,Team Pitching Stats,Complete Games,Detroit,72
+1950,Team Pitching Stats,ERA,Cleveland,3.76
+1950,Team Pitching Stats,Fewest Hits Allowed,Cleveland,"1,289"
+1950,Team Pitching Stats,Fewest Home Runs Allowed,Washington,99
+1950,Team Pitching Stats,Fewest Walks Allowed,Detroit,553
+1950,Team Pitching Stats,Saves,New York,31
+1950,Team Pitching Stats,Shutouts,New York,12
+1950,Team Pitching Stats,Strikeouts,New York,712

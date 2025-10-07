@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cincinnati,91
-table_5,ERA,Cincinnati,3.05
-table_5,Fewest Hits Allowed,Cincinnati,"1,263"
-table_5,Fewest Home Runs Allowed,Pittsburgh,72
-table_5,Fewest Walks Allowed,Brooklyn,393
-table_5,Saves,Pittsburgh,24
-table_5,Shutouts,Brooklyn,17
-table_5,Strikeouts,Brooklyn,639
+Year,Category,Statistic,Team,Value
+1940,Team Pitching Stats,Complete Games,Cincinnati,91
+1940,Team Pitching Stats,ERA,Cincinnati,3.05
+1940,Team Pitching Stats,Fewest Hits Allowed,Cincinnati,"1,263"
+1940,Team Pitching Stats,Fewest Home Runs Allowed,Pittsburgh,72
+1940,Team Pitching Stats,Fewest Walks Allowed,Brooklyn,393
+1940,Team Pitching Stats,Saves,Pittsburgh,24
+1940,Team Pitching Stats,Shutouts,Brooklyn,17
+1940,Team Pitching Stats,Strikeouts,Brooklyn,639

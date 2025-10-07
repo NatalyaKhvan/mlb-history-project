@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cincinnati,93
-table_5,ERA,St. Louis,2.68
-table_5,Fewest Hits Allowed,St. Louis,"1,228"
-table_5,Fewest Home Runs Allowed,Philadelphia,49
-table_5,Fewest Walks Allowed,Cincinnati,390
-table_5,Saves,New York,21
-table_5,Shutouts,St. Louis,26
-table_5,Strikeouts,St. Louis,637
+Year,Category,Statistic,Team,Value
+1944,Team Pitching Stats,Complete Games,Cincinnati,93
+1944,Team Pitching Stats,ERA,St. Louis,2.68
+1944,Team Pitching Stats,Fewest Hits Allowed,St. Louis,"1,228"
+1944,Team Pitching Stats,Fewest Home Runs Allowed,Philadelphia,49
+1944,Team Pitching Stats,Fewest Walks Allowed,Cincinnati,390
+1944,Team Pitching Stats,Saves,New York,21
+1944,Team Pitching Stats,Shutouts,St. Louis,26
+1944,Team Pitching Stats,Strikeouts,St. Louis,637

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Jim McCormick,Cleveland,72,Top 25
-table_2,ERA,Tim Keefe,Troy,0.86,Top 25
-table_2,Games,Jim McCormick,Cleveland,74,Top 25
-table_2,Saves,Lee Richmond,Worcester,3,Top 25
-table_2,Shutouts,John Ward,Providence,8,Top 25
-table_2,Strikeouts,Larry Corcoran,Chicago,268,Top 25
-table_2,Winning Percentage,Fred Goldsmith,Chicago,.875,Top 25
-table_2,Wins,Jim McCormick,Cleveland,45,Top 25
+Year,Category,Statistic,Player,Team,Value
+1880,Individual Pitching Stats,Complete Games,Jim McCormick,Cleveland,72
+1880,Individual Pitching Stats,ERA,Tim Keefe,Troy,0.86
+1880,Individual Pitching Stats,Games,Jim McCormick,Cleveland,74
+1880,Individual Pitching Stats,Saves,Lee Richmond,Worcester,3
+1880,Individual Pitching Stats,Shutouts,John Ward,Providence,8
+1880,Individual Pitching Stats,Strikeouts,Larry Corcoran,Chicago,268
+1880,Individual Pitching Stats,Winning Percentage,Fred Goldsmith,Chicago,.875
+1880,Individual Pitching Stats,Wins,Jim McCormick,Cleveland,45

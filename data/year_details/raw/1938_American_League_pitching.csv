@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Bobo Newsom | St. Louis | 31 | Top 25
-table_2,ERA | Lefty Grove | Boston | 3.08 | Top 25
-table_2,Games | Johnny Humphries | Cleveland | 45 | Top 25
-table_2,Saves | Johnny Murphy | New York | 11 | Top 25
-table_2,Shutouts | Lefty Gomez | New York | 4 | Top 25
-table_2,Strikeouts | Bob Feller | Cleveland | 240 | Top 25
-table_2,Winning Percentage | Red Ruffing | New York | .750 | Top 25
-table_2,Wins | Red Ruffing | New York | 21 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 91
-table_5,ERA | New York | 3.92
-table_5,"Fewest Hits Allowed | Cleveland | 1,416"
-table_5,Fewest Home Runs Allowed | New York | 85
-table_5,Fewest Walks Allowed | Boston | 528
-table_5,Saves | Cleveland | 17
-table_5,Shutouts | New York | 11
-table_5,Strikeouts | Cleveland | 717
-table_5,Statistic | Team | #
+year,league,category,text
+1938,American League,table_2,Complete Games | Bobo Newsom | St. Louis | 31
+1938,American League,table_2,ERA | Lefty Grove | Boston | 3.08
+1938,American League,table_2,Games | Johnny Humphries | Cleveland | 45
+1938,American League,table_2,Saves | Johnny Murphy | New York | 11
+1938,American League,table_2,Shutouts | Lefty Gomez | New York | 4
+1938,American League,table_2,Strikeouts | Bob Feller | Cleveland | 240
+1938,American League,table_2,Winning Percentage | Red Ruffing | New York | .750
+1938,American League,table_2,Wins | Red Ruffing | New York | 21
+1938,American League,table_5,Complete Games | New York | 91
+1938,American League,table_5,ERA | New York | 3.92
+1938,American League,table_5,"Fewest Hits Allowed | Cleveland | 1,416"
+1938,American League,table_5,Fewest Home Runs Allowed | New York | 85
+1938,American League,table_5,Fewest Walks Allowed | Boston | 528
+1938,American League,table_5,Saves | Cleveland | 17
+1938,American League,table_5,Shutouts | New York | 11
+1938,American League,table_5,Strikeouts | Cleveland | 717

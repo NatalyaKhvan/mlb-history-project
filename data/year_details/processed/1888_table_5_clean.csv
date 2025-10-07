@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Pittsburgh,135
-table_5,ERA,New York,1.96
-table_5,Fewest Hits Allowed,New York,907
-table_5,Fewest Home Runs Allowed,Pittsburgh,23
-table_5,Fewest Walks Allowed,Detroit,183
-table_5,Saves,Philadelphia,3
-table_5,Shutouts,New York,20
-table_5,Strikeouts,New York,726
+Year,Category,Statistic,Team,Value
+1888,Team Pitching Stats,Complete Games,Pittsburgh,135
+1888,Team Pitching Stats,ERA,New York,1.96
+1888,Team Pitching Stats,Fewest Hits Allowed,New York,907
+1888,Team Pitching Stats,Fewest Home Runs Allowed,Pittsburgh,23
+1888,Team Pitching Stats,Fewest Walks Allowed,Detroit,183
+1888,Team Pitching Stats,Saves,Philadelphia,3
+1888,Team Pitching Stats,Shutouts,New York,20
+1888,Team Pitching Stats,Strikeouts,New York,726

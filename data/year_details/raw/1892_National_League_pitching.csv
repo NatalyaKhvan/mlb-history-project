@@ -1,22 +1,18 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Bill Hutchison | Chicago | 67 | Top 25
-table_2,ERA | Cy Young | Cleveland | 1.93 | Top 25
-table_2,Games | Bill Hutchison | Chicago | 75 | Top 25
-table_2,Saves | Gus Weyhing | Philadelphia | 3 | Top 25
-table_2,Shutouts | Cy Young | Cleveland | 9 | Top 25
-table_2,Strikeouts | Bill Hutchison | Chicago | 314 | Top 25
-table_2,Winning Percentage | Mike Sullivan | Cincinnati | .750 | Top 25
-table_2,Cy Young | Cleveland | .750
-table_2,Wins | Bill Hutchison | Chicago | 36 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Louisville | 147
-table_5,ERA | Cleveland | 2.41
-table_5,"Fewest Hits Allowed | Boston | 1,156"
-table_5,Fewest Home Runs Allowed | Philadelphia | 24
-table_5,Fewest Walks Allowed | Cleveland | 413
-table_5,Saves | Brooklyn | 5
-table_5,Shutouts | Boston | 15
-table_5,Strikeouts | New York | 650
-table_5,Statistic | Team | #
+year,league,category,text
+1892,National League,table_2,Complete Games | Bill Hutchison | Chicago | 67
+1892,National League,table_2,ERA | Cy Young | Cleveland | 1.93
+1892,National League,table_2,Games | Bill Hutchison | Chicago | 75
+1892,National League,table_2,Saves | Gus Weyhing | Philadelphia | 3
+1892,National League,table_2,Shutouts | Cy Young | Cleveland | 9
+1892,National League,table_2,Strikeouts | Bill Hutchison | Chicago | 314
+1892,National League,table_2,Winning Percentage | Mike Sullivan | Cincinnati | .750
+1892,National League,table_2,Cy Young | Cleveland | .750
+1892,National League,table_2,Wins | Bill Hutchison | Chicago | 36
+1892,National League,table_5,Complete Games | Louisville | 147
+1892,National League,table_5,ERA | Cleveland | 2.41
+1892,National League,table_5,"Fewest Hits Allowed | Boston | 1,156"
+1892,National League,table_5,Fewest Home Runs Allowed | Philadelphia | 24
+1892,National League,table_5,Fewest Walks Allowed | Cleveland | 413
+1892,National League,table_5,Saves | Brooklyn | 5
+1892,National League,table_5,Shutouts | Boston | 15
+1892,National League,table_5,Strikeouts | New York | 650

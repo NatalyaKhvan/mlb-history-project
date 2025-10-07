@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Al Orth | New York | 36 | Top 25
-table_2,ERA | Doc White | Chicago | 1.52 | Top 25
-table_2,Games | Jack Chesbro | New York | 49 | Top 25
-table_2,Saves | Chief Bender | Philadelphia | 3 | Top 25
-table_2,Shutouts | Ed Walsh | Chicago | 10 | Top 25
-table_2,Strikeouts | Rube Waddell | Philadelphia | 196 | Top 25
-table_2,Winning Percentage | Eddie Plank | Philadelphia | .760 | Top 25
-table_2,Wins | Al Orth | New York | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 133
-table_5,ERA | Cleveland | 2.09
-table_5,"Fewest Hits Allowed | St. Louis | 1,132"
-table_5,Fewest Home Runs Allowed | Philadelphia | 9
-table_5,Fewest Walks Allowed | Chicago | 255
-table_5,Saves | Boston | 6
-table_5,Shutouts | Chicago | 32
-table_5,Strikeouts | Philadelphia | 749
-table_5,Statistic | Team | #
+year,league,category,text
+1906,American League,table_2,Complete Games | Al Orth | New York | 36
+1906,American League,table_2,ERA | Doc White | Chicago | 1.52
+1906,American League,table_2,Games | Jack Chesbro | New York | 49
+1906,American League,table_2,Saves | Chief Bender | Philadelphia | 3
+1906,American League,table_2,Shutouts | Ed Walsh | Chicago | 10
+1906,American League,table_2,Strikeouts | Rube Waddell | Philadelphia | 196
+1906,American League,table_2,Winning Percentage | Eddie Plank | Philadelphia | .760
+1906,American League,table_2,Wins | Al Orth | New York | 27
+1906,American League,table_5,Complete Games | Cleveland | 133
+1906,American League,table_5,ERA | Cleveland | 2.09
+1906,American League,table_5,"Fewest Hits Allowed | St. Louis | 1,132"
+1906,American League,table_5,Fewest Home Runs Allowed | Philadelphia | 9
+1906,American League,table_5,Fewest Walks Allowed | Chicago | 255
+1906,American League,table_5,Saves | Boston | 6
+1906,American League,table_5,Shutouts | Chicago | 32
+1906,American League,table_5,Strikeouts | Philadelphia | 749

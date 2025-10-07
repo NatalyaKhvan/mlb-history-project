@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Wes Ferrell | Cleveland | 27 | Top 25
-table_2,ERA | Lefty Grove | Philadelphia | 2.06 | Top 25
-table_2,Games | Bump Hadley | Washington | 55 | Top 25
-table_2,Saves | Wilcy Moore | Boston | 10 | Top 25
-table_2,Shutouts | Lefty Grove | Philadelphia | 4 | Top 25
-table_2,Strikeouts | Lefty Grove | Philadelphia | 175 | Top 25
-table_2,Winning Percentage | Lefty Grove | Philadelphia | .886 | Top 25
-table_2,Wins | Lefty Grove | Philadelphia | 31 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Philadelphia | 97
-table_5,ERA | Philadelphia | 3.47
-table_5,"Fewest Hits Allowed | Philadelphia | 1,342"
-table_5,Fewest Home Runs Allowed | Boston | 54
-table_5,Fewest Walks Allowed | St. Louis | 448
-table_5,Saves | Washington | 24
-table_5,Shutouts | Philadelphia | 12
-table_5,Strikeouts | New York | 686
+year,league,category,text
+1931,American League,table_2,Complete Games | Wes Ferrell | Cleveland | 27
+1931,American League,table_2,ERA | Lefty Grove | Philadelphia | 2.06
+1931,American League,table_2,Games | Bump Hadley | Washington | 55
+1931,American League,table_2,Saves | Wilcy Moore | Boston | 10
+1931,American League,table_2,Shutouts | Lefty Grove | Philadelphia | 4
+1931,American League,table_2,Strikeouts | Lefty Grove | Philadelphia | 175
+1931,American League,table_2,Winning Percentage | Lefty Grove | Philadelphia | .886
+1931,American League,table_2,Wins | Lefty Grove | Philadelphia | 31
+1931,American League,table_5,Complete Games | Philadelphia | 97
+1931,American League,table_5,ERA | Philadelphia | 3.47
+1931,American League,table_5,"Fewest Hits Allowed | Philadelphia | 1,342"
+1931,American League,table_5,Fewest Home Runs Allowed | Boston | 54
+1931,American League,table_5,Fewest Walks Allowed | St. Louis | 448
+1931,American League,table_5,Saves | Washington | 24
+1931,American League,table_5,Shutouts | Philadelphia | 12
+1931,American League,table_5,Strikeouts | New York | 686

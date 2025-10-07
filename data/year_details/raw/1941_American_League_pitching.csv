@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Thornton Lee | Chicago | 30 | Top 25
-table_2,ERA | Thornton Lee | Chicago | 2.37 | Top 25
-table_2,Games | Bob Feller | Cleveland | 44 | Top 25
-table_2,Saves | Johnny Murphy | New York | 15 | Top 25
-table_2,Shutouts | Bob Feller | Cleveland | 6 | Top 25
-table_2,Strikeouts | Bob Feller | Cleveland | 260 | Top 25
-table_2,Winning Percentage | Lefty Gomez | New York | .750 | Top 25
-table_2,Wins | Bob Feller | Cleveland | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 106
-table_5,ERA | Chicago | 3.52
-table_5,"Fewest Hits Allowed | New York | 1,309"
-table_5,Fewest Home Runs Allowed | Washington | 69
-table_5,Fewest Walks Allowed | Chicago | 521
-table_5,Saves | New York | 26
-table_5,Shutouts | Chicago | 14
-table_5,Strikeouts | Detroit | 697
-table_5,Statistic | Team | #
+year,league,category,text
+1941,American League,table_2,Complete Games | Thornton Lee | Chicago | 30
+1941,American League,table_2,ERA | Thornton Lee | Chicago | 2.37
+1941,American League,table_2,Games | Bob Feller | Cleveland | 44
+1941,American League,table_2,Saves | Johnny Murphy | New York | 15
+1941,American League,table_2,Shutouts | Bob Feller | Cleveland | 6
+1941,American League,table_2,Strikeouts | Bob Feller | Cleveland | 260
+1941,American League,table_2,Winning Percentage | Lefty Gomez | New York | .750
+1941,American League,table_2,Wins | Bob Feller | Cleveland | 25
+1941,American League,table_5,Complete Games | Chicago | 106
+1941,American League,table_5,ERA | Chicago | 3.52
+1941,American League,table_5,"Fewest Hits Allowed | New York | 1,309"
+1941,American League,table_5,Fewest Home Runs Allowed | Washington | 69
+1941,American League,table_5,Fewest Walks Allowed | Chicago | 521
+1941,American League,table_5,Saves | New York | 26
+1941,American League,table_5,Shutouts | Chicago | 14
+1941,American League,table_5,Strikeouts | Detroit | 697

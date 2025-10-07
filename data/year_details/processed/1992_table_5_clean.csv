@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,California,26
-table_5,ERA,Milwaukee,3.43
-table_5,Fewest Hits Allowed,Milwaukee,"1,344"
-table_5,Fewest Home Runs Allowed,Kansas City,106
-table_5,Fewest Walks Allowed,Milwaukee,435
-table_5,Saves,Oakland,58
-table_5,Shutouts,Baltimore,16
-table_5,Strikeouts,Texas,"1,034"
+Year,Category,Statistic,Team,Value
+1992,Team Pitching Stats,Complete Games,California,26
+1992,Team Pitching Stats,ERA,Milwaukee,3.43
+1992,Team Pitching Stats,Fewest Hits Allowed,Milwaukee,"1,344"
+1992,Team Pitching Stats,Fewest Home Runs Allowed,Kansas City,106
+1992,Team Pitching Stats,Fewest Walks Allowed,Milwaukee,435
+1992,Team Pitching Stats,Saves,Oakland,58
+1992,Team Pitching Stats,Shutouts,Baltimore,16
+1992,Team Pitching Stats,Strikeouts,Texas,"1,034"

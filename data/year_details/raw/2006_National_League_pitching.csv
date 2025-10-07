@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Aaron Harang | Cincinnati | 6 | Top 25
-table_2,ERA | Roy Oswalt | Houston | 2.98 | Top 25
-table_2,Games | Salomon Torres | Pittsburgh | 94 | Top 25
-table_2,Saves | Trevor Hoffman | San Diego | 46 | Top 25
-table_2,Shutouts | Chris Carpenter | St. Louis | 3 | Top 25
-table_2,Strikeouts | Aaron Harang | Cincinnati | 216 | Top 25
-table_2,Winning Percentage | Carlos Zambrano | Chicago | .696 | Top 25
-table_2,Wins | Aaron Harang | Cincinnati | 16 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2006,National League,table_2,Complete Games | Aaron Harang | Cincinnati | 6
+2006,National League,table_2,ERA | Roy Oswalt | Houston | 2.98
+2006,National League,table_2,Games | Salomon Torres | Pittsburgh | 94
+2006,National League,table_2,Saves | Trevor Hoffman | San Diego | 46
+2006,National League,table_2,Shutouts | Chris Carpenter | St. Louis | 3
+2006,National League,table_2,Strikeouts | Aaron Harang | Cincinnati | 216
+2006,National League,table_2,Winning Percentage | Carlos Zambrano | Chicago | .696
+2006,National League,table_2,Wins | Aaron Harang | Cincinnati | 16

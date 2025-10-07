@@ -1,17 +1,15 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Sandy Alcantara | Miami Marlins | 6 | Top 25
-table_2,ERA | Julio Urías | Los Angeles Dodgers | 2.16 | Top 25
-table_2,Games | John Brebbia | San Francisco Giants | 76 | Top 25
-table_2,Saves | Kenley Jansen | Atlanta Braves | 41 | Top 25
-table_2,Shutouts | Sandy Alcantara | Miami Marlins | 1 | Top 25
-table_2,Walker Buehler | Los Angeles Dodgers | 1
-table_2,Bryce Elder | Atlanta Braves | 1
-table_2,Hunter Greene | Cincinnati Reds | 1
-table_2,Chad Kuhl | Colorado Rockies | 1
-table_2,Jordan Montgomery | St. Louis Cardinals | 1
-table_2,Aaron Nola | Philadelphia Phillies | 1
-table_2,Strikeouts | Corbin Burnes | Milwaukee Brewers | 243 | Top 25
-table_2,Winning Percentage | Kyle Wright | Atlanta Braves | .808 | Top 25
-table_2,Wins | Kyle Wright | Atlanta Braves | 21 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2022,National League,table_2,Complete Games | Sandy Alcantara | Miami Marlins | 6
+2022,National League,table_2,ERA | Julio Urías | Los Angeles Dodgers | 2.16
+2022,National League,table_2,Games | John Brebbia | San Francisco Giants | 76
+2022,National League,table_2,Saves | Kenley Jansen | Atlanta Braves | 41
+2022,National League,table_2,Shutouts | Sandy Alcantara | Miami Marlins | 1
+2022,National League,table_2,Walker Buehler | Los Angeles Dodgers | 1
+2022,National League,table_2,Bryce Elder | Atlanta Braves | 1
+2022,National League,table_2,Hunter Greene | Cincinnati Reds | 1
+2022,National League,table_2,Chad Kuhl | Colorado Rockies | 1
+2022,National League,table_2,Jordan Montgomery | St. Louis Cardinals | 1
+2022,National League,table_2,Aaron Nola | Philadelphia Phillies | 1
+2022,National League,table_2,Strikeouts | Corbin Burnes | Milwaukee Brewers | 243
+2022,National League,table_2,Winning Percentage | Kyle Wright | Atlanta Braves | .808
+2022,National League,table_2,Wins | Kyle Wright | Atlanta Braves | 21

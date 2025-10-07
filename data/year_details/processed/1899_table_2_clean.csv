@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bill Carrick,New York,40,Top 25
-table_2,ERA,Vic Willis,Boston,2.50,Top 25
-table_2,Games,Sam Leever,Pittsburgh,51,Top 25
-table_2,Saves,Sam Leever,Pittsburgh,3,Top 25
-table_2,Shutouts,Vic Willis,Boston,5,Top 25
-table_2,Strikeouts,Noodles Hahn,Cincinnati,145,Top 25
-table_2,Winning Percentage,Jay Hughes,Brooklyn,.824,Top 25
-table_2,Wins,Jay Hughes,Brooklyn,28,Top 25
+Year,Category,Statistic,Player,Team,Value
+1899,Individual Pitching Stats,Complete Games,Bill Carrick,New York,40
+1899,Individual Pitching Stats,ERA,Vic Willis,Boston,2.50
+1899,Individual Pitching Stats,Games,Sam Leever,Pittsburgh,51
+1899,Individual Pitching Stats,Saves,Sam Leever,Pittsburgh,3
+1899,Individual Pitching Stats,Shutouts,Vic Willis,Boston,5
+1899,Individual Pitching Stats,Strikeouts,Noodles Hahn,Cincinnati,145
+1899,Individual Pitching Stats,Winning Percentage,Jay Hughes,Brooklyn,.824
+1899,Individual Pitching Stats,Wins,Jay Hughes,Brooklyn,28

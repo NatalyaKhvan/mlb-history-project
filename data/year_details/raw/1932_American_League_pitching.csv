@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Lefty Grove | Philadelphia | 27 | Top 25
-table_2,ERA | Lefty Grove | Philadelphia | 2.84 | Top 25
-table_2,Games | Firpo Marberry | Washington | 54 | Top 25
-table_2,Saves | Firpo Marberry | Washington | 13 | Top 25
-table_2,Shutouts | Tommy Bridges | Detroit | 4 | Top 25
-table_2,Strikeouts | Red Ruffing | New York | 190 | Top 25
-table_2,Winning Percentage | Johnny Allen | New York | .810 | Top 25
-table_2,Wins | Alvin Crowder | Washington | 26 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 96
-table_5,ERA | New York | 3.99
-table_5,"Fewest Hits Allowed | Detroit | 1,421"
-table_5,Fewest Home Runs Allowed | Cleveland | 70
-table_5,Fewest Walks Allowed | Cleveland | 446
-table_5,Saves | Washington | 22
-table_5,Shutouts | New York | 11
-table_5,Strikeouts | New York | 780
-table_5,Statistic | Team | #
+year,league,category,text
+1932,American League,table_2,Complete Games | Lefty Grove | Philadelphia | 27
+1932,American League,table_2,ERA | Lefty Grove | Philadelphia | 2.84
+1932,American League,table_2,Games | Firpo Marberry | Washington | 54
+1932,American League,table_2,Saves | Firpo Marberry | Washington | 13
+1932,American League,table_2,Shutouts | Tommy Bridges | Detroit | 4
+1932,American League,table_2,Strikeouts | Red Ruffing | New York | 190
+1932,American League,table_2,Winning Percentage | Johnny Allen | New York | .810
+1932,American League,table_2,Wins | Alvin Crowder | Washington | 26
+1932,American League,table_5,Complete Games | New York | 96
+1932,American League,table_5,ERA | New York | 3.99
+1932,American League,table_5,"Fewest Hits Allowed | Detroit | 1,421"
+1932,American League,table_5,Fewest Home Runs Allowed | Cleveland | 70
+1932,American League,table_5,Fewest Walks Allowed | Cleveland | 446
+1932,American League,table_5,Saves | Washington | 22
+1932,American League,table_5,Shutouts | New York | 11
+1932,American League,table_5,Strikeouts | New York | 780

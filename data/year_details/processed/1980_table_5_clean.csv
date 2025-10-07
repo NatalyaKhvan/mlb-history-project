@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Oakland,94
-table_5,ERA,Oakland,3.46
-table_5,Fewest Hits Allowed,Oakland,"1,347"
-table_5,Fewest Home Runs Allowed,New York,102
-table_5,Fewest Walks Allowed,Milwaukee,420
-table_5,Saves,New York,50
-table_5,Shutouts,New York,15
-table_5,Strikeouts,Texas,890
+Year,Category,Statistic,Team,Value
+1980,Team Pitching Stats,Complete Games,Oakland,94
+1980,Team Pitching Stats,ERA,Oakland,3.46
+1980,Team Pitching Stats,Fewest Hits Allowed,Oakland,"1,347"
+1980,Team Pitching Stats,Fewest Home Runs Allowed,New York,102
+1980,Team Pitching Stats,Fewest Walks Allowed,Milwaukee,420
+1980,Team Pitching Stats,Saves,New York,50
+1980,Team Pitching Stats,Shutouts,New York,15
+1980,Team Pitching Stats,Strikeouts,Texas,890

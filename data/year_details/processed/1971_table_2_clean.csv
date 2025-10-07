@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Fergie Jenkins,Chicago,30,Top 25
-table_2,ERA,Tom Seaver,New York,1.76,Top 25
-table_2,Games,Wayne Granger,Cincinnati,70,Top 25
-table_2,Saves,Dave Giusti,Pittsburgh,30,Top 25
-table_2,Shutouts,Steve Blass,Pittsburgh,5,Top 25
-table_2,Strikeouts,Tom Seaver,New York,289,Top 25
-table_2,Winning Percentage,Don Gullett,Cincinnati,.727,Top 25
-table_2,Wins,Fergie Jenkins,Chicago,24,Top 25
+Year,Category,Statistic,Player,Team,Value
+1971,Individual Pitching Stats,Complete Games,Fergie Jenkins,Chicago,30
+1971,Individual Pitching Stats,ERA,Tom Seaver,New York,1.76
+1971,Individual Pitching Stats,Games,Wayne Granger,Cincinnati,70
+1971,Individual Pitching Stats,Saves,Dave Giusti,Pittsburgh,30
+1971,Individual Pitching Stats,Shutouts,Steve Blass,Pittsburgh,5
+1971,Individual Pitching Stats,Strikeouts,Tom Seaver,New York,289
+1971,Individual Pitching Stats,Winning Percentage,Don Gullett,Cincinnati,.727
+1971,Individual Pitching Stats,Wins,Fergie Jenkins,Chicago,24

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Robin Roberts,Philadelphia,26,Top 25
-table_2,ERA,Bob Friend,Pittsburgh,2.83,Top 25
-table_2,Games,Clem Labine,Brooklyn,60,Top 25
-table_2,Saves,Jack Meyer,Philadelphia,16,Top 25
-table_2,Shutouts,Joe Nuxhall,Cincinnati,5,Top 25
-table_2,Strikeouts,Sam Jones,Chicago,198,Top 25
-table_2,Winning Percentage,Don Newcombe,Brooklyn,.800,Top 25
-table_2,Wins,Robin Roberts,Philadelphia,23,Top 25
+Year,Category,Statistic,Player,Team,Value
+1955,Individual Pitching Stats,Complete Games,Robin Roberts,Philadelphia,26
+1955,Individual Pitching Stats,ERA,Bob Friend,Pittsburgh,2.83
+1955,Individual Pitching Stats,Games,Clem Labine,Brooklyn,60
+1955,Individual Pitching Stats,Saves,Jack Meyer,Philadelphia,16
+1955,Individual Pitching Stats,Shutouts,Joe Nuxhall,Cincinnati,5
+1955,Individual Pitching Stats,Strikeouts,Sam Jones,Chicago,198
+1955,Individual Pitching Stats,Winning Percentage,Don Newcombe,Brooklyn,.800
+1955,Individual Pitching Stats,Wins,Robin Roberts,Philadelphia,23

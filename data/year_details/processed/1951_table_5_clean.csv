@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,73
-table_5,ERA,New York,3.48
-table_5,Fewest Hits Allowed,New York,"1,334"
-table_5,Fewest Home Runs Allowed,Boston,96
-table_5,Fewest Walks Allowed,New York,482
-table_5,Saves,Cincinnati,23
-table_5,Shutouts,Philadelphia,19
-table_5,Strikeouts,Brooklyn,693
+Year,Category,Statistic,Team,Value
+1951,Team Pitching Stats,Complete Games,Boston,73
+1951,Team Pitching Stats,ERA,New York,3.48
+1951,Team Pitching Stats,Fewest Hits Allowed,New York,"1,334"
+1951,Team Pitching Stats,Fewest Home Runs Allowed,Boston,96
+1951,Team Pitching Stats,Fewest Walks Allowed,New York,482
+1951,Team Pitching Stats,Saves,Cincinnati,23
+1951,Team Pitching Stats,Shutouts,Philadelphia,19
+1951,Team Pitching Stats,Strikeouts,Brooklyn,693

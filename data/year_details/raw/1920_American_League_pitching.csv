@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jim Bagby | Cleveland | 30 | Top 25
-table_2,ERA | Bob Shawkey | New York | 2.45 | Top 25
-table_2,Games | Jim Bagby | Cleveland | 48 | Top 25
-table_2,Saves | Dickie Kerr | Chicago | 5 | Top 25
-table_2,Shutouts | Carl Mays | New York | 6 | Top 25
-table_2,Strikeouts | Stan Coveleski | Cleveland | 133 | Top 25
-table_2,Winning Percentage | Jim Bagby | Cleveland | .721 | Top 25
-table_2,Wins | Jim Bagby | Cleveland | 31 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 109
-table_5,ERA | New York | 3.32
-table_5,"Fewest Hits Allowed | New York | 1,414"
-table_5,Fewest Home Runs Allowed | Cleveland | 31
-table_5,Fewest Walks Allowed | Cleveland | 401
-table_5,Saves | St. Louis | 14
-table_5,Shutouts | New York | 15
-table_5,Strikeouts | Detroit | 483
-table_5,Statistic | Team | #
+year,league,category,text
+1920,American League,table_2,Complete Games | Jim Bagby | Cleveland | 30
+1920,American League,table_2,ERA | Bob Shawkey | New York | 2.45
+1920,American League,table_2,Games | Jim Bagby | Cleveland | 48
+1920,American League,table_2,Saves | Dickie Kerr | Chicago | 5
+1920,American League,table_2,Shutouts | Carl Mays | New York | 6
+1920,American League,table_2,Strikeouts | Stan Coveleski | Cleveland | 133
+1920,American League,table_2,Winning Percentage | Jim Bagby | Cleveland | .721
+1920,American League,table_2,Wins | Jim Bagby | Cleveland | 31
+1920,American League,table_5,Complete Games | Chicago | 109
+1920,American League,table_5,ERA | New York | 3.32
+1920,American League,table_5,"Fewest Hits Allowed | New York | 1,414"
+1920,American League,table_5,Fewest Home Runs Allowed | Cleveland | 31
+1920,American League,table_5,Fewest Walks Allowed | Cleveland | 401
+1920,American League,table_5,Saves | St. Louis | 14
+1920,American League,table_5,Shutouts | New York | 15
+1920,American League,table_5,Strikeouts | Detroit | 483

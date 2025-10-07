@@ -1,21 +1,18 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Ned Garver | St. Louis | 22 | Top 25
-table_2,Bob Lemon | Cleveland | 22
-table_2,ERA | Early Wynn | Cleveland | 3.20 | Top 25
-table_2,Games | Mickey Harris | Washington | 53 | Top 25
-table_2,Saves | Mickey Harris | Washington | 15 | Top 25
-table_2,Shutouts | Art Houtteman | Detroit | 4 | Top 25
-table_2,Strikeouts | Bob Lemon | Cleveland | 170 | Top 25
-table_2,Winning Percentage | Vic Raschi | New York | .724 | Top 25
-table_2,Wins | Bob Lemon | Cleveland | 23 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Detroit | 72
-table_5,ERA | Cleveland | 3.76
-table_5,"Fewest Hits Allowed | Cleveland | 1,289"
-table_5,Fewest Home Runs Allowed | Washington | 99
-table_5,Fewest Walks Allowed | Detroit | 553
-table_5,Saves | New York | 31
-table_5,Shutouts | New York | 12
-table_5,Strikeouts | New York | 712
+year,league,category,text
+1950,American League,table_2,Complete Games | Ned Garver | St. Louis | 22
+1950,American League,table_2,Bob Lemon | Cleveland | 22
+1950,American League,table_2,ERA | Early Wynn | Cleveland | 3.20
+1950,American League,table_2,Games | Mickey Harris | Washington | 53
+1950,American League,table_2,Saves | Mickey Harris | Washington | 15
+1950,American League,table_2,Shutouts | Art Houtteman | Detroit | 4
+1950,American League,table_2,Strikeouts | Bob Lemon | Cleveland | 170
+1950,American League,table_2,Winning Percentage | Vic Raschi | New York | .724
+1950,American League,table_2,Wins | Bob Lemon | Cleveland | 23
+1950,American League,table_5,Complete Games | Detroit | 72
+1950,American League,table_5,ERA | Cleveland | 3.76
+1950,American League,table_5,"Fewest Hits Allowed | Cleveland | 1,289"
+1950,American League,table_5,Fewest Home Runs Allowed | Washington | 99
+1950,American League,table_5,Fewest Walks Allowed | Detroit | 553
+1950,American League,table_5,Saves | New York | 31
+1950,American League,table_5,Shutouts | New York | 12
+1950,American League,table_5,Strikeouts | New York | 712

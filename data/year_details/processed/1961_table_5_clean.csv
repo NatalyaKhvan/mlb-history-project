@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Detroit,62
-table_5,ERA,Baltimore,3.22
-table_5,Fewest Hits Allowed,Baltimore,"1,226"
-table_5,Fewest Home Runs Allowed,Baltimore,109
-table_5,Fewest Walks Allowed,Detroit,469
-table_5,Saves,New York,39
-table_5,Shutouts,Baltimore,21
-table_5,Strikeouts,Los Angeles,973
+Year,Category,Statistic,Team,Value
+1961,Team Pitching Stats,Complete Games,Detroit,62
+1961,Team Pitching Stats,ERA,Baltimore,3.22
+1961,Team Pitching Stats,Fewest Hits Allowed,Baltimore,"1,226"
+1961,Team Pitching Stats,Fewest Home Runs Allowed,Baltimore,109
+1961,Team Pitching Stats,Fewest Walks Allowed,Detroit,469
+1961,Team Pitching Stats,Saves,New York,39
+1961,Team Pitching Stats,Shutouts,Baltimore,21
+1961,Team Pitching Stats,Strikeouts,Los Angeles,973

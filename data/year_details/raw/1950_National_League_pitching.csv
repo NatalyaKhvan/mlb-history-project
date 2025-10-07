@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Vern Bickford | Boston | 27 | Top 25
-table_2,ERA | Jim Hearn | St. Louis | 2.49 | Top 25
-table_2,Games | Jim Konstanty | Philadelphia | 74 | Top 25
-table_2,Saves | Jim Konstanty | Philadelphia | 22 | Top 25
-table_2,Shutouts | Jim Hearn | St. Louis | 5 | Top 25
-table_2,Strikeouts | Warren Spahn | Boston | 191 | Top 25
-table_2,Winning Percentage | Sal Maglie | New York | .818 | Top 25
-table_2,Wins | Warren Spahn | Boston | 21 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 88
-table_5,ERA | Philadelphia | 3.50
-table_5,"Fewest Hits Allowed | New York | 1,268"
-table_5,Fewest Home Runs Allowed | St. Louis | 119
-table_5,Fewest Walks Allowed | Philadelphia | 530
-table_5,Saves | Philadelphia | 27
-table_5,Shutouts | New York | 19
-table_5,Strikeouts | Brooklyn | 772
+year,league,category,text
+1950,National League,table_2,Complete Games | Vern Bickford | Boston | 27
+1950,National League,table_2,ERA | Jim Hearn | St. Louis | 2.49
+1950,National League,table_2,Games | Jim Konstanty | Philadelphia | 74
+1950,National League,table_2,Saves | Jim Konstanty | Philadelphia | 22
+1950,National League,table_2,Shutouts | Jim Hearn | St. Louis | 5
+1950,National League,table_2,Strikeouts | Warren Spahn | Boston | 191
+1950,National League,table_2,Winning Percentage | Sal Maglie | New York | .818
+1950,National League,table_2,Wins | Warren Spahn | Boston | 21
+1950,National League,table_5,Complete Games | Boston | 88
+1950,National League,table_5,ERA | Philadelphia | 3.50
+1950,National League,table_5,"Fewest Hits Allowed | New York | 1,268"
+1950,National League,table_5,Fewest Home Runs Allowed | St. Louis | 119
+1950,National League,table_5,Fewest Walks Allowed | Philadelphia | 530
+1950,National League,table_5,Saves | Philadelphia | 27
+1950,National League,table_5,Shutouts | New York | 19
+1950,National League,table_5,Strikeouts | Brooklyn | 772

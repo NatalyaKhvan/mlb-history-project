@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Detroit,108
-table_5,ERA,Boston,2.74
-table_5,Fewest Hits Allowed,Boston,"1,309"
-table_5,Fewest Home Runs Allowed,Cleveland,17
-table_5,Fewest Walks Allowed,Chicago,384
-table_5,Saves,Philadelphia,13
-table_5,Shutouts,Chicago,17
-table_5,Strikeouts,Chicago,752
+Year,Category,Statistic,Team,Value
+1911,Team Pitching Stats,Complete Games,Detroit,108
+1911,Team Pitching Stats,ERA,Boston,2.74
+1911,Team Pitching Stats,Fewest Hits Allowed,Boston,"1,309"
+1911,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,17
+1911,Team Pitching Stats,Fewest Walks Allowed,Chicago,384
+1911,Team Pitching Stats,Saves,Philadelphia,13
+1911,Team Pitching Stats,Shutouts,Chicago,17
+1911,Team Pitching Stats,Strikeouts,Chicago,752

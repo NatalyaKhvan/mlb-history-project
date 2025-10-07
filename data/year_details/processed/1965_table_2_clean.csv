@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Mel Stottlemyre,New York,18,Top 25
-table_2,ERA,Sam McDowell,Cleveland,2.18,Top 25
-table_2,Games,Eddie Fisher,Chicago,82,Top 25
-table_2,Saves,Ron Kline,Washington,29,Top 25
-table_2,Shutouts,Mudcat Grant,Minnesota,6,Top 25
-table_2,Strikeouts,Sam McDowell,Cleveland,325,Top 25
-table_2,Winning Percentage,Mudcat Grant,Minnesota,.750,Top 25
-table_2,Wins,Mudcat Grant,Minnesota,21,Top 25
+Year,Category,Statistic,Player,Team,Value
+1965,Individual Pitching Stats,Complete Games,Mel Stottlemyre,New York,18
+1965,Individual Pitching Stats,ERA,Sam McDowell,Cleveland,2.18
+1965,Individual Pitching Stats,Games,Eddie Fisher,Chicago,82
+1965,Individual Pitching Stats,Saves,Ron Kline,Washington,29
+1965,Individual Pitching Stats,Shutouts,Mudcat Grant,Minnesota,6
+1965,Individual Pitching Stats,Strikeouts,Sam McDowell,Cleveland,325
+1965,Individual Pitching Stats,Winning Percentage,Mudcat Grant,Minnesota,.750
+1965,Individual Pitching Stats,Wins,Mudcat Grant,Minnesota,21

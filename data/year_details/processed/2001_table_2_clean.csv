@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Curt Schilling,Arizona,6,Top 25
-table_2,ERA,Randy Johnson,Arizona,2.49,Top 25
-table_2,Games,Steve Kline,St. Louis,89,Top 25
-table_2,Saves,Robb Nen,San Francisco,45,Top 25
-table_2,Shutouts,Greg Maddux,Atlanta,3,Top 25
-table_2,Strikeouts,Randy Johnson,Arizona,372,Top 25
-table_2,Winning Percentage,Roy Oswalt,Houston,.824,Top 25
-table_2,Wins,Curt Schilling,Arizona,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+2001,Individual Pitching Stats,Complete Games,Curt Schilling,Arizona,6
+2001,Individual Pitching Stats,ERA,Randy Johnson,Arizona,2.49
+2001,Individual Pitching Stats,Games,Steve Kline,St. Louis,89
+2001,Individual Pitching Stats,Saves,Robb Nen,San Francisco,45
+2001,Individual Pitching Stats,Shutouts,Greg Maddux,Atlanta,3
+2001,Individual Pitching Stats,Strikeouts,Randy Johnson,Arizona,372
+2001,Individual Pitching Stats,Winning Percentage,Roy Oswalt,Houston,.824
+2001,Individual Pitching Stats,Wins,Curt Schilling,Arizona,22

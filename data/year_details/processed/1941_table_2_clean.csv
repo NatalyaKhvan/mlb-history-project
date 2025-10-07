@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Thornton Lee,Chicago,30,Top 25
-table_2,ERA,Thornton Lee,Chicago,2.37,Top 25
-table_2,Games,Bob Feller,Cleveland,44,Top 25
-table_2,Saves,Johnny Murphy,New York,15,Top 25
-table_2,Shutouts,Bob Feller,Cleveland,6,Top 25
-table_2,Strikeouts,Bob Feller,Cleveland,260,Top 25
-table_2,Winning Percentage,Lefty Gomez,New York,.750,Top 25
-table_2,Wins,Bob Feller,Cleveland,25,Top 25
+Year,Category,Statistic,Player,Team,Value
+1941,Individual Pitching Stats,Complete Games,Thornton Lee,Chicago,30
+1941,Individual Pitching Stats,ERA,Thornton Lee,Chicago,2.37
+1941,Individual Pitching Stats,Games,Bob Feller,Cleveland,44
+1941,Individual Pitching Stats,Saves,Johnny Murphy,New York,15
+1941,Individual Pitching Stats,Shutouts,Bob Feller,Cleveland,6
+1941,Individual Pitching Stats,Strikeouts,Bob Feller,Cleveland,260
+1941,Individual Pitching Stats,Winning Percentage,Lefty Gomez,New York,.750
+1941,Individual Pitching Stats,Wins,Bob Feller,Cleveland,25

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Arizona,12
-table_5,ERA,Atlanta,3.59
-table_5,Fewest Hits Allowed,Arizona,"1,352"
-table_5,Fewest Home Runs Allowed,San Francisco,145
-table_5,Fewest Walks Allowed,New York,438
-table_5,Saves,Houston,48
-table_5,Shutouts,New York,14
-table_5,Strikeouts,Chicago,"1,344"
+Year,Category,Statistic,Team,Value
+2001,Team Pitching Stats,Complete Games,Arizona,12
+2001,Team Pitching Stats,ERA,Atlanta,3.59
+2001,Team Pitching Stats,Fewest Hits Allowed,Arizona,"1,352"
+2001,Team Pitching Stats,Fewest Home Runs Allowed,San Francisco,145
+2001,Team Pitching Stats,Fewest Walks Allowed,New York,438
+2001,Team Pitching Stats,Saves,Houston,48
+2001,Team Pitching Stats,Shutouts,New York,14
+2001,Team Pitching Stats,Strikeouts,Chicago,"1,344"

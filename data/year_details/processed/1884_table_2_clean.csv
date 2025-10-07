@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Old Hoss Radbourn,Providence,73,Top 25
-table_2,ERA,Old Hoss Radbourn,Providence,1.38,Top 25
-table_2,Games,Old Hoss Radbourn,Providence,75,Top 25
-table_2,Saves,John Morrill,Boston,2,Top 25
-table_2,Shutouts,Pud Galvin,Buffalo,12,Top 25
-table_2,Strikeouts,Old Hoss Radbourn,Providence,441,Top 25
-table_2,Winning Percentage,Old Hoss Radbourn,Providence,.831,Top 25
-table_2,Wins,Old Hoss Radbourn,Providence,59,Top 25
+Year,Category,Statistic,Player,Team,Value
+1884,Individual Pitching Stats,Complete Games,Old Hoss Radbourn,Providence,73
+1884,Individual Pitching Stats,ERA,Old Hoss Radbourn,Providence,1.38
+1884,Individual Pitching Stats,Games,Old Hoss Radbourn,Providence,75
+1884,Individual Pitching Stats,Saves,John Morrill,Boston,2
+1884,Individual Pitching Stats,Shutouts,Pud Galvin,Buffalo,12
+1884,Individual Pitching Stats,Strikeouts,Old Hoss Radbourn,Providence,441
+1884,Individual Pitching Stats,Winning Percentage,Old Hoss Radbourn,Providence,.831
+1884,Individual Pitching Stats,Wins,Old Hoss Radbourn,Providence,59

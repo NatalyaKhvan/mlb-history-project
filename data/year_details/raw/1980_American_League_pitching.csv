@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Rick Langford | Oakland | 28 | Top 25
-table_2,ERA | Rudy May | New York | 2.46 | Top 25
-table_2,Games | Dan Quisenberry | Kansas City | 75 | Top 25
-table_2,Saves | Rich Gossage | New York | 33 | Top 25
-table_2,Shutouts | Tommy John | New York | 6 | Top 25
-table_2,Strikeouts | Len Barker | Cleveland | 187 | Top 25
-table_2,Winning Percentage | Steve Stone | Baltimore | .781 | Top 25
-table_2,Wins | Steve Stone | Baltimore | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Oakland | 94
-table_5,ERA | Oakland | 3.46
-table_5,"Fewest Hits Allowed | Oakland | 1,347"
-table_5,Fewest Home Runs Allowed | New York | 102
-table_5,Fewest Walks Allowed | Milwaukee | 420
-table_5,Saves | New York | 50
-table_5,Shutouts | New York | 15
-table_5,Strikeouts | Texas | 890
+year,league,category,text
+1980,American League,table_2,Complete Games | Rick Langford | Oakland | 28
+1980,American League,table_2,ERA | Rudy May | New York | 2.46
+1980,American League,table_2,Games | Dan Quisenberry | Kansas City | 75
+1980,American League,table_2,Saves | Rich Gossage | New York | 33
+1980,American League,table_2,Shutouts | Tommy John | New York | 6
+1980,American League,table_2,Strikeouts | Len Barker | Cleveland | 187
+1980,American League,table_2,Winning Percentage | Steve Stone | Baltimore | .781
+1980,American League,table_2,Wins | Steve Stone | Baltimore | 25
+1980,American League,table_5,Complete Games | Oakland | 94
+1980,American League,table_5,ERA | Oakland | 3.46
+1980,American League,table_5,"Fewest Hits Allowed | Oakland | 1,347"
+1980,American League,table_5,Fewest Home Runs Allowed | New York | 102
+1980,American League,table_5,Fewest Walks Allowed | Milwaukee | 420
+1980,American League,table_5,Saves | New York | 50
+1980,American League,table_5,Shutouts | New York | 15
+1980,American League,table_5,Strikeouts | Texas | 890

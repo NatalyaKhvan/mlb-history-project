@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bartolo Colon,Chicago,9,Top 25
-table_2,ERA,Pedro Martinez,Boston,2.22,Top 25
-table_2,Games,Trever Miller,Toronto,79,Top 25
-table_2,Saves,Keith Foulke,Oakland,43,Top 25
-table_2,Shutouts,Roy Halladay,Toronto,2,Top 25
-table_2,Strikeouts,Esteban Loaiza,Chicago,207,Top 25
-table_2,Winning Percentage,Roy Halladay,Toronto,.759,Top 25
-table_2,Wins,Roy Halladay,Toronto,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+2003,Individual Pitching Stats,Complete Games,Bartolo Colon,Chicago,9
+2003,Individual Pitching Stats,ERA,Pedro Martinez,Boston,2.22
+2003,Individual Pitching Stats,Games,Trever Miller,Toronto,79
+2003,Individual Pitching Stats,Saves,Keith Foulke,Oakland,43
+2003,Individual Pitching Stats,Shutouts,Roy Halladay,Toronto,2
+2003,Individual Pitching Stats,Strikeouts,Esteban Loaiza,Chicago,207
+2003,Individual Pitching Stats,Winning Percentage,Roy Halladay,Toronto,.759
+2003,Individual Pitching Stats,Wins,Roy Halladay,Toronto,22

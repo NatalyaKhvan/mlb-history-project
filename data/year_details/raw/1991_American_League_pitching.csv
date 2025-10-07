@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Jack McDowell | Chicago | 15 | Top 25
-table_2,ERA | Roger Clemens | Boston | 2.62 | Top 25
-table_2,Games | Duane Ward | Toronto | 81 | Top 25
-table_2,Saves | Bryan Harvey | California | 46 | Top 25
-table_2,Shutouts | Roger Clemens | Boston | 4 | Top 25
-table_2,Strikeouts | Roger Clemens | Boston | 241 | Top 25
-table_2,Winning Percentage | Scott Erickson | Minnesota | .714 | Top 25
-table_2,Wins | Scott Erickson | Minnesota | 20 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 28
-table_5,ERA | Toronto | 3.50
-table_5,"Fewest Hits Allowed | Toronto | 1,301"
-table_5,Fewest Home Runs Allowed | Kansas City | 105
-table_5,Fewest Walks Allowed | Cleveland | 441
-table_5,Saves | Toronto | 60
-table_5,Shutouts | Toronto | 16
-table_5,"Strikeouts | Texas | 1,022"
-table_5,Statistic | Team | #
+year,league,category,text
+1991,American League,table_2,Complete Games | Jack McDowell | Chicago | 15
+1991,American League,table_2,ERA | Roger Clemens | Boston | 2.62
+1991,American League,table_2,Games | Duane Ward | Toronto | 81
+1991,American League,table_2,Saves | Bryan Harvey | California | 46
+1991,American League,table_2,Shutouts | Roger Clemens | Boston | 4
+1991,American League,table_2,Strikeouts | Roger Clemens | Boston | 241
+1991,American League,table_2,Winning Percentage | Scott Erickson | Minnesota | .714
+1991,American League,table_2,Wins | Scott Erickson | Minnesota | 20
+1991,American League,table_5,Complete Games | Chicago | 28
+1991,American League,table_5,ERA | Toronto | 3.50
+1991,American League,table_5,"Fewest Hits Allowed | Toronto | 1,301"
+1991,American League,table_5,Fewest Home Runs Allowed | Kansas City | 105
+1991,American League,table_5,Fewest Walks Allowed | Cleveland | 441
+1991,American League,table_5,Saves | Toronto | 60
+1991,American League,table_5,Shutouts | Toronto | 16
+1991,American League,table_5,"Strikeouts | Texas | 1,022"

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,St. Louis,37
-table_5,ERA,Los Angeles,2.96
-table_5,Fewest Hits Allowed,Los Angeles,"1,280"
-table_5,Fewest Home Runs Allowed,St. Louis,98
-table_5,Fewest Walks Allowed,San Diego,443
-table_5,Saves,Montreal,53
-table_5,Shutouts,Los Angeles,21
-table_5,Strikeouts,New York,"1,039"
+Year,Category,Statistic,Team,Value
+1985,Team Pitching Stats,Complete Games,St. Louis,37
+1985,Team Pitching Stats,ERA,Los Angeles,2.96
+1985,Team Pitching Stats,Fewest Hits Allowed,Los Angeles,"1,280"
+1985,Team Pitching Stats,Fewest Home Runs Allowed,St. Louis,98
+1985,Team Pitching Stats,Fewest Walks Allowed,San Diego,443
+1985,Team Pitching Stats,Saves,Montreal,53
+1985,Team Pitching Stats,Shutouts,Los Angeles,21
+1985,Team Pitching Stats,Strikeouts,New York,"1,039"

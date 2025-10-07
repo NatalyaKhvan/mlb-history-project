@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Walter Johnson,Washington,36,Top 25
-table_2,ERA,Babe Ruth,Boston,1.75,Top 25
-table_2,Games,Dave Davenport,St. Louis,59,Top 25
-table_2,Saves,Bob Shawkey,New York,8,Top 25
-table_2,Shutouts,Babe Ruth,Boston,9,Top 25
-table_2,Strikeouts,Walter Johnson,Washington,228,Top 25
-table_2,Winning Percentage,Nick Cullop,New York,.684,Top 25
-table_2,Wins,Walter Johnson,Washington,25,Top 25
+Year,Category,Statistic,Player,Team,Value
+1916,Individual Pitching Stats,Complete Games,Walter Johnson,Washington,36
+1916,Individual Pitching Stats,ERA,Babe Ruth,Boston,1.75
+1916,Individual Pitching Stats,Games,Dave Davenport,St. Louis,59
+1916,Individual Pitching Stats,Saves,Bob Shawkey,New York,8
+1916,Individual Pitching Stats,Shutouts,Babe Ruth,Boston,9
+1916,Individual Pitching Stats,Strikeouts,Walter Johnson,Washington,228
+1916,Individual Pitching Stats,Winning Percentage,Nick Cullop,New York,.684
+1916,Individual Pitching Stats,Wins,Walter Johnson,Washington,25

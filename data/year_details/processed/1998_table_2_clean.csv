@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Scott Erickson,Baltimore,11,Top 25
-table_2,ERA,Roger Clemens,Toronto,2.65,Top 25
-table_2,Games,Sean Runyan,Detroit,88,Top 25
-table_2,Saves,Tom Gordon,Boston,46,Top 25
-table_2,Shutouts,David Wells,New York,5,Top 25
-table_2,Strikeouts,Roger Clemens,Toronto,271,Top 25
-table_2,Winning Percentage,David Wells,New York,.818,Top 25
-table_2,Wins,Roger Clemens,Toronto,20,Top 25
+Year,Category,Statistic,Player,Team,Value
+1998,Individual Pitching Stats,Complete Games,Scott Erickson,Baltimore,11
+1998,Individual Pitching Stats,ERA,Roger Clemens,Toronto,2.65
+1998,Individual Pitching Stats,Games,Sean Runyan,Detroit,88
+1998,Individual Pitching Stats,Saves,Tom Gordon,Boston,46
+1998,Individual Pitching Stats,Shutouts,David Wells,New York,5
+1998,Individual Pitching Stats,Strikeouts,Roger Clemens,Toronto,271
+1998,Individual Pitching Stats,Winning Percentage,David Wells,New York,.818
+1998,Individual Pitching Stats,Wins,Roger Clemens,Toronto,20

@@ -1,12 +1,10 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Gerrit Cole | New York Yankees | 2 | Top 25
-table_2,Sean Manaea | Oakland Athletics | 2
-table_2,ERA | Robbie Ray | Toronto Blue Jays | 2.84 | Top 25
-table_2,Games | Bryan Shaw | Cleveland Indians | 81 | Top 25
-table_2,Saves | Liam Hendriks | Chicago White Sox | 38 | Top 25
-table_2,Shutouts | Sean Manaea | Oakland Athletics | 2 | Top 25
-table_2,Strikeouts | Robbie Ray | Toronto Blue Jays | 248 | Top 25
-table_2,"Winning Percentage | Lance McCullers, Jr. | Houston Astros | .722 | Top 25"
-table_2,Wins | Gerrit Cole | New York Yankees | 16 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2021,American League,table_2,Complete Games | Gerrit Cole | New York Yankees | 2
+2021,American League,table_2,Sean Manaea | Oakland Athletics | 2
+2021,American League,table_2,ERA | Robbie Ray | Toronto Blue Jays | 2.84
+2021,American League,table_2,Games | Bryan Shaw | Cleveland Indians | 81
+2021,American League,table_2,Saves | Liam Hendriks | Chicago White Sox | 38
+2021,American League,table_2,Shutouts | Sean Manaea | Oakland Athletics | 2
+2021,American League,table_2,Strikeouts | Robbie Ray | Toronto Blue Jays | 248
+2021,American League,table_2,"Winning Percentage | Lance McCullers, Jr. | Houston Astros | .722"
+2021,American League,table_2,Wins | Gerrit Cole | New York Yankees | 16

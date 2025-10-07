@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Ed Morris,Pittsburgh,54,Top 25
-table_2,ERA,Tim Keefe,New York,1.74,Top 25
-table_2,Games,Ed Morris,Pittsburgh,55,Top 25
-table_2,Saves,George Wood,Philadelphia,2,Top 25
-table_2,Shutouts,Tim Keefe,New York,8,Top 25
-table_2,Strikeouts,Tim Keefe,New York,335,Top 25
-table_2,Winning Percentage,Tim Keefe,New York,.745,Top 25
-table_2,Wins,Tim Keefe,New York,35,Top 25
+Year,Category,Statistic,Player,Team,Value
+1888,Individual Pitching Stats,Complete Games,Ed Morris,Pittsburgh,54
+1888,Individual Pitching Stats,ERA,Tim Keefe,New York,1.74
+1888,Individual Pitching Stats,Games,Ed Morris,Pittsburgh,55
+1888,Individual Pitching Stats,Saves,George Wood,Philadelphia,2
+1888,Individual Pitching Stats,Shutouts,Tim Keefe,New York,8
+1888,Individual Pitching Stats,Strikeouts,Tim Keefe,New York,335
+1888,Individual Pitching Stats,Winning Percentage,Tim Keefe,New York,.745
+1888,Individual Pitching Stats,Wins,Tim Keefe,New York,35

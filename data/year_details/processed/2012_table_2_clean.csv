@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Justin Verlander,Detroit,6,Top 25
-table_2,ERA,David Price,Tampa Bay,2.56,Top 25
-table_2,Games,Boone Logan,New York,80,Top 25
-table_2,Saves,Jim Johnson,Baltimore,51,Top 25
-table_2,Shutouts,Felix Hernandez,Seattle,5,Top 25
-table_2,Strikeouts,Justin Verlander,Detroit,239,Top 25
-table_2,Winning Percentage,David Price,Tampa Bay,.800,Top 25
-table_2,Wins,David Price,Tampa Bay,20,Top 25
+Year,Category,Statistic,Player,Team,Value
+2012,Individual Pitching Stats,Complete Games,Justin Verlander,Detroit,6
+2012,Individual Pitching Stats,ERA,David Price,Tampa Bay,2.56
+2012,Individual Pitching Stats,Games,Boone Logan,New York,80
+2012,Individual Pitching Stats,Saves,Jim Johnson,Baltimore,51
+2012,Individual Pitching Stats,Shutouts,Felix Hernandez,Seattle,5
+2012,Individual Pitching Stats,Strikeouts,Justin Verlander,Detroit,239
+2012,Individual Pitching Stats,Winning Percentage,David Price,Tampa Bay,.800
+2012,Individual Pitching Stats,Wins,David Price,Tampa Bay,20

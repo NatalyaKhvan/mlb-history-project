@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Arizona,16
-table_5,ERA,Atlanta,3.65
-table_5,Fewest Hits Allowed,Cincinnati,"1,309"
-table_5,Fewest Home Runs Allowed,Houston,128
-table_5,Fewest Walks Allowed,Houston,478
-table_5,Saves,Cincinnati,55
-table_5,Shutouts,Houston,5
-table_5,Strikeouts,Houston,"1,204"
+Year,Category,Statistic,Team,Value
+1999,Team Pitching Stats,Complete Games,Arizona,16
+1999,Team Pitching Stats,ERA,Atlanta,3.65
+1999,Team Pitching Stats,Fewest Hits Allowed,Cincinnati,"1,309"
+1999,Team Pitching Stats,Fewest Home Runs Allowed,Houston,128
+1999,Team Pitching Stats,Fewest Walks Allowed,Houston,478
+1999,Team Pitching Stats,Saves,Cincinnati,55
+1999,Team Pitching Stats,Shutouts,Houston,5
+1999,Team Pitching Stats,Strikeouts,Houston,"1,204"

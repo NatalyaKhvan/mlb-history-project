@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Ramon Martinez,Los Angeles,12,Top 25
-table_2,ERA,Danny Darwin,Houston,2.21,Top 25
-table_2,Games,Juan Agosto,Houston,82,Top 25
-table_2,Saves,John Franco,New York,33,Top 25
-table_2,Shutouts,Bruce Hurst,San Diego,4,Top 25
-table_2,Strikeouts,David Cone,New York,233,Top 25
-table_2,Winning Percentage,Doug Drabek,Pittsburgh,.786,Top 25
-table_2,Wins,Doug Drabek,Pittsburgh,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+1990,Individual Pitching Stats,Complete Games,Ramon Martinez,Los Angeles,12
+1990,Individual Pitching Stats,ERA,Danny Darwin,Houston,2.21
+1990,Individual Pitching Stats,Games,Juan Agosto,Houston,82
+1990,Individual Pitching Stats,Saves,John Franco,New York,33
+1990,Individual Pitching Stats,Shutouts,Bruce Hurst,San Diego,4
+1990,Individual Pitching Stats,Strikeouts,David Cone,New York,233
+1990,Individual Pitching Stats,Winning Percentage,Doug Drabek,Pittsburgh,.786
+1990,Individual Pitching Stats,Wins,Doug Drabek,Pittsburgh,22

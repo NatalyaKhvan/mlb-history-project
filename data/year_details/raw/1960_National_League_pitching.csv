@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Lew Burdette | Milwaukee | 18 | Top 25
-table_2,ERA | Mike McCormick | San Francisco | 2.70 | Top 25
-table_2,Games | Roy Face | Pittsburgh | 68 | Top 25
-table_2,Saves | Lindy McDaniel | St. Louis | 26 | Top 25
-table_2,Shutouts | Jack Sanford | San Francisco | 6 | Top 25
-table_2,Strikeouts | Don Drysdale | Los Angeles | 246 | Top 25
-table_2,Winning Percentage | Ernie Broglio | St. Louis | .700 | Top 25
-table_2,Wins | Ernie Broglio | St. Louis | 21 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Milwaukee | 55
-table_5,ERA | Los Angeles | 3.40
-table_5,"Fewest Hits Allowed | Los Angeles | 1,218"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 105
-table_5,Fewest Walks Allowed | Pittsburgh | 386
-table_5,Saves | Cincinnati | 35
-table_5,Shutouts | San Francisco | 16
-table_5,"Strikeouts | Los Angeles | 1,122"
+year,league,category,text
+1960,National League,table_2,Complete Games | Lew Burdette | Milwaukee | 18
+1960,National League,table_2,ERA | Mike McCormick | San Francisco | 2.70
+1960,National League,table_2,Games | Roy Face | Pittsburgh | 68
+1960,National League,table_2,Saves | Lindy McDaniel | St. Louis | 26
+1960,National League,table_2,Shutouts | Jack Sanford | San Francisco | 6
+1960,National League,table_2,Strikeouts | Don Drysdale | Los Angeles | 246
+1960,National League,table_2,Winning Percentage | Ernie Broglio | St. Louis | .700
+1960,National League,table_2,Wins | Ernie Broglio | St. Louis | 21
+1960,National League,table_5,Complete Games | Milwaukee | 55
+1960,National League,table_5,ERA | Los Angeles | 3.40
+1960,National League,table_5,"Fewest Hits Allowed | Los Angeles | 1,218"
+1960,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 105
+1960,National League,table_5,Fewest Walks Allowed | Pittsburgh | 386
+1960,National League,table_5,Saves | Cincinnati | 35
+1960,National League,table_5,Shutouts | San Francisco | 16
+1960,National League,table_5,"Strikeouts | Los Angeles | 1,122"

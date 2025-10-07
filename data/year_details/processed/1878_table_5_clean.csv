@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cincinnati,61
-table_5,ERA,Cincinnati,1.84
-table_5,Fewest Hits Allowed,Cincinnati,546
-table_5,Fewest Home Runs Allowed,Cincinnati,2
-table_5,Fewest Walks Allowed,Chicago,35
-table_5,Saves,Indianapolis,1
-table_5,Shutouts,Boston,9
-table_5,Strikeouts,Cincinnati,220
+Year,Category,Statistic,Team,Value
+1878,Team Pitching Stats,Complete Games,Cincinnati,61
+1878,Team Pitching Stats,ERA,Cincinnati,1.84
+1878,Team Pitching Stats,Fewest Hits Allowed,Cincinnati,546
+1878,Team Pitching Stats,Fewest Home Runs Allowed,Cincinnati,2
+1878,Team Pitching Stats,Fewest Walks Allowed,Chicago,35
+1878,Team Pitching Stats,Saves,Indianapolis,1
+1878,Team Pitching Stats,Shutouts,Boston,9
+1878,Team Pitching Stats,Strikeouts,Cincinnati,220

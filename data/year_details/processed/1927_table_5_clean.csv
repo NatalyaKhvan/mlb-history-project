@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,85
-table_5,ERA,New York,3.20
-table_5,Fewest Hits Allowed,New York,"1,403"
-table_5,Fewest Home Runs Allowed,Cleveland,37
-table_5,Fewest Walks Allowed,New York,409
-table_5,Saves,Philadelphia,24
-table_5,Shutouts,New York,11
-table_5,Strikeouts,Philadelphia,553
+Year,Category,Statistic,Team,Value
+1927,Team Pitching Stats,Complete Games,Chicago,85
+1927,Team Pitching Stats,ERA,New York,3.20
+1927,Team Pitching Stats,Fewest Hits Allowed,New York,"1,403"
+1927,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,37
+1927,Team Pitching Stats,Fewest Walks Allowed,New York,409
+1927,Team Pitching Stats,Saves,Philadelphia,24
+1927,Team Pitching Stats,Shutouts,New York,11
+1927,Team Pitching Stats,Strikeouts,Philadelphia,553

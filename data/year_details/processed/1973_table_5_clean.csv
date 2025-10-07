@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,California,72
-table_5,ERA,Baltimore,3.07
-table_5,Fewest Hits Allowed,Baltimore,"1,297"
-table_5,Fewest Home Runs Allowed,California,104
-table_5,Fewest Walks Allowed,New York,457
-table_5,Saves,Detroit,46
-table_5,Shutouts,Minnesota,18
-table_5,Strikeouts,California,"1,010"
+Year,Category,Statistic,Team,Value
+1973,Team Pitching Stats,Complete Games,California,72
+1973,Team Pitching Stats,ERA,Baltimore,3.07
+1973,Team Pitching Stats,Fewest Hits Allowed,Baltimore,"1,297"
+1973,Team Pitching Stats,Fewest Home Runs Allowed,California,104
+1973,Team Pitching Stats,Fewest Walks Allowed,New York,457
+1973,Team Pitching Stats,Saves,Detroit,46
+1973,Team Pitching Stats,Shutouts,Minnesota,18
+1973,Team Pitching Stats,Strikeouts,California,"1,010"

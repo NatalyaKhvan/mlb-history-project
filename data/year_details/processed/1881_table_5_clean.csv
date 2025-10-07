@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Troy,85
-table_5,ERA,Providence,2.40
-table_5,Fewest Hits Allowed,Chicago,722
-table_5,Fewest Home Runs Allowed,Providence,5
-table_5,Fewest Walks Allowed,Buffalo,89
-table_5,Saves,Boston,3
-table_5,Shutouts,Detroit,10
-table_5,Strikeouts,Detroit,265
+Year,Category,Statistic,Team,Value
+1881,Team Pitching Stats,Complete Games,Troy,85
+1881,Team Pitching Stats,ERA,Providence,2.40
+1881,Team Pitching Stats,Fewest Hits Allowed,Chicago,722
+1881,Team Pitching Stats,Fewest Home Runs Allowed,Providence,5
+1881,Team Pitching Stats,Fewest Walks Allowed,Buffalo,89
+1881,Team Pitching Stats,Saves,Boston,3
+1881,Team Pitching Stats,Shutouts,Detroit,10
+1881,Team Pitching Stats,Strikeouts,Detroit,265

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Camilo Pascual,Minnesota,18,Top 25
-table_2,ERA,Hank Aguirre,Detroit,2.21,Top 25
-table_2,Games,Dick Radatz,Boston,62,Top 25
-table_2,Saves,Dick Radatz,Boston,24,Top 25
-table_2,Shutouts,Dick Donovan,Cleveland,5,Top 25
-table_2,Strikeouts,Camilo Pascual,Minnesota,206,Top 25
-table_2,Winning Percentage,Ray Herbert,Chicago,.690,Top 25
-table_2,Wins,Ralph Terry,New York,23,Top 25
+Year,Category,Statistic,Player,Team,Value
+1962,Individual Pitching Stats,Complete Games,Camilo Pascual,Minnesota,18
+1962,Individual Pitching Stats,ERA,Hank Aguirre,Detroit,2.21
+1962,Individual Pitching Stats,Games,Dick Radatz,Boston,62
+1962,Individual Pitching Stats,Saves,Dick Radatz,Boston,24
+1962,Individual Pitching Stats,Shutouts,Dick Donovan,Cleveland,5
+1962,Individual Pitching Stats,Strikeouts,Camilo Pascual,Minnesota,206
+1962,Individual Pitching Stats,Winning Percentage,Ray Herbert,Chicago,.690
+1962,Individual Pitching Stats,Wins,Ralph Terry,New York,23

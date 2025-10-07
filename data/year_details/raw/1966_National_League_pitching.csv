@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Sandy Koufax | Los Angeles | 27 | Top 25
-table_2,ERA | Sandy Koufax | Los Angeles | 1.73 | Top 25
-table_2,Games | Clay Carroll | Atlanta | 73 | Top 25
-table_2,Saves | Phil Regan | Los Angeles | 21 | Top 25
-table_2,Shutouts | Jim Bunning | Philadelphia | 5 | Top 25
-table_2,Strikeouts | Sandy Koufax | Los Angeles | 317 | Top 25
-table_2,Winning Percentage | Juan Marichal | San Francisco | .806 | Top 25
-table_2,Wins | Sandy Koufax | Los Angeles | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Los Angeles | 52
-table_5,ERA | Los Angeles | 2.63
-table_5,"Fewest Hits Allowed | Los Angeles | 1,287"
-table_5,Fewest Home Runs Allowed | Los Angeles | 84
-table_5,Fewest Walks Allowed | Los Angeles | 356
-table_5,Saves | Pittsburgh | 43
-table_5,Shutouts | Los Angeles | 20
-table_5,"Strikeouts | Los Angeles | 1,084"
-table_5,Statistic | Team | #
+year,league,category,text
+1966,National League,table_2,Complete Games | Sandy Koufax | Los Angeles | 27
+1966,National League,table_2,ERA | Sandy Koufax | Los Angeles | 1.73
+1966,National League,table_2,Games | Clay Carroll | Atlanta | 73
+1966,National League,table_2,Saves | Phil Regan | Los Angeles | 21
+1966,National League,table_2,Shutouts | Jim Bunning | Philadelphia | 5
+1966,National League,table_2,Strikeouts | Sandy Koufax | Los Angeles | 317
+1966,National League,table_2,Winning Percentage | Juan Marichal | San Francisco | .806
+1966,National League,table_2,Wins | Sandy Koufax | Los Angeles | 27
+1966,National League,table_5,Complete Games | Los Angeles | 52
+1966,National League,table_5,ERA | Los Angeles | 2.63
+1966,National League,table_5,"Fewest Hits Allowed | Los Angeles | 1,287"
+1966,National League,table_5,Fewest Home Runs Allowed | Los Angeles | 84
+1966,National League,table_5,Fewest Walks Allowed | Los Angeles | 356
+1966,National League,table_5,Saves | Pittsburgh | 43
+1966,National League,table_5,Shutouts | Los Angeles | 20
+1966,National League,table_5,"Strikeouts | Los Angeles | 1,084"

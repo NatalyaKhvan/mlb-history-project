@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Aaron Harang,Cincinnati,6,Top 25
-table_2,ERA,Roy Oswalt,Houston,2.98,Top 25
-table_2,Games,Salomon Torres,Pittsburgh,94,Top 25
-table_2,Saves,Trevor Hoffman,San Diego,46,Top 25
-table_2,Shutouts,Chris Carpenter,St. Louis,3,Top 25
-table_2,Strikeouts,Aaron Harang,Cincinnati,216,Top 25
-table_2,Winning Percentage,Carlos Zambrano,Chicago,.696,Top 25
-table_2,Wins,Aaron Harang,Cincinnati,16,Top 25
+Year,Category,Statistic,Player,Team,Value
+2006,Individual Pitching Stats,Complete Games,Aaron Harang,Cincinnati,6
+2006,Individual Pitching Stats,ERA,Roy Oswalt,Houston,2.98
+2006,Individual Pitching Stats,Games,Salomon Torres,Pittsburgh,94
+2006,Individual Pitching Stats,Saves,Trevor Hoffman,San Diego,46
+2006,Individual Pitching Stats,Shutouts,Chris Carpenter,St. Louis,3
+2006,Individual Pitching Stats,Strikeouts,Aaron Harang,Cincinnati,216
+2006,Individual Pitching Stats,Winning Percentage,Carlos Zambrano,Chicago,.696
+2006,Individual Pitching Stats,Wins,Aaron Harang,Cincinnati,16

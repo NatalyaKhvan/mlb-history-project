@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Robin Roberts | Philadelphia | 29 | Top 25
-table_2,ERA | Johnny Antonelli | New York | 2.30 | Top 25
-table_2,Games | Jim Hughes | Brooklyn | 60 | Top 25
-table_2,Saves | Jim Hughes | Brooklyn | 24 | Top 25
-table_2,Shutouts | Johnny Antonelli | New York | 6 | Top 25
-table_2,Strikeouts | Robin Roberts | Philadelphia | 185 | Top 25
-table_2,Winning Percentage | Johnny Antonelli | New York | .750 | Top 25
-table_2,Wins | Robin Roberts | Philadelphia | 23 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Philadelphia | 78
-table_5,ERA | New York | 3.10
-table_5,"Fewest Hits Allowed | New York | 1,258"
-table_5,Fewest Home Runs Allowed | Milwaukee | 106
-table_5,Fewest Walks Allowed | Philadelphia | 450
-table_5,Saves | Brooklyn | 36
-table_5,Shutouts | New York | 19
-table_5,Strikeouts | Brooklyn | 762
+year,league,category,text
+1954,National League,table_2,Complete Games | Robin Roberts | Philadelphia | 29
+1954,National League,table_2,ERA | Johnny Antonelli | New York | 2.30
+1954,National League,table_2,Games | Jim Hughes | Brooklyn | 60
+1954,National League,table_2,Saves | Jim Hughes | Brooklyn | 24
+1954,National League,table_2,Shutouts | Johnny Antonelli | New York | 6
+1954,National League,table_2,Strikeouts | Robin Roberts | Philadelphia | 185
+1954,National League,table_2,Winning Percentage | Johnny Antonelli | New York | .750
+1954,National League,table_2,Wins | Robin Roberts | Philadelphia | 23
+1954,National League,table_5,Complete Games | Philadelphia | 78
+1954,National League,table_5,ERA | New York | 3.10
+1954,National League,table_5,"Fewest Hits Allowed | New York | 1,258"
+1954,National League,table_5,Fewest Home Runs Allowed | Milwaukee | 106
+1954,National League,table_5,Fewest Walks Allowed | Philadelphia | 450
+1954,National League,table_5,Saves | Brooklyn | 36
+1954,National League,table_5,Shutouts | New York | 19
+1954,National League,table_5,Strikeouts | Brooklyn | 762

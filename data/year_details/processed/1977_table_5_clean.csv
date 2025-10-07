@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Baltimore,65
-table_5,ERA,Kansas City,3.52
-table_5,Fewest Hits Allowed,Kansas City,"1,377"
-table_5,Fewest Home Runs Allowed,Kansas City,110
-table_5,Fewest Walks Allowed,Boston,378
-table_5,Saves,Kansas City,42
-table_5,Shutouts,Texas,17
-table_5,Strikeouts,California,965
+Year,Category,Statistic,Team,Value
+1977,Team Pitching Stats,Complete Games,Baltimore,65
+1977,Team Pitching Stats,ERA,Kansas City,3.52
+1977,Team Pitching Stats,Fewest Hits Allowed,Kansas City,"1,377"
+1977,Team Pitching Stats,Fewest Home Runs Allowed,Kansas City,110
+1977,Team Pitching Stats,Fewest Walks Allowed,Boston,378
+1977,Team Pitching Stats,Saves,Kansas City,42
+1977,Team Pitching Stats,Shutouts,Texas,17
+1977,Team Pitching Stats,Strikeouts,California,965

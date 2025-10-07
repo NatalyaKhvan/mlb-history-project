@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Jim McCormick,Cleveland,65,Top 25
-table_2,ERA,Larry Corcoran,Chicago,1.95,Top 25
-table_2,Games,Jim McCormick,Cleveland,68,Top 25
-table_2,Saves,John Ward,Providence,1,Top 25
-table_2,Shutouts,Old Hoss Radbourn,Providence,6,Top 25
-table_2,Strikeouts,Old Hoss Radbourn,Providence,201,Top 25
-table_2,Winning Percentage,Larry Corcoran,Chicago,.692,Top 25
-table_2,Wins,Jim McCormick,Cleveland,36,Top 25
+Year,Category,Statistic,Player,Team,Value
+1882,Individual Pitching Stats,Complete Games,Jim McCormick,Cleveland,65
+1882,Individual Pitching Stats,ERA,Larry Corcoran,Chicago,1.95
+1882,Individual Pitching Stats,Games,Jim McCormick,Cleveland,68
+1882,Individual Pitching Stats,Saves,John Ward,Providence,1
+1882,Individual Pitching Stats,Shutouts,Old Hoss Radbourn,Providence,6
+1882,Individual Pitching Stats,Strikeouts,Old Hoss Radbourn,Providence,201
+1882,Individual Pitching Stats,Winning Percentage,Larry Corcoran,Chicago,.692
+1882,Individual Pitching Stats,Wins,Jim McCormick,Cleveland,36

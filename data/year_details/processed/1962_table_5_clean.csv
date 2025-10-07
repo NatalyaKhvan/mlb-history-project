@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Minnesota,53
-table_5,ERA,Baltimore,3.70
-table_5,Fewest Hits Allowed,Baltimore,"1,373"
-table_5,Fewest Home Runs Allowed,Los Angeles,118
-table_5,Fewest Walks Allowed,Minnesota,493
-table_5,Saves,Los Angeles,47
-table_5,Shutouts,Los Angeles,15
-table_5,Strikeouts,Minnesota,948
+Year,Category,Statistic,Team,Value
+1962,Team Pitching Stats,Complete Games,Minnesota,53
+1962,Team Pitching Stats,ERA,Baltimore,3.70
+1962,Team Pitching Stats,Fewest Hits Allowed,Baltimore,"1,373"
+1962,Team Pitching Stats,Fewest Home Runs Allowed,Los Angeles,118
+1962,Team Pitching Stats,Fewest Walks Allowed,Minnesota,493
+1962,Team Pitching Stats,Saves,Los Angeles,47
+1962,Team Pitching Stats,Shutouts,Los Angeles,15
+1962,Team Pitching Stats,Strikeouts,Minnesota,948

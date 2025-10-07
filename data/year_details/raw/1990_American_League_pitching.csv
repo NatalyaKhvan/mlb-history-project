@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Jack Morris | Detroit | 11 | Top 25
-table_2,ERA | Roger Clemens | Boston | 1.93 | Top 25
-table_2,Games | Bobby Thigpen | Chicago | 77 | Top 25
-table_2,Saves | Bobby Thigpen | Chicago | 57 | Top 25
-table_2,Shutouts | Roger Clemens | Boston | 4 | Top 25
-table_2,Strikeouts | Nolan Ryan | Texas | 269 | Top 25
-table_2,Winning Percentage | Bob Welch | Oakland | .818 | Top 25
-table_2,Wins | Bob Welch | Oakland | 27 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Texas | 25
-table_5,ERA | Oakland | 3.18
-table_5,"Fewest Hits Allowed | Oakland | 1,287"
-table_5,Fewest Home Runs Allowed | Boston | 92
-table_5,Fewest Walks Allowed | Toronto | 445
-table_5,Saves | Chicago | 68
-table_5,Shutouts | Oakland | 16
-table_5,"Strikeouts | Seattle | 1,064"
+year,league,category,text
+1990,American League,table_2,Complete Games | Jack Morris | Detroit | 11
+1990,American League,table_2,ERA | Roger Clemens | Boston | 1.93
+1990,American League,table_2,Games | Bobby Thigpen | Chicago | 77
+1990,American League,table_2,Saves | Bobby Thigpen | Chicago | 57
+1990,American League,table_2,Shutouts | Roger Clemens | Boston | 4
+1990,American League,table_2,Strikeouts | Nolan Ryan | Texas | 269
+1990,American League,table_2,Winning Percentage | Bob Welch | Oakland | .818
+1990,American League,table_2,Wins | Bob Welch | Oakland | 27
+1990,American League,table_5,Complete Games | Texas | 25
+1990,American League,table_5,ERA | Oakland | 3.18
+1990,American League,table_5,"Fewest Hits Allowed | Oakland | 1,287"
+1990,American League,table_5,Fewest Home Runs Allowed | Boston | 92
+1990,American League,table_5,Fewest Walks Allowed | Toronto | 445
+1990,American League,table_5,Saves | Chicago | 68
+1990,American League,table_5,Shutouts | Oakland | 16
+1990,American League,table_5,"Strikeouts | Seattle | 1,064"

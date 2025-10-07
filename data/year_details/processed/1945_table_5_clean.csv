@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,St. Louis,91
-table_5,ERA,Washington,2.93
-table_5,Fewest Hits Allowed,Cleveland,"1,269"
-table_5,Fewest Home Runs Allowed,Cleveland,39
-table_5,Fewest Walks Allowed,Washington,440
-table_5,Saves,Detroit,16
-table_5,Shutouts,Detroit,19
-table_5,Strikeouts,Detroit,588
+Year,Category,Statistic,Team,Value
+1945,Team Pitching Stats,Complete Games,St. Louis,91
+1945,Team Pitching Stats,ERA,Washington,2.93
+1945,Team Pitching Stats,Fewest Hits Allowed,Cleveland,"1,269"
+1945,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,39
+1945,Team Pitching Stats,Fewest Walks Allowed,Washington,440
+1945,Team Pitching Stats,Saves,Detroit,16
+1945,Team Pitching Stats,Shutouts,Detroit,19
+1945,Team Pitching Stats,Strikeouts,Detroit,588

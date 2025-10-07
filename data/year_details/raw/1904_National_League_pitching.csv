@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jack Taylor | St. Louis | 39 | Top 25
-table_2,ERA | Joe McGinnity | New York | 1.61 | Top 25
-table_2,Games | Joe McGinnity | New York | 51 | Top 25
-table_2,Saves | Joe McGinnity | New York | 5 | Top 25
-table_2,Shutouts | Joe McGinnity | New York | 9 | Top 25
-table_2,Strikeouts | Christy Mathewson | New York | 212 | Top 25
-table_2,Winning Percentage | Joe McGinnity | New York | .814 | Top 25
-table_2,Wins | Joe McGinnity | New York | 35 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | St. Louis | 146
-table_5,ERA | New York | 2.17
-table_5,"Fewest Hits Allowed | Chicago | 1,150"
-table_5,Fewest Home Runs Allowed | Cincinnati | 13
-table_5,Fewest Walks Allowed | St. Louis | 319
-table_5,Saves | New York | 15
-table_5,Shutouts | New York | 21
-table_5,Strikeouts | New York | 707
-table_5,Statistic | Team | #
+year,league,category,text
+1904,National League,table_2,Complete Games | Jack Taylor | St. Louis | 39
+1904,National League,table_2,ERA | Joe McGinnity | New York | 1.61
+1904,National League,table_2,Games | Joe McGinnity | New York | 51
+1904,National League,table_2,Saves | Joe McGinnity | New York | 5
+1904,National League,table_2,Shutouts | Joe McGinnity | New York | 9
+1904,National League,table_2,Strikeouts | Christy Mathewson | New York | 212
+1904,National League,table_2,Winning Percentage | Joe McGinnity | New York | .814
+1904,National League,table_2,Wins | Joe McGinnity | New York | 35
+1904,National League,table_5,Complete Games | St. Louis | 146
+1904,National League,table_5,ERA | New York | 2.17
+1904,National League,table_5,"Fewest Hits Allowed | Chicago | 1,150"
+1904,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 13
+1904,National League,table_5,Fewest Walks Allowed | St. Louis | 319
+1904,National League,table_5,Saves | New York | 15
+1904,National League,table_5,Shutouts | New York | 21
+1904,National League,table_5,Strikeouts | New York | 707

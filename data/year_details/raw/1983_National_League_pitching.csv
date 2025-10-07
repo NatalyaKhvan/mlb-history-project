@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Mario Soto | Cincinnati | 18 | Top 25
-table_2,ERA | Atlee Hammaker | San Francisco | 2.25 | Top 25
-table_2,Games | Bill Campbell | Chicago | 82 | Top 25
-table_2,Saves | Lee Smith | Chicago | 29 | Top 25
-table_2,Shutouts | Steve Rogers | Montreal | 5 | Top 25
-table_2,Strikeouts | Steve Carlton | Philadelphia | 275 | Top 25
-table_2,Winning Percentage | John Denny | Philadelphia | .760 | Top 25
-table_2,Wins | John Denny | Philadelphia | 19 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Montreal | 38
-table_5,ERA | Los Angeles | 3.11
-table_5,"Fewest Hits Allowed | Houston | 1,276"
-table_5,Fewest Home Runs Allowed | Houston | 94
-table_5,Fewest Walks Allowed | Philadelphia | 464
-table_5,Saves | Atlanta | 48
-table_5,Shutouts | Montreal | 15
-table_5,"Strikeouts | Philadelphia | 1,092"
+year,league,category,text
+1983,National League,table_2,Complete Games | Mario Soto | Cincinnati | 18
+1983,National League,table_2,ERA | Atlee Hammaker | San Francisco | 2.25
+1983,National League,table_2,Games | Bill Campbell | Chicago | 82
+1983,National League,table_2,Saves | Lee Smith | Chicago | 29
+1983,National League,table_2,Shutouts | Steve Rogers | Montreal | 5
+1983,National League,table_2,Strikeouts | Steve Carlton | Philadelphia | 275
+1983,National League,table_2,Winning Percentage | John Denny | Philadelphia | .760
+1983,National League,table_2,Wins | John Denny | Philadelphia | 19
+1983,National League,table_5,Complete Games | Montreal | 38
+1983,National League,table_5,ERA | Los Angeles | 3.11
+1983,National League,table_5,"Fewest Hits Allowed | Houston | 1,276"
+1983,National League,table_5,Fewest Home Runs Allowed | Houston | 94
+1983,National League,table_5,Fewest Walks Allowed | Philadelphia | 464
+1983,National League,table_5,Saves | Atlanta | 48
+1983,National League,table_5,Shutouts | Montreal | 15
+1983,National League,table_5,"Strikeouts | Philadelphia | 1,092"

@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Grover Alexander | Philadelphia | 34 | Top 25
-table_2,ERA | Fred Anderson | New York | 1.44 | Top 25
-table_2,Games | Phil Douglas | Chicago | 51 | Top 25
-table_2,Saves | Slim Sallee | New York | 4 | Top 25
-table_2,Shutouts | Grover Alexander | Philadelphia | 8 | Top 25
-table_2,Strikeouts | Grover Alexander | Philadelphia | 200 | Top 25
-table_2,Winning Percentage | Ferdie Schupp | New York | .750 | Top 25
-table_2,Wins | Grover Alexander | Philadelphia | 30 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 103
-table_5,ERA | New York | 2.27
-table_5,"Fewest Hits Allowed | New York | 1,221"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 14
-table_5,Fewest Walks Allowed | Philadelphia | 325
-table_5,Saves | New York | 14
-table_5,Shutouts | Philadelphia | 22
-table_5,Strikeouts | Chicago | 654
-table_5,Statistic | Team | #
+year,league,category,text
+1917,National League,table_2,Complete Games | Grover Alexander | Philadelphia | 34
+1917,National League,table_2,ERA | Fred Anderson | New York | 1.44
+1917,National League,table_2,Games | Phil Douglas | Chicago | 51
+1917,National League,table_2,Saves | Slim Sallee | New York | 4
+1917,National League,table_2,Shutouts | Grover Alexander | Philadelphia | 8
+1917,National League,table_2,Strikeouts | Grover Alexander | Philadelphia | 200
+1917,National League,table_2,Winning Percentage | Ferdie Schupp | New York | .750
+1917,National League,table_2,Wins | Grover Alexander | Philadelphia | 30
+1917,National League,table_5,Complete Games | Boston | 103
+1917,National League,table_5,ERA | New York | 2.27
+1917,National League,table_5,"Fewest Hits Allowed | New York | 1,221"
+1917,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 14
+1917,National League,table_5,Fewest Walks Allowed | Philadelphia | 325
+1917,National League,table_5,Saves | New York | 14
+1917,National League,table_5,Shutouts | Philadelphia | 22
+1917,National League,table_5,Strikeouts | Chicago | 654

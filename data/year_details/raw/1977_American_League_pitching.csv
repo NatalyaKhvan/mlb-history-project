@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jim Palmer | Baltimore | 22 | Top 25
-table_2,ERA | Frank Tanana | California | 2.54 | Top 25
-table_2,Games | Sparky Lyle | New York | 72 | Top 25
-table_2,Saves | Bill Campbell | Boston | 31 | Top 25
-table_2,Shutouts | Frank Tanana | California | 7 | Top 25
-table_2,Strikeouts | Nolan Ryan | California | 341 | Top 25
-table_2,Winning Percentage | Paul Splittorff | Kansas City | .727 | Top 25
-table_2,Wins | Dave Goltz | Minnesota | 20 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Baltimore | 65
-table_5,ERA | Kansas City | 3.52
-table_5,"Fewest Hits Allowed | Kansas City | 1,377"
-table_5,Fewest Home Runs Allowed | Kansas City | 110
-table_5,Fewest Walks Allowed | Boston | 378
-table_5,Saves | Kansas City | 42
-table_5,Shutouts | Texas | 17
-table_5,Strikeouts | California | 965
+year,league,category,text
+1977,American League,table_2,Complete Games | Jim Palmer | Baltimore | 22
+1977,American League,table_2,ERA | Frank Tanana | California | 2.54
+1977,American League,table_2,Games | Sparky Lyle | New York | 72
+1977,American League,table_2,Saves | Bill Campbell | Boston | 31
+1977,American League,table_2,Shutouts | Frank Tanana | California | 7
+1977,American League,table_2,Strikeouts | Nolan Ryan | California | 341
+1977,American League,table_2,Winning Percentage | Paul Splittorff | Kansas City | .727
+1977,American League,table_2,Wins | Dave Goltz | Minnesota | 20
+1977,American League,table_5,Complete Games | Baltimore | 65
+1977,American League,table_5,ERA | Kansas City | 3.52
+1977,American League,table_5,"Fewest Hits Allowed | Kansas City | 1,377"
+1977,American League,table_5,Fewest Home Runs Allowed | Kansas City | 110
+1977,American League,table_5,Fewest Walks Allowed | Boston | 378
+1977,American League,table_5,Saves | Kansas City | 42
+1977,American League,table_5,Shutouts | Texas | 17
+1977,American League,table_5,Strikeouts | California | 965

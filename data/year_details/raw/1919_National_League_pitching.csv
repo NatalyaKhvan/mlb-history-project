@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Wilbur Cooper | Pittsburgh | 27 | Top 25
-table_2,ERA | Grover Alexander | Chicago | 1.72 | Top 25
-table_2,Games | Oscar Tuero | St. Louis | 45 | Top 25
-table_2,Saves | Oscar Tuero | St. Louis | 4 | Top 25
-table_2,Shutouts | Grover Alexander | Chicago | 9 | Top 25
-table_2,Strikeouts | Hippo Vaughn | Chicago | 141 | Top 25
-table_2,Winning Percentage | Dutch Ruether | Cincinnati | .760 | Top 25
-table_2,Wins | Jesse Barnes | New York | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Brooklyn | 98
-table_5,ERA | Chicago | 2.21
-table_5,"Fewest Hits Allowed | Cincinnati | 1,104"
-table_5,Fewest Home Runs Allowed | Chicago | 14
-table_5,Fewest Walks Allowed | Pittsburgh | 263
-table_5,Saves | New York | 13
-table_5,Shutouts | Cincinnati | 23
-table_5,Strikeouts | Chicago | 495
-table_5,Statistic | Team | #
+year,league,category,text
+1919,National League,table_2,Complete Games | Wilbur Cooper | Pittsburgh | 27
+1919,National League,table_2,ERA | Grover Alexander | Chicago | 1.72
+1919,National League,table_2,Games | Oscar Tuero | St. Louis | 45
+1919,National League,table_2,Saves | Oscar Tuero | St. Louis | 4
+1919,National League,table_2,Shutouts | Grover Alexander | Chicago | 9
+1919,National League,table_2,Strikeouts | Hippo Vaughn | Chicago | 141
+1919,National League,table_2,Winning Percentage | Dutch Ruether | Cincinnati | .760
+1919,National League,table_2,Wins | Jesse Barnes | New York | 25
+1919,National League,table_5,Complete Games | Brooklyn | 98
+1919,National League,table_5,ERA | Chicago | 2.21
+1919,National League,table_5,"Fewest Hits Allowed | Cincinnati | 1,104"
+1919,National League,table_5,Fewest Home Runs Allowed | Chicago | 14
+1919,National League,table_5,Fewest Walks Allowed | Pittsburgh | 263
+1919,National League,table_5,Saves | New York | 13
+1919,National League,table_5,Shutouts | Cincinnati | 23
+1919,National League,table_5,Strikeouts | Chicago | 495

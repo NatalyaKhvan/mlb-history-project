@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,105
-table_5,ERA,New York,2.43
-table_5,Fewest Hits Allowed,New York,"1,276"
-table_5,Fewest Home Runs Allowed,Pittsburgh,26
-table_5,Fewest Walks Allowed,New York,315
-table_5,Saves,New York,17
-table_5,Shutouts,Philadelphia,20
-table_5,Strikeouts,Philadelphia,667
+Year,Category,Statistic,Team,Value
+1913,Team Pitching Stats,Complete Games,Boston,105
+1913,Team Pitching Stats,ERA,New York,2.43
+1913,Team Pitching Stats,Fewest Hits Allowed,New York,"1,276"
+1913,Team Pitching Stats,Fewest Home Runs Allowed,Pittsburgh,26
+1913,Team Pitching Stats,Fewest Walks Allowed,New York,315
+1913,Team Pitching Stats,Saves,New York,17
+1913,Team Pitching Stats,Shutouts,Philadelphia,20
+1913,Team Pitching Stats,Strikeouts,Philadelphia,667

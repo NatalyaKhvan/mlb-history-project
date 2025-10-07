@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cleveland,92
-table_5,ERA,Cleveland,2.22
-table_5,Fewest Hits Allowed,Cleveland,818
-table_5,Fewest Home Runs Allowed,Cleveland,7
-table_5,Fewest Walks Allowed,Boston,90
-table_5,Saves,Boston,3
-table_5,Shutouts,Boston,6
-table_5,Strikeouts,Boston,538
+Year,Category,Statistic,Team,Value
+1883,Team Pitching Stats,Complete Games,Cleveland,92
+1883,Team Pitching Stats,ERA,Cleveland,2.22
+1883,Team Pitching Stats,Fewest Hits Allowed,Cleveland,818
+1883,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,7
+1883,Team Pitching Stats,Fewest Walks Allowed,Boston,90
+1883,Team Pitching Stats,Saves,Boston,3
+1883,Team Pitching Stats,Shutouts,Boston,6
+1883,Team Pitching Stats,Strikeouts,Boston,538

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Dennis Martinez,Baltimore,18,Top 25
-table_2,ERA,Ron Guidry,New York,2.78,Top 25
-table_2,Games,Mike Marshall,Minnesota,90,Top 25
-table_2,Saves,Mike Marshall,Minnesota,32,Top 25
-table_2,Shutouts,Dennis Leonard,Kansas City,5,Top 25
-table_2,Strikeouts,Nolan Ryan,California,223,Top 25
-table_2,Winning Percentage,Mike Caldwell,Milwaukee,.727,Top 25
-table_2,Wins,Mike Flanagan,Baltimore,23,Top 25
+Year,Category,Statistic,Player,Team,Value
+1979,Individual Pitching Stats,Complete Games,Dennis Martinez,Baltimore,18
+1979,Individual Pitching Stats,ERA,Ron Guidry,New York,2.78
+1979,Individual Pitching Stats,Games,Mike Marshall,Minnesota,90
+1979,Individual Pitching Stats,Saves,Mike Marshall,Minnesota,32
+1979,Individual Pitching Stats,Shutouts,Dennis Leonard,Kansas City,5
+1979,Individual Pitching Stats,Strikeouts,Nolan Ryan,California,223
+1979,Individual Pitching Stats,Winning Percentage,Mike Caldwell,Milwaukee,.727
+1979,Individual Pitching Stats,Wins,Mike Flanagan,Baltimore,23

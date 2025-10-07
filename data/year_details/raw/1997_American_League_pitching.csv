@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Roger Clemens | Toronto | 9 | Top 25
-table_2,ERA | Roger Clemens | Toronto | 2.05 | Top 25
-table_2,Games | Mike Myers | Detroit | 88 | Top 25
-table_2,Saves | Randy Myers | Baltimore | 45 | Top 25
-table_2,Shutouts | Roger Clemens | Toronto | 3 | Top 25
-table_2,Strikeouts | Roger Clemens | Toronto | 292 | Top 25
-table_2,Winning Percentage | Randy Johnson | Seattle | .833 | Top 25
-table_2,Wins | Roger Clemens | Toronto | 21 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Toronto | 19
-table_5,ERA | New York | 3.84
-table_5,"Fewest Hits Allowed | Baltimore | 1,404"
-table_5,Fewest Home Runs Allowed | New York | 144
-table_5,Fewest Walks Allowed | Minnesota | 495
-table_5,Saves | Baltimore | 59
-table_5,Shutouts | Toronto | 16
-table_5,"Strikeouts | Seattle | 1,207"
+year,league,category,text
+1997,American League,table_2,Complete Games | Roger Clemens | Toronto | 9
+1997,American League,table_2,ERA | Roger Clemens | Toronto | 2.05
+1997,American League,table_2,Games | Mike Myers | Detroit | 88
+1997,American League,table_2,Saves | Randy Myers | Baltimore | 45
+1997,American League,table_2,Shutouts | Roger Clemens | Toronto | 3
+1997,American League,table_2,Strikeouts | Roger Clemens | Toronto | 292
+1997,American League,table_2,Winning Percentage | Randy Johnson | Seattle | .833
+1997,American League,table_2,Wins | Roger Clemens | Toronto | 21
+1997,American League,table_5,Complete Games | Toronto | 19
+1997,American League,table_5,ERA | New York | 3.84
+1997,American League,table_5,"Fewest Hits Allowed | Baltimore | 1,404"
+1997,American League,table_5,Fewest Home Runs Allowed | New York | 144
+1997,American League,table_5,Fewest Walks Allowed | Minnesota | 495
+1997,American League,table_5,Saves | Baltimore | 59
+1997,American League,table_5,Shutouts | Toronto | 16
+1997,American League,table_5,"Strikeouts | Seattle | 1,207"

@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Joe McGinnity | Baltimore | 39 | Top 25
-table_2,ERA | Cy Young | Boston | 1.62 | Top 25
-table_2,Games | Joe McGinnity | Baltimore | 48 | Top 25
-table_2,Saves | Bill Hoffer | Cleveland | 3 | Top 25
-table_2,Shutouts | Clark Griffith | Chicago | 5 | Top 25
-table_2,Strikeouts | Cy Young | Boston | 158 | Top 25
-table_2,Winning Percentage | Clark Griffith | Chicago | .774 | Top 25
-table_2,Wins | Cy Young | Boston | 33 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Philadelphia | 124
-table_5,ERA | Chicago | 2.98
-table_5,"Fewest Hits Allowed | Boston | 1,178"
-table_5,Fewest Home Runs Allowed | Philadelphia | 20
-table_5,Fewest Walks Allowed | Washington | 284
-table_5,Saves | Cleveland | 4
-table_5,Shutouts | Chicago | 11
-table_5,Strikeouts | Boston | 396
-table_5,Statistic | Team | #
+year,league,category,text
+1901,American League,table_2,Complete Games | Joe McGinnity | Baltimore | 39
+1901,American League,table_2,ERA | Cy Young | Boston | 1.62
+1901,American League,table_2,Games | Joe McGinnity | Baltimore | 48
+1901,American League,table_2,Saves | Bill Hoffer | Cleveland | 3
+1901,American League,table_2,Shutouts | Clark Griffith | Chicago | 5
+1901,American League,table_2,Strikeouts | Cy Young | Boston | 158
+1901,American League,table_2,Winning Percentage | Clark Griffith | Chicago | .774
+1901,American League,table_2,Wins | Cy Young | Boston | 33
+1901,American League,table_5,Complete Games | Philadelphia | 124
+1901,American League,table_5,ERA | Chicago | 2.98
+1901,American League,table_5,"Fewest Hits Allowed | Boston | 1,178"
+1901,American League,table_5,Fewest Home Runs Allowed | Philadelphia | 20
+1901,American League,table_5,Fewest Walks Allowed | Washington | 284
+1901,American League,table_5,Saves | Cleveland | 4
+1901,American League,table_5,Shutouts | Chicago | 11
+1901,American League,table_5,Strikeouts | Boston | 396

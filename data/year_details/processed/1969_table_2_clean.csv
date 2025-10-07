@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bob Gibson,St. Louis,28,Top 25
-table_2,ERA,Juan Marichal,San Francisco,2.10,Top 25
-table_2,Games,Wayne Granger,Cincinnati,90,Top 25
-table_2,Saves,Fred Gladding,Houston,29,Top 25
-table_2,Shutouts,Juan Marichal,San Francisco,8,Top 25
-table_2,Strikeouts,Fergie Jenkins,Chicago,273,Top 25
-table_2,Winning Percentage,Tom Seaver,New York,.781,Top 25
-table_2,Wins,Tom Seaver,New York,25,Top 25
+Year,Category,Statistic,Player,Team,Value
+1969,Individual Pitching Stats,Complete Games,Bob Gibson,St. Louis,28
+1969,Individual Pitching Stats,ERA,Juan Marichal,San Francisco,2.10
+1969,Individual Pitching Stats,Games,Wayne Granger,Cincinnati,90
+1969,Individual Pitching Stats,Saves,Fred Gladding,Houston,29
+1969,Individual Pitching Stats,Shutouts,Juan Marichal,San Francisco,8
+1969,Individual Pitching Stats,Strikeouts,Fergie Jenkins,Chicago,273
+1969,Individual Pitching Stats,Winning Percentage,Tom Seaver,New York,.781
+1969,Individual Pitching Stats,Wins,Tom Seaver,New York,25

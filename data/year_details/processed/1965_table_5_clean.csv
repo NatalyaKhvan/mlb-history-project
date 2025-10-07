@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Detroit,45
-table_5,ERA,Baltimore,2.98
-table_5,Fewest Hits Allowed,Cleveland,"1,254"
-table_5,Fewest Home Runs Allowed,California,91
-table_5,Fewest Walks Allowed,Chicago,460
-table_5,Saves,Chicago,53
-table_5,Shutouts,Baltimore,15
-table_5,Strikeouts,Cleveland,"1,156"
+Year,Category,Statistic,Team,Value
+1965,Team Pitching Stats,Complete Games,Detroit,45
+1965,Team Pitching Stats,ERA,Baltimore,2.98
+1965,Team Pitching Stats,Fewest Hits Allowed,Cleveland,"1,254"
+1965,Team Pitching Stats,Fewest Home Runs Allowed,California,91
+1965,Team Pitching Stats,Fewest Walks Allowed,Chicago,460
+1965,Team Pitching Stats,Saves,Chicago,53
+1965,Team Pitching Stats,Shutouts,Baltimore,15
+1965,Team Pitching Stats,Strikeouts,Cleveland,"1,156"

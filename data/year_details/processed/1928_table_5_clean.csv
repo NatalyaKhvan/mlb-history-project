@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,St. Louis,83
-table_5,ERA,Brooklyn,3.25
-table_5,Fewest Hits Allowed,Brooklyn,"1,378"
-table_5,Fewest Home Runs Allowed,Chicago,56
-table_5,Fewest Walks Allowed,St. Louis,399
-table_5,Saves,St. Louis,21
-table_5,Shutouts,Brooklyn,16
-table_5,Strikeouts,Brooklyn,551
+Year,Category,Statistic,Team,Value
+1928,Team Pitching Stats,Complete Games,St. Louis,83
+1928,Team Pitching Stats,ERA,Brooklyn,3.25
+1928,Team Pitching Stats,Fewest Hits Allowed,Brooklyn,"1,378"
+1928,Team Pitching Stats,Fewest Home Runs Allowed,Chicago,56
+1928,Team Pitching Stats,Fewest Walks Allowed,St. Louis,399
+1928,Team Pitching Stats,Saves,St. Louis,21
+1928,Team Pitching Stats,Shutouts,Brooklyn,16
+1928,Team Pitching Stats,Strikeouts,Brooklyn,551

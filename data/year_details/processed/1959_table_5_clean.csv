@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cleveland,58
-table_5,ERA,Chicago,3.29
-table_5,Fewest Hits Allowed,Cleveland,"1,230"
-table_5,Fewest Home Runs Allowed,Baltimore,111
-table_5,Fewest Walks Allowed,Detroit,432
-table_5,Saves,Chicago,36
-table_5,Shutouts,Baltimore,15
-table_5,Strikeouts,New York,836
+Year,Category,Statistic,Team,Value
+1959,Team Pitching Stats,Complete Games,Cleveland,58
+1959,Team Pitching Stats,ERA,Chicago,3.29
+1959,Team Pitching Stats,Fewest Hits Allowed,Cleveland,"1,230"
+1959,Team Pitching Stats,Fewest Home Runs Allowed,Baltimore,111
+1959,Team Pitching Stats,Fewest Walks Allowed,Detroit,432
+1959,Team Pitching Stats,Saves,Chicago,36
+1959,Team Pitching Stats,Shutouts,Baltimore,15
+1959,Team Pitching Stats,Strikeouts,New York,836
