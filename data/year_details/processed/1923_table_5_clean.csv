@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,New York,101
-table_5,ERA,New York,3.63
-table_5,Fewest Hits Allowed,New York,"1,365"
-table_5,Fewest Home Runs Allowed,Cleveland,36
-table_5,Fewest Walks Allowed,Detroit,449
-table_5,Saves,Washington,16
-table_5,Shutouts,Cleveland,10
-table_5,Strikeouts,New York,506
+Year,Category,Statistic,Team,Value
+1923,Team Pitching Stats,Complete Games,New York,101
+1923,Team Pitching Stats,ERA,New York,3.63
+1923,Team Pitching Stats,Fewest Hits Allowed,New York,"1,365"
+1923,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,36
+1923,Team Pitching Stats,Fewest Walks Allowed,Detroit,449
+1923,Team Pitching Stats,Saves,Washington,16
+1923,Team Pitching Stats,Shutouts,Cleveland,10
+1923,Team Pitching Stats,Strikeouts,New York,506

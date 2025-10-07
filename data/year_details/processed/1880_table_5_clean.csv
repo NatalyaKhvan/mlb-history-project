@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cleveland,83
-table_5,ERA,Providence,1.64
-table_5,Fewest Hits Allowed,Chicago,622
-table_5,Fewest Home Runs Allowed,Boston,2
-table_5,Fewest Walks Allowed,Providence,51
-table_5,Saves,Worcester,5
-table_5,Shutouts,Providence,13
-table_5,Strikeouts,Chicago,367
+Year,Category,Statistic,Team,Value
+1880,Team Pitching Stats,Complete Games,Cleveland,83
+1880,Team Pitching Stats,ERA,Providence,1.64
+1880,Team Pitching Stats,Fewest Hits Allowed,Chicago,622
+1880,Team Pitching Stats,Fewest Home Runs Allowed,Boston,2
+1880,Team Pitching Stats,Fewest Walks Allowed,Providence,51
+1880,Team Pitching Stats,Saves,Worcester,5
+1880,Team Pitching Stats,Shutouts,Providence,13
+1880,Team Pitching Stats,Strikeouts,Chicago,367

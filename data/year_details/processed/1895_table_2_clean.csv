@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Ted Breitenstein,St. Louis,46,Top 25
-table_2,ERA,Al Maul,Washington,2.45,Top 25
-table_2,Games,Pink Hawley,Pittsburgh,56,Top 25
-table_2,Saves,Ernie Beam,Philadelphia,3,Top 25
-table_2,Shutouts,Pink Hawley,Pittsburgh,4,Top 25
-table_2,Strikeouts,Amos Rusie,New York,201,Top 25
-table_2,Winning Percentage,Bill Hoffer,Baltimore,.838,Top 25
-table_2,Wins,Cy Young,Cleveland,35,Top 25
+Year,Category,Statistic,Player,Team,Value
+1895,Individual Pitching Stats,Complete Games,Ted Breitenstein,St. Louis,46
+1895,Individual Pitching Stats,ERA,Al Maul,Washington,2.45
+1895,Individual Pitching Stats,Games,Pink Hawley,Pittsburgh,56
+1895,Individual Pitching Stats,Saves,Ernie Beam,Philadelphia,3
+1895,Individual Pitching Stats,Shutouts,Pink Hawley,Pittsburgh,4
+1895,Individual Pitching Stats,Strikeouts,Amos Rusie,New York,201
+1895,Individual Pitching Stats,Winning Percentage,Bill Hoffer,Baltimore,.838
+1895,Individual Pitching Stats,Wins,Cy Young,Cleveland,35

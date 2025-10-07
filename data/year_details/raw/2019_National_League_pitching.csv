@@ -1,13 +1,11 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Sandy Alcantara | Miami Marlins | 2 | Top 25
-table_2,Walker Buehler | Los Angeles Dodgers | 2
-table_2,Zach Eflin | Philadelphia Phillies | 2
-table_2,ERA | Hyun-Jin Ryu | Los Angeles Dodgers | 2.32 | Top 25
-table_2,Games | Alex Claudio | Milwaukee Brewers | 83 | Top 25
-table_2,Saves | Kirby Yates | San Diego Padres | 41 | Top 25
-table_2,Shutouts | Sandy Alcantara | Miami Marlins | 2 | Top 25
-table_2,Strikeouts | Jacob deGrom | New York Mets | 255 | Top 25
-table_2,Winning Percentage | Walker Buehler | Los Angeles Dodgers | .778 | Top 25
-table_2,Wins | Stephen Strasburg | Washington Nationals | 18 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2019,National League,table_2,Complete Games | Sandy Alcantara | Miami Marlins | 2
+2019,National League,table_2,Walker Buehler | Los Angeles Dodgers | 2
+2019,National League,table_2,Zach Eflin | Philadelphia Phillies | 2
+2019,National League,table_2,ERA | Hyun-Jin Ryu | Los Angeles Dodgers | 2.32
+2019,National League,table_2,Games | Alex Claudio | Milwaukee Brewers | 83
+2019,National League,table_2,Saves | Kirby Yates | San Diego Padres | 41
+2019,National League,table_2,Shutouts | Sandy Alcantara | Miami Marlins | 2
+2019,National League,table_2,Strikeouts | Jacob deGrom | New York Mets | 255
+2019,National League,table_2,Winning Percentage | Walker Buehler | Los Angeles Dodgers | .778
+2019,National League,table_2,Wins | Stephen Strasburg | Washington Nationals | 18

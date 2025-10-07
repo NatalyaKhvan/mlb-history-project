@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bob Feller,Cleveland,36,Top 25
-table_2,ERA,Hal Newhouser,Detroit,1.94,Top 25
-table_2,Games,Bob Feller,Cleveland,48,Top 25
-table_2,Saves,Bob Klinger,Boston,9,Top 25
-table_2,Shutouts,Bob Feller,Cleveland,10,Top 25
-table_2,Strikeouts,Bob Feller,Cleveland,348,Top 25
-table_2,Winning Percentage,Dave Ferriss,Boston,.806,Top 25
-table_2,Wins,Bob Feller,Cleveland,26,Top 25
+Year,Category,Statistic,Player,Team,Value
+1946,Individual Pitching Stats,Complete Games,Bob Feller,Cleveland,36
+1946,Individual Pitching Stats,ERA,Hal Newhouser,Detroit,1.94
+1946,Individual Pitching Stats,Games,Bob Feller,Cleveland,48
+1946,Individual Pitching Stats,Saves,Bob Klinger,Boston,9
+1946,Individual Pitching Stats,Shutouts,Bob Feller,Cleveland,10
+1946,Individual Pitching Stats,Strikeouts,Bob Feller,Cleveland,348
+1946,Individual Pitching Stats,Winning Percentage,Dave Ferriss,Boston,.806
+1946,Individual Pitching Stats,Wins,Bob Feller,Cleveland,26

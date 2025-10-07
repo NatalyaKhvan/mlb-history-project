@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Steve Carlton,Philadelphia,30,Top 25
-table_2,ERA,Steve Carlton,Philadelphia,1.97,Top 25
-table_2,Games,Clay Carroll,Cincinnati,65,Top 25
-table_2,Saves,Clay Carroll,Cincinnati,37,Top 25
-table_2,Shutouts,Don Sutton,Los Angeles,9,Top 25
-table_2,Strikeouts,Steve Carlton,Philadelphia,310,Top 25
-table_2,Winning Percentage,Gary Nolan,Cincinnati,.750,Top 25
-table_2,Wins,Steve Carlton,Philadelphia,27,Top 25
+Year,Category,Statistic,Player,Team,Value
+1972,Individual Pitching Stats,Complete Games,Steve Carlton,Philadelphia,30
+1972,Individual Pitching Stats,ERA,Steve Carlton,Philadelphia,1.97
+1972,Individual Pitching Stats,Games,Clay Carroll,Cincinnati,65
+1972,Individual Pitching Stats,Saves,Clay Carroll,Cincinnati,37
+1972,Individual Pitching Stats,Shutouts,Don Sutton,Los Angeles,9
+1972,Individual Pitching Stats,Strikeouts,Steve Carlton,Philadelphia,310
+1972,Individual Pitching Stats,Winning Percentage,Gary Nolan,Cincinnati,.750
+1972,Individual Pitching Stats,Wins,Steve Carlton,Philadelphia,27

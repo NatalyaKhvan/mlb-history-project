@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,St. Louis,78
-table_5,ERA,New York,3.19
-table_5,Fewest Hits Allowed,New York,"1,384"
-table_5,Fewest Home Runs Allowed,Cincinnati,61
-table_5,Fewest Walks Allowed,New York,351
-table_5,Saves,New York,30
-table_5,Shutouts,St. Louis,15
-table_5,Strikeouts,St. Louis,689
+Year,Category,Statistic,Team,Value
+1934,Team Pitching Stats,Complete Games,St. Louis,78
+1934,Team Pitching Stats,ERA,New York,3.19
+1934,Team Pitching Stats,Fewest Hits Allowed,New York,"1,384"
+1934,Team Pitching Stats,Fewest Home Runs Allowed,Cincinnati,61
+1934,Team Pitching Stats,Fewest Walks Allowed,New York,351
+1934,Team Pitching Stats,Saves,New York,30
+1934,Team Pitching Stats,Shutouts,St. Louis,15
+1934,Team Pitching Stats,Strikeouts,St. Louis,689

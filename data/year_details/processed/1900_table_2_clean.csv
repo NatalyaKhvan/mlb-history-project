@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Pink Hawley,New York,34,Top 25
-table_2,ERA,Rube Waddell,Pittsburgh,2.37,Top 25
-table_2,Games,Bill Carrick,New York,45,Top 25
-table_2,Saves,Frank Kitson,Brooklyn,4,Top 25
-table_2,Shutouts,Clark Griffith,Chicago,4,Top 25
-table_2,Strikeouts,Noodles Hahn,Cincinnati,132,Top 25
-table_2,Winning Percentage,Joe McGinnity,Brooklyn,.778,Top 25
-table_2,Wins,Joe McGinnity,Brooklyn,28,Top 25
+Year,Category,Statistic,Player,Team,Value
+1900,Individual Pitching Stats,Complete Games,Pink Hawley,New York,34
+1900,Individual Pitching Stats,ERA,Rube Waddell,Pittsburgh,2.37
+1900,Individual Pitching Stats,Games,Bill Carrick,New York,45
+1900,Individual Pitching Stats,Saves,Frank Kitson,Brooklyn,4
+1900,Individual Pitching Stats,Shutouts,Clark Griffith,Chicago,4
+1900,Individual Pitching Stats,Strikeouts,Noodles Hahn,Cincinnati,132
+1900,Individual Pitching Stats,Winning Percentage,Joe McGinnity,Brooklyn,.778
+1900,Individual Pitching Stats,Wins,Joe McGinnity,Brooklyn,28

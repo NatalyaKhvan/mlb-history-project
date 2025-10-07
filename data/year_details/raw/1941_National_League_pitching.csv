@@ -1,11 +1,9 @@
-category,text
-table_5,Statistic | Team | #
-table_5,Complete Games | Cincinnati | 89
-table_5,ERA | Brooklyn | 3.15
-table_5,"Fewest Hits Allowed | Brooklyn | 1,236"
-table_5,Fewest Home Runs Allowed | Chicago | 60
-table_5,Fewest Walks Allowed | Chicago | 449
-table_5,Saves | Brooklyn | 22
-table_5,Shutouts | Cincinnati | 19
-table_5,Strikeouts | St. Louis | 659
-table_5,Statistic | Team | #
+year,league,category,text
+1941,National League,table_5,Complete Games | Cincinnati | 89
+1941,National League,table_5,ERA | Brooklyn | 3.15
+1941,National League,table_5,"Fewest Hits Allowed | Brooklyn | 1,236"
+1941,National League,table_5,Fewest Home Runs Allowed | Chicago | 60
+1941,National League,table_5,Fewest Walks Allowed | Chicago | 449
+1941,National League,table_5,Saves | Brooklyn | 22
+1941,National League,table_5,Shutouts | Cincinnati | 19
+1941,National League,table_5,Strikeouts | St. Louis | 659

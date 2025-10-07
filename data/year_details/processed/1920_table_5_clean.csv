@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,109
-table_5,ERA,New York,3.32
-table_5,Fewest Hits Allowed,New York,"1,414"
-table_5,Fewest Home Runs Allowed,Cleveland,31
-table_5,Fewest Walks Allowed,Cleveland,401
-table_5,Saves,St. Louis,14
-table_5,Shutouts,New York,15
-table_5,Strikeouts,Detroit,483
+Year,Category,Statistic,Team,Value
+1920,Team Pitching Stats,Complete Games,Chicago,109
+1920,Team Pitching Stats,ERA,New York,3.32
+1920,Team Pitching Stats,Fewest Hits Allowed,New York,"1,414"
+1920,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,31
+1920,Team Pitching Stats,Fewest Walks Allowed,Cleveland,401
+1920,Team Pitching Stats,Saves,St. Louis,14
+1920,Team Pitching Stats,Shutouts,New York,15
+1920,Team Pitching Stats,Strikeouts,Detroit,483

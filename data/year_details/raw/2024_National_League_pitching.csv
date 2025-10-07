@@ -1,22 +1,20 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Max Fried | Atlanta | 2 | Top 25
-table_2,Cristopher Sánchez | Philadelphia | 2
-table_2,ERA | Chris Sale | Atlanta | 2.38 | Top 25
-table_2,Games | Tyler Rogers | San Francisco | 77 | Top 25
-table_2,Saves | Ryan Helsley | St. Louis | 49 | Top 25
-table_2,Shutouts | Dylan Cease | San Diego | 1 | Top 25
-table_2,Max Fried | Atlanta | 1
-table_2,Braxton Garrett | Miami | 1
-table_2,Aaron Nola | Philadelphia | 1
-table_2,Tyler Phillips | Philadelphia | 1
-table_2,Luis Severino | New York | 1
-table_2,Blake Snell | San Francisco | 1
-table_2,Gavin Stone | Los Angeles | 1
-table_2,Ranger Suárez | Philadelphia | 1
-table_2,Cristopher Sánchez | Philadelphia | 1
-table_2,Logan Webb | San Francisco | 1
-table_2,Strikeouts | Chris Sale | Atlanta | 225 | Top 25
-table_2,Winning Percentage | Chris Sale | Atlanta | .857 | Top 25
-table_2,Wins | Chris Sale | Atlanta | 18 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2024,National League,table_2,Complete Games | Max Fried | Atlanta | 2
+2024,National League,table_2,Cristopher Sánchez | Philadelphia | 2
+2024,National League,table_2,ERA | Chris Sale | Atlanta | 2.38
+2024,National League,table_2,Games | Tyler Rogers | San Francisco | 77
+2024,National League,table_2,Saves | Ryan Helsley | St. Louis | 49
+2024,National League,table_2,Shutouts | Dylan Cease | San Diego | 1
+2024,National League,table_2,Max Fried | Atlanta | 1
+2024,National League,table_2,Braxton Garrett | Miami | 1
+2024,National League,table_2,Aaron Nola | Philadelphia | 1
+2024,National League,table_2,Tyler Phillips | Philadelphia | 1
+2024,National League,table_2,Luis Severino | New York | 1
+2024,National League,table_2,Blake Snell | San Francisco | 1
+2024,National League,table_2,Gavin Stone | Los Angeles | 1
+2024,National League,table_2,Ranger Suárez | Philadelphia | 1
+2024,National League,table_2,Cristopher Sánchez | Philadelphia | 1
+2024,National League,table_2,Logan Webb | San Francisco | 1
+2024,National League,table_2,Strikeouts | Chris Sale | Atlanta | 225
+2024,National League,table_2,Winning Percentage | Chris Sale | Atlanta | .857
+2024,National League,table_2,Wins | Chris Sale | Atlanta | 18

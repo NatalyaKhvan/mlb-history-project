@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Mickey Lolich | Detroit | 29 | Top 25
-table_2,ERA | Vida Blue | Oakland | 1.82 | Top 25
-table_2,Games | Ken Sanders | Milwaukee | 83 | Top 25
-table_2,Saves | Ken Sanders | Milwaukee | 31 | Top 25
-table_2,Shutouts | Vida Blue | Oakland | 8 | Top 25
-table_2,Strikeouts | Mickey Lolich | Detroit | 308 | Top 25
-table_2,Winning Percentage | Dave McNally | Baltimore | .808 | Top 25
-table_2,Wins | Mickey Lolich | Detroit | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Baltimore | 71
-table_5,ERA | Baltimore | 2.99
-table_5,"Fewest Hits Allowed | Oakland | 1,299"
-table_5,Fewest Home Runs Allowed | Kansas City | 84
-table_5,Fewest Walks Allowed | Baltimore | 416
-table_5,Saves | Kansas City | 44
-table_5,Shutouts | Milwaukee | 23
-table_5,"Strikeouts | Detroit | 1,000"
-table_5,Statistic | Team | #
+year,league,category,text
+1971,American League,table_2,Complete Games | Mickey Lolich | Detroit | 29
+1971,American League,table_2,ERA | Vida Blue | Oakland | 1.82
+1971,American League,table_2,Games | Ken Sanders | Milwaukee | 83
+1971,American League,table_2,Saves | Ken Sanders | Milwaukee | 31
+1971,American League,table_2,Shutouts | Vida Blue | Oakland | 8
+1971,American League,table_2,Strikeouts | Mickey Lolich | Detroit | 308
+1971,American League,table_2,Winning Percentage | Dave McNally | Baltimore | .808
+1971,American League,table_2,Wins | Mickey Lolich | Detroit | 25
+1971,American League,table_5,Complete Games | Baltimore | 71
+1971,American League,table_5,ERA | Baltimore | 2.99
+1971,American League,table_5,"Fewest Hits Allowed | Oakland | 1,299"
+1971,American League,table_5,Fewest Home Runs Allowed | Kansas City | 84
+1971,American League,table_5,Fewest Walks Allowed | Baltimore | 416
+1971,American League,table_5,Saves | Kansas City | 44
+1971,American League,table_5,Shutouts | Milwaukee | 23
+1971,American League,table_5,"Strikeouts | Detroit | 1,000"

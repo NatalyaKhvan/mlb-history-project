@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Mordecai Brown,Chicago,27,Top 25
-table_2,ERA,King Cole,Chicago,1.80,Top 25
-table_2,Games,Al Mattern,Boston,51,Top 25
-table_2,Saves,Mordecai Brown,Chicago,7,Top 25
-table_2,Shutouts,Mordecai Brown,Chicago,6,Top 25
-table_2,Strikeouts,Earl Moore,Philadelphia,185,Top 25
-table_2,Winning Percentage,King Cole,Chicago,.833,Top 25
-table_2,Wins,Christy Mathewson,New York,27,Top 25
+Year,Category,Statistic,Player,Team,Value
+1910,Individual Pitching Stats,Complete Games,Mordecai Brown,Chicago,27
+1910,Individual Pitching Stats,ERA,King Cole,Chicago,1.80
+1910,Individual Pitching Stats,Games,Al Mattern,Boston,51
+1910,Individual Pitching Stats,Saves,Mordecai Brown,Chicago,7
+1910,Individual Pitching Stats,Shutouts,Mordecai Brown,Chicago,6
+1910,Individual Pitching Stats,Strikeouts,Earl Moore,Philadelphia,185
+1910,Individual Pitching Stats,Winning Percentage,King Cole,Chicago,.833
+1910,Individual Pitching Stats,Wins,Christy Mathewson,New York,27

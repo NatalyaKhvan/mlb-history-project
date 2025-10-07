@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Bill Hutchison | Chicago | 65 | Top 25
-table_2,ERA | Billy Rhines | Cincinnati | 1.95 | Top 25
-table_2,Games | Bill Hutchison | Chicago | 71 | Top 25
-table_2,Saves | Dave Foutz | Brooklyn | 2 | Top 25
-table_2,Shutouts | Kid Nichols | Boston | 7 | Top 25
-table_2,Strikeouts | Amos Rusie | New York | 341 | Top 25
-table_2,Winning Percentage | Tom Lovett | Brooklyn | .732 | Top 25
-table_2,Wins | Bill Hutchison | Chicago | 42 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 132
-table_5,ERA | Cincinnati | 2.79
-table_5,"Fewest Hits Allowed | New York | 1,029"
-table_5,Fewest Home Runs Allowed | New York | 14
-table_5,Fewest Walks Allowed | Boston | 354
-table_5,Saves | Chicago | 3
-table_5,Shutouts | Boston | 13
-table_5,Strikeouts | New York | 612
-table_5,Statistic | Team | 3
+year,league,category,text
+1890,National League,table_2,Complete Games | Bill Hutchison | Chicago | 65
+1890,National League,table_2,ERA | Billy Rhines | Cincinnati | 1.95
+1890,National League,table_2,Games | Bill Hutchison | Chicago | 71
+1890,National League,table_2,Saves | Dave Foutz | Brooklyn | 2
+1890,National League,table_2,Shutouts | Kid Nichols | Boston | 7
+1890,National League,table_2,Strikeouts | Amos Rusie | New York | 341
+1890,National League,table_2,Winning Percentage | Tom Lovett | Brooklyn | .732
+1890,National League,table_2,Wins | Bill Hutchison | Chicago | 42
+1890,National League,table_5,Complete Games | Boston | 132
+1890,National League,table_5,ERA | Cincinnati | 2.79
+1890,National League,table_5,"Fewest Hits Allowed | New York | 1,029"
+1890,National League,table_5,Fewest Home Runs Allowed | New York | 14
+1890,National League,table_5,Fewest Walks Allowed | Boston | 354
+1890,National League,table_5,Saves | Chicago | 3
+1890,National League,table_5,Shutouts | Boston | 13
+1890,National League,table_5,Strikeouts | New York | 612

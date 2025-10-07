@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,61
-table_5,ERA,Boston,2.15
-table_5,Fewest Hits Allowed,Boston,557
-table_5,Fewest Home Runs Allowed,Hartford,2
-table_5,Fewest Walks Allowed,Boston,38
-table_5,Saves,Chicago,3
-table_5,Shutouts,Boston,7
-table_5,Strikeouts,Boston,177
+Year,Category,Statistic,Team,Value
+1877,Team Pitching Stats,Complete Games,Boston,61
+1877,Team Pitching Stats,ERA,Boston,2.15
+1877,Team Pitching Stats,Fewest Hits Allowed,Boston,557
+1877,Team Pitching Stats,Fewest Home Runs Allowed,Hartford,2
+1877,Team Pitching Stats,Fewest Walks Allowed,Boston,38
+1877,Team Pitching Stats,Saves,Chicago,3
+1877,Team Pitching Stats,Shutouts,Boston,7
+1877,Team Pitching Stats,Strikeouts,Boston,177

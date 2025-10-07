@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Frank Lary | Detroit | 22 | Top 25
-table_2,ERA | Dick Donovan | Washington | 2.40 | Top 25
-table_2,Games | Luis Arroyo | New York | 65 | Top 25
-table_2,Saves | Luis Arroyo | New York | 29 | Top 25
-table_2,Shutouts | Steve Barber | Baltimore | 8 | Top 25
-table_2,Strikeouts | Camilo Pascual | Minnesota | 221 | Top 25
-table_2,Winning Percentage | Whitey Ford | New York | .862 | Top 25
-table_2,Wins | Whitey Ford | New York | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Detroit | 62
-table_5,ERA | Baltimore | 3.22
-table_5,"Fewest Hits Allowed | Baltimore | 1,226"
-table_5,Fewest Home Runs Allowed | Baltimore | 109
-table_5,Fewest Walks Allowed | Detroit | 469
-table_5,Saves | New York | 39
-table_5,Shutouts | Baltimore | 21
-table_5,Strikeouts | Los Angeles | 973
-table_5,Statistic | Team | #
+year,league,category,text
+1961,American League,table_2,Complete Games | Frank Lary | Detroit | 22
+1961,American League,table_2,ERA | Dick Donovan | Washington | 2.40
+1961,American League,table_2,Games | Luis Arroyo | New York | 65
+1961,American League,table_2,Saves | Luis Arroyo | New York | 29
+1961,American League,table_2,Shutouts | Steve Barber | Baltimore | 8
+1961,American League,table_2,Strikeouts | Camilo Pascual | Minnesota | 221
+1961,American League,table_2,Winning Percentage | Whitey Ford | New York | .862
+1961,American League,table_2,Wins | Whitey Ford | New York | 25
+1961,American League,table_5,Complete Games | Detroit | 62
+1961,American League,table_5,ERA | Baltimore | 3.22
+1961,American League,table_5,"Fewest Hits Allowed | Baltimore | 1,226"
+1961,American League,table_5,Fewest Home Runs Allowed | Baltimore | 109
+1961,American League,table_5,Fewest Walks Allowed | Detroit | 469
+1961,American League,table_5,Saves | New York | 39
+1961,American League,table_5,Shutouts | Baltimore | 21
+1961,American League,table_5,Strikeouts | Los Angeles | 973

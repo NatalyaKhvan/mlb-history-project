@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Warren Spahn | Milwaukee | 21 | Top 25
-table_2,ERA | Warren Spahn | Milwaukee | 3.02 | Top 25
-table_2,Games | Jack Baldschun | Philadelphia | 65 | Top 25
-table_2,Saves | Roy Face | Pittsburgh | 17 | Top 25
-table_2,Shutouts | Joey Jay | Cincinnati | 4 | Top 25
-table_2,Strikeouts | Sandy Koufax | Los Angeles | 269 | Top 25
-table_2,Winning Percentage | Johnny Podres | Los Angeles | .783 | Top 25
-table_2,Wins | Joey Jay | Cincinnati | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Milwaukee | 57
-table_5,ERA | St. Louis | 3.74
-table_5,"Fewest Hits Allowed | Cincinnati | 1,300"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 121
-table_5,Fewest Walks Allowed | Pittsburgh | 400
-table_5,Saves | Cincinnati | 40
-table_5,Shutouts | Cincinnati | 12
-table_5,"Strikeouts | Los Angeles | 1,105"
-table_5,Statistic | Team | #
+year,league,category,text
+1961,National League,table_2,Complete Games | Warren Spahn | Milwaukee | 21
+1961,National League,table_2,ERA | Warren Spahn | Milwaukee | 3.02
+1961,National League,table_2,Games | Jack Baldschun | Philadelphia | 65
+1961,National League,table_2,Saves | Roy Face | Pittsburgh | 17
+1961,National League,table_2,Shutouts | Joey Jay | Cincinnati | 4
+1961,National League,table_2,Strikeouts | Sandy Koufax | Los Angeles | 269
+1961,National League,table_2,Winning Percentage | Johnny Podres | Los Angeles | .783
+1961,National League,table_2,Wins | Joey Jay | Cincinnati | 25
+1961,National League,table_5,Complete Games | Milwaukee | 57
+1961,National League,table_5,ERA | St. Louis | 3.74
+1961,National League,table_5,"Fewest Hits Allowed | Cincinnati | 1,300"
+1961,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 121
+1961,National League,table_5,Fewest Walks Allowed | Pittsburgh | 400
+1961,National League,table_5,Saves | Cincinnati | 40
+1961,National League,table_5,Shutouts | Cincinnati | 12
+1961,National League,table_5,"Strikeouts | Los Angeles | 1,105"

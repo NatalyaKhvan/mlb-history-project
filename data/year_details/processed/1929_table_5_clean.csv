@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,84
-table_5,ERA,Philadelphia,3.44
-table_5,Fewest Hits Allowed,Philadelphia,"1,371"
-table_5,Fewest Home Runs Allowed,Washington,48
-table_5,Fewest Walks Allowed,St. Louis,462
-table_5,Saves,Philadelphia,24
-table_5,Shutouts,St. Louis,15
-table_5,Strikeouts,Philadelphia,573
+Year,Category,Statistic,Team,Value
+1929,Team Pitching Stats,Complete Games,Boston,84
+1929,Team Pitching Stats,ERA,Philadelphia,3.44
+1929,Team Pitching Stats,Fewest Hits Allowed,Philadelphia,"1,371"
+1929,Team Pitching Stats,Fewest Home Runs Allowed,Washington,48
+1929,Team Pitching Stats,Fewest Walks Allowed,St. Louis,462
+1929,Team Pitching Stats,Saves,Philadelphia,24
+1929,Team Pitching Stats,Shutouts,St. Louis,15
+1929,Team Pitching Stats,Strikeouts,Philadelphia,573

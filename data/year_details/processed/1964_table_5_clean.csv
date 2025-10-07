@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,58
-table_5,ERA,Los Angeles,2.96
-table_5,Fewest Hits Allowed,Los Angeles,"1,289"
-table_5,Fewest Home Runs Allowed,Los Angeles,88
-table_5,Fewest Walks Allowed,Houston,353
-table_5,Saves,Philadelphia,41
-table_5,Shutouts,Los Angeles,19
-table_5,Strikeouts,Cincinnati,"1,122"
+Year,Category,Statistic,Team,Value
+1964,Team Pitching Stats,Complete Games,Chicago,58
+1964,Team Pitching Stats,ERA,Los Angeles,2.96
+1964,Team Pitching Stats,Fewest Hits Allowed,Los Angeles,"1,289"
+1964,Team Pitching Stats,Fewest Home Runs Allowed,Los Angeles,88
+1964,Team Pitching Stats,Fewest Walks Allowed,Houston,353
+1964,Team Pitching Stats,Saves,Philadelphia,41
+1964,Team Pitching Stats,Shutouts,Los Angeles,19
+1964,Team Pitching Stats,Strikeouts,Cincinnati,"1,122"

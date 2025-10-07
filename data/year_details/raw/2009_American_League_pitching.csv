@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Roy Halladay | Toronto | 9 | Top 25
-table_2,ERA | Zack Greinke | Kansas City | 2.16 | Top 25
-table_2,Games | Matt Guerrier | Minnesota | 79 | Top 25
-table_2,Saves | Brian Fuentes | Los Angeles | 48 | Top 25
-table_2,Shutouts | Roy Halladay | Toronto | 4 | Top 25
-table_2,Strikeouts | Justin Verlander | Detroit | 269 | Top 25
-table_2,Winning Percentage | Felix Hernandez | Seattle | .792 | Top 25
-table_2,Wins | Felix Hernandez | Seattle | 19 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2009,American League,table_2,Complete Games | Roy Halladay | Toronto | 9
+2009,American League,table_2,ERA | Zack Greinke | Kansas City | 2.16
+2009,American League,table_2,Games | Matt Guerrier | Minnesota | 79
+2009,American League,table_2,Saves | Brian Fuentes | Los Angeles | 48
+2009,American League,table_2,Shutouts | Roy Halladay | Toronto | 4
+2009,American League,table_2,Strikeouts | Justin Verlander | Detroit | 269
+2009,American League,table_2,Winning Percentage | Felix Hernandez | Seattle | .792
+2009,American League,table_2,Wins | Felix Hernandez | Seattle | 19

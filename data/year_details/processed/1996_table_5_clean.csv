@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Texas,19
-table_5,ERA,Cleveland,4.34
-table_5,Fewest Hits Allowed,New York,"1,469"
-table_5,Fewest Home Runs Allowed,New York,143
-table_5,Fewest Walks Allowed,Kansas City,460
-table_5,Saves,New York,52
-table_5,Shutouts,Cleveland,9
-table_5,Strikeouts,Boston,"1,165"
+Year,Category,Statistic,Team,Value
+1996,Team Pitching Stats,Complete Games,Texas,19
+1996,Team Pitching Stats,ERA,Cleveland,4.34
+1996,Team Pitching Stats,Fewest Hits Allowed,New York,"1,469"
+1996,Team Pitching Stats,Fewest Home Runs Allowed,New York,143
+1996,Team Pitching Stats,Fewest Walks Allowed,Kansas City,460
+1996,Team Pitching Stats,Saves,New York,52
+1996,Team Pitching Stats,Shutouts,Cleveland,9
+1996,Team Pitching Stats,Strikeouts,Boston,"1,165"

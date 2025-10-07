@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | George Uhle | Cleveland | 32 | Top 25
-table_2,ERA | Lefty Grove | Philadelphia | 2.51 | Top 25
-table_2,Games | Firpo Marberry | Washington | 64 | Top 25
-table_2,Saves | Firpo Marberry | Washington | 22 | Top 25
-table_2,Shutouts | Ed Wells | Detroit | 4 | Top 25
-table_2,Strikeouts | Lefty Grove | Philadelphia | 194 | Top 25
-table_2,Winning Percentage | George Uhle | Cleveland | .711 | Top 25
-table_2,Wins | George Uhle | Cleveland | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 96
-table_5,ERA | Philadelphia | 3.00
-table_5,"Fewest Hits Allowed | Philadelphia | 1,362"
-table_5,Fewest Home Runs Allowed | Philadelphia | 38
-table_5,Fewest Walks Allowed | Cleveland | 450
-table_5,Saves | Washington | 26
-table_5,Shutouts | Chicago | 11
-table_5,Strikeouts | Philadelphia | 571
+year,league,category,text
+1926,American League,table_2,Complete Games | George Uhle | Cleveland | 32
+1926,American League,table_2,ERA | Lefty Grove | Philadelphia | 2.51
+1926,American League,table_2,Games | Firpo Marberry | Washington | 64
+1926,American League,table_2,Saves | Firpo Marberry | Washington | 22
+1926,American League,table_2,Shutouts | Ed Wells | Detroit | 4
+1926,American League,table_2,Strikeouts | Lefty Grove | Philadelphia | 194
+1926,American League,table_2,Winning Percentage | George Uhle | Cleveland | .711
+1926,American League,table_2,Wins | George Uhle | Cleveland | 27
+1926,American League,table_5,Complete Games | Cleveland | 96
+1926,American League,table_5,ERA | Philadelphia | 3.00
+1926,American League,table_5,"Fewest Hits Allowed | Philadelphia | 1,362"
+1926,American League,table_5,Fewest Home Runs Allowed | Philadelphia | 38
+1926,American League,table_5,Fewest Walks Allowed | Cleveland | 450
+1926,American League,table_5,Saves | Washington | 26
+1926,American League,table_5,Shutouts | Chicago | 11
+1926,American League,table_5,Strikeouts | Philadelphia | 571

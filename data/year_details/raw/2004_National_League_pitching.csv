@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Livan Hernandez | Montreal | 9 | Top 25
-table_2,ERA | Jake Peavy | San Diego | 2.27 | Top 25
-table_2,Games | Jim Brower | San Francisco | 89 | Top 25
-table_2,Saves | Armando Benitez | Florida | 47 | Top 25
-table_2,Shutouts | Cory Lidle | Philadelphia | 3 | Top 25
-table_2,Strikeouts | Randy Johnson | Arizona | 290 | Top 25
-table_2,Winning Percentage | Roger Clemens | Houston | .818 | Top 25
-table_2,Wins | Roy Oswalt | Houston | 20 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Montreal | 11
-table_5,ERA | Atlanta | 3.74
-table_5,"Fewest Hits Allowed | Chicago | 1,363"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 149
-table_5,Fewest Walks Allowed | San Diego | 422
-table_5,Saves | St. Louis | 57
-table_5,Shutouts | Florida | 14
-table_5,"Strikeouts | Chicago | 1,346"
+year,league,category,text
+2004,National League,table_2,Complete Games | Livan Hernandez | Montreal | 9
+2004,National League,table_2,ERA | Jake Peavy | San Diego | 2.27
+2004,National League,table_2,Games | Jim Brower | San Francisco | 89
+2004,National League,table_2,Saves | Armando Benitez | Florida | 47
+2004,National League,table_2,Shutouts | Cory Lidle | Philadelphia | 3
+2004,National League,table_2,Strikeouts | Randy Johnson | Arizona | 290
+2004,National League,table_2,Winning Percentage | Roger Clemens | Houston | .818
+2004,National League,table_2,Wins | Roy Oswalt | Houston | 20
+2004,National League,table_5,Complete Games | Montreal | 11
+2004,National League,table_5,ERA | Atlanta | 3.74
+2004,National League,table_5,"Fewest Hits Allowed | Chicago | 1,363"
+2004,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 149
+2004,National League,table_5,Fewest Walks Allowed | San Diego | 422
+2004,National League,table_5,Saves | St. Louis | 57
+2004,National League,table_5,Shutouts | Florida | 14
+2004,National League,table_5,"Strikeouts | Chicago | 1,346"

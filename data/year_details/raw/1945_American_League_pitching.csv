@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Hal Newhouser | Detroit | 29 | Top 25
-table_2,ERA | Hal Newhouser | Detroit | 1.81 | Top 25
-table_2,Games | Joe Berry | Philadelphia | 52 | Top 25
-table_2,Saves | Jim Turner | New York | 10 | Top 25
-table_2,Shutouts | Hal Newhouser | Detroit | 8 | Top 25
-table_2,Strikeouts | Hal Newhouser | Detroit | 212 | Top 25
-table_2,Winning Percentage | Hal Newhouser | Detroit | .735 | Top 25
-table_2,Wins | Hal Newhouser | Detroit | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | St. Louis | 91
-table_5,ERA | Washington | 2.93
-table_5,"Fewest Hits Allowed | Cleveland | 1,269"
-table_5,Fewest Home Runs Allowed | Cleveland | 39
-table_5,Fewest Walks Allowed | Washington | 440
-table_5,Saves | Detroit | 16
-table_5,Shutouts | Detroit | 19
-table_5,Strikeouts | Detroit | 588
-table_5,Statistic | Team | #
+year,league,category,text
+1945,American League,table_2,Complete Games | Hal Newhouser | Detroit | 29
+1945,American League,table_2,ERA | Hal Newhouser | Detroit | 1.81
+1945,American League,table_2,Games | Joe Berry | Philadelphia | 52
+1945,American League,table_2,Saves | Jim Turner | New York | 10
+1945,American League,table_2,Shutouts | Hal Newhouser | Detroit | 8
+1945,American League,table_2,Strikeouts | Hal Newhouser | Detroit | 212
+1945,American League,table_2,Winning Percentage | Hal Newhouser | Detroit | .735
+1945,American League,table_2,Wins | Hal Newhouser | Detroit | 25
+1945,American League,table_5,Complete Games | St. Louis | 91
+1945,American League,table_5,ERA | Washington | 2.93
+1945,American League,table_5,"Fewest Hits Allowed | Cleveland | 1,269"
+1945,American League,table_5,Fewest Home Runs Allowed | Cleveland | 39
+1945,American League,table_5,Fewest Walks Allowed | Washington | 440
+1945,American League,table_5,Saves | Detroit | 16
+1945,American League,table_5,Shutouts | Detroit | 19
+1945,American League,table_5,Strikeouts | Detroit | 588

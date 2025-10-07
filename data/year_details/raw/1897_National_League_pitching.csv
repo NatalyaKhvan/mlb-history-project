@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Red Donahue | St. Louis | 38 | Top 25
-table_2,ERA | Amos Rusie | New York | 2.54 | Top 25
-table_2,Games | Red Donahue | St. Louis | 46 | Top 25
-table_2,Saves | Kid Nichols | Boston | 3 | Top 25
-table_2,Shutouts | Doc McJames | Washington | 3 | Top 25
-table_2,Strikeouts | Doc McJames | Washington | 156 | Top 25
-table_2,Winning Percentage | Fred Klobedanz | Boston | .788 | Top 25
-table_2,Wins | Kid Nichols | Boston | 31 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 131
-table_5,ERA | New York | 3.47
-table_5,"Fewest Hits Allowed | New York | 1,214"
-table_5,Fewest Home Runs Allowed | Baltimore | 18
-table_5,Fewest Walks Allowed | Cleveland | 289
-table_5,Saves | Boston | 7
-table_5,Shutouts | Boston | 8
-table_5,Strikeouts | New York | 456
-table_5,Statistic | Team | #
+year,league,category,text
+1897,National League,table_2,Complete Games | Red Donahue | St. Louis | 38
+1897,National League,table_2,ERA | Amos Rusie | New York | 2.54
+1897,National League,table_2,Games | Red Donahue | St. Louis | 46
+1897,National League,table_2,Saves | Kid Nichols | Boston | 3
+1897,National League,table_2,Shutouts | Doc McJames | Washington | 3
+1897,National League,table_2,Strikeouts | Doc McJames | Washington | 156
+1897,National League,table_2,Winning Percentage | Fred Klobedanz | Boston | .788
+1897,National League,table_2,Wins | Kid Nichols | Boston | 31
+1897,National League,table_5,Complete Games | Chicago | 131
+1897,National League,table_5,ERA | New York | 3.47
+1897,National League,table_5,"Fewest Hits Allowed | New York | 1,214"
+1897,National League,table_5,Fewest Home Runs Allowed | Baltimore | 18
+1897,National League,table_5,Fewest Walks Allowed | Cleveland | 289
+1897,National League,table_5,Saves | Boston | 7
+1897,National League,table_5,Shutouts | Boston | 8
+1897,National League,table_5,Strikeouts | New York | 456

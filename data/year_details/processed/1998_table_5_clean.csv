@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,New York,22
-table_5,ERA,New York,3.82
-table_5,Fewest Hits Allowed,New York,"1,357"
-table_5,Fewest Home Runs Allowed,New York,156
-table_5,Fewest Walks Allowed,Minnesota,458
-table_5,Saves,Boston,53
-table_5,Shutouts,New York,16
-table_5,Strikeouts,Seattle,"1,156"
+Year,Category,Statistic,Team,Value
+1998,Team Pitching Stats,Complete Games,New York,22
+1998,Team Pitching Stats,ERA,New York,3.82
+1998,Team Pitching Stats,Fewest Hits Allowed,New York,"1,357"
+1998,Team Pitching Stats,Fewest Home Runs Allowed,New York,156
+1998,Team Pitching Stats,Fewest Walks Allowed,Minnesota,458
+1998,Team Pitching Stats,Saves,Boston,53
+1998,Team Pitching Stats,Shutouts,New York,16
+1998,Team Pitching Stats,Strikeouts,Seattle,"1,156"

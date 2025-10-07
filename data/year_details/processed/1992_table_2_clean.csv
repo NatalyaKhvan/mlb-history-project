@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Jack McDowell,Chicago,13,Top 25
-table_2,ERA,Roger Clemens,Boston,2.41,Top 25
-table_2,Games,Kenny Rogers,Texas,81,Top 25
-table_2,Saves,Dennis Eckersley,Oakland,51,Top 25
-table_2,Shutouts,Roger Clemens,Boston,5,Top 25
-table_2,Strikeouts,Randy Johnson,Seattle,241,Top 25
-table_2,Winning Percentage,Mike Mussina,Baltimore,.783,Top 25
-table_2,Wins,Kevin Brown,Texas,21,Top 25
+Year,Category,Statistic,Player,Team,Value
+1992,Individual Pitching Stats,Complete Games,Jack McDowell,Chicago,13
+1992,Individual Pitching Stats,ERA,Roger Clemens,Boston,2.41
+1992,Individual Pitching Stats,Games,Kenny Rogers,Texas,81
+1992,Individual Pitching Stats,Saves,Dennis Eckersley,Oakland,51
+1992,Individual Pitching Stats,Shutouts,Roger Clemens,Boston,5
+1992,Individual Pitching Stats,Strikeouts,Randy Johnson,Seattle,241
+1992,Individual Pitching Stats,Winning Percentage,Mike Mussina,Baltimore,.783
+1992,Individual Pitching Stats,Wins,Kevin Brown,Texas,21

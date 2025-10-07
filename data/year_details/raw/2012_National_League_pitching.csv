@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | R.A. Dickey | New York | 5 | Top 25
-table_2,ERA | Clayton Kershaw | Los Angeles | 2.53 | Top 25
-table_2,Games | Matt Belisle | Colorado | 80 | Top 25
-table_2,Saves | Craig Kimbrel | Atlanta | 42 | Top 25
-table_2,Shutouts | R.A. Dickey | New York | 3 | Top 25
-table_2,Strikeouts | R.A. Dickey | New York | 230 | Top 25
-table_2,Winning Percentage | Kyle Lohse | St. Louis | .842 | Top 25
-table_2,Wins | Gio Gonzalez | Washington | 21 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2012,National League,table_2,Complete Games | R.A. Dickey | New York | 5
+2012,National League,table_2,ERA | Clayton Kershaw | Los Angeles | 2.53
+2012,National League,table_2,Games | Matt Belisle | Colorado | 80
+2012,National League,table_2,Saves | Craig Kimbrel | Atlanta | 42
+2012,National League,table_2,Shutouts | R.A. Dickey | New York | 3
+2012,National League,table_2,Strikeouts | R.A. Dickey | New York | 230
+2012,National League,table_2,Winning Percentage | Kyle Lohse | St. Louis | .842
+2012,National League,table_2,Wins | Gio Gonzalez | Washington | 21

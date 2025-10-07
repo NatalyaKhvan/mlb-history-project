@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Brooklyn,98
-table_5,ERA,Chicago,2.21
-table_5,Fewest Hits Allowed,Cincinnati,"1,104"
-table_5,Fewest Home Runs Allowed,Chicago,14
-table_5,Fewest Walks Allowed,Pittsburgh,263
-table_5,Saves,New York,13
-table_5,Shutouts,Cincinnati,23
-table_5,Strikeouts,Chicago,495
+Year,Category,Statistic,Team,Value
+1919,Team Pitching Stats,Complete Games,Brooklyn,98
+1919,Team Pitching Stats,ERA,Chicago,2.21
+1919,Team Pitching Stats,Fewest Hits Allowed,Cincinnati,"1,104"
+1919,Team Pitching Stats,Fewest Home Runs Allowed,Chicago,14
+1919,Team Pitching Stats,Fewest Walks Allowed,Pittsburgh,263
+1919,Team Pitching Stats,Saves,New York,13
+1919,Team Pitching Stats,Shutouts,Cincinnati,23
+1919,Team Pitching Stats,Strikeouts,Chicago,495

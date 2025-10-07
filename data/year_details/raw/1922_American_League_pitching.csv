@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Red Faber | Chicago | 31 | Top 25
-table_2,ERA | Red Faber | Chicago | 2.81 | Top 25
-table_2,Games | Eddie Rommel | Philadelphia | 51 | Top 25
-table_2,Saves | Sam Jones | New York | 8 | Top 25
-table_2,Shutouts | George Uhle | Cleveland | 5 | Top 25
-table_2,Strikeouts | Urban Shocker | St. Louis | 149 | Top 25
-table_2,Winning Percentage | Joe Bush | New York | .788 | Top 25
-table_2,Wins | Eddie Rommel | Philadelphia | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 100
-table_5,ERA | St. Louis | 3.38
-table_5,"Fewest Hits Allowed | New York | 1,402"
-table_5,Fewest Home Runs Allowed | Boston | 48
-table_5,Fewest Walks Allowed | St. Louis | 419
-table_5,Saves | St. Louis | 22
-table_5,Shutouts | Cleveland | 14
-table_5,Strikeouts | St. Louis | 534
-table_5,Statistic | Team | #
+year,league,category,text
+1922,American League,table_2,Complete Games | Red Faber | Chicago | 31
+1922,American League,table_2,ERA | Red Faber | Chicago | 2.81
+1922,American League,table_2,Games | Eddie Rommel | Philadelphia | 51
+1922,American League,table_2,Saves | Sam Jones | New York | 8
+1922,American League,table_2,Shutouts | George Uhle | Cleveland | 5
+1922,American League,table_2,Strikeouts | Urban Shocker | St. Louis | 149
+1922,American League,table_2,Winning Percentage | Joe Bush | New York | .788
+1922,American League,table_2,Wins | Eddie Rommel | Philadelphia | 27
+1922,American League,table_5,Complete Games | New York | 100
+1922,American League,table_5,ERA | St. Louis | 3.38
+1922,American League,table_5,"Fewest Hits Allowed | New York | 1,402"
+1922,American League,table_5,Fewest Home Runs Allowed | Boston | 48
+1922,American League,table_5,Fewest Walks Allowed | St. Louis | 419
+1922,American League,table_5,Saves | St. Louis | 22
+1922,American League,table_5,Shutouts | Cleveland | 14
+1922,American League,table_5,Strikeouts | St. Louis | 534

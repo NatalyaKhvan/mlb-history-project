@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,St. Louis,90
-table_5,ERA,Chicago,3.26
-table_5,Fewest Hits Allowed,New York,"1,370"
-table_5,Fewest Home Runs Allowed,Chicago,39
-table_5,Fewest Walks Allowed,Cincinnati,324
-table_5,Saves,Pittsburgh,18
-table_5,Shutouts,Cincinnati,14
-table_5,Strikeouts,Brooklyn,517
+Year,Category,Statistic,Team,Value
+1926,Team Pitching Stats,Complete Games,St. Louis,90
+1926,Team Pitching Stats,ERA,Chicago,3.26
+1926,Team Pitching Stats,Fewest Hits Allowed,New York,"1,370"
+1926,Team Pitching Stats,Fewest Home Runs Allowed,Chicago,39
+1926,Team Pitching Stats,Fewest Walks Allowed,Cincinnati,324
+1926,Team Pitching Stats,Saves,Pittsburgh,18
+1926,Team Pitching Stats,Shutouts,Cincinnati,14
+1926,Team Pitching Stats,Strikeouts,Brooklyn,517

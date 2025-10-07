@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Roy Halladay | Toronto | 7 | Top 25
-table_2,ERA | John Lackey | Los Angeles | 3.01 | Top 25
-table_2,Games | Jamie Walker | Baltimore | 81 | Top 25
-table_2,Saves | Joe Borowski | Cleveland | 45 | Top 25
-table_2,Shutouts | Paul Byrd | Cleveland | 2 | Top 25
-table_2,Strikeouts | Scott Kazmir | Tampa Bay | 239 | Top 25
-table_2,Winning Percentage | Justin Verlander | Detroit | .762 | Top 25
-table_2,Wins | Josh Beckett | Boston | 20 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2007,American League,table_2,Complete Games | Roy Halladay | Toronto | 7
+2007,American League,table_2,ERA | John Lackey | Los Angeles | 3.01
+2007,American League,table_2,Games | Jamie Walker | Baltimore | 81
+2007,American League,table_2,Saves | Joe Borowski | Cleveland | 45
+2007,American League,table_2,Shutouts | Paul Byrd | Cleveland | 2
+2007,American League,table_2,Strikeouts | Scott Kazmir | Tampa Bay | 239
+2007,American League,table_2,Winning Percentage | Justin Verlander | Detroit | .762
+2007,American League,table_2,Wins | Josh Beckett | Boston | 20

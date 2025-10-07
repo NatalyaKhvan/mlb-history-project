@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Pud Galvin,Buffalo,72,Top 25
-table_2,ERA,Jim McCormick,Cleveland,1.84,Top 25
-table_2,Games,Pud Galvin,Buffalo,76,Top 25
-table_2,Saves,Jim Whitney,Boston,2,Top 25
-table_2,Shutouts,Pud Galvin,Buffalo,5,Top 25
-table_2,Strikeouts,Jim Whitney,Boston,345,Top 25
-table_2,Winning Percentage,Jim McCormick,Cleveland,.700,Top 25
-table_2,Wins,Old Hoss Radbourn,Providence,48,Top 25
+Year,Category,Statistic,Player,Team,Value
+1883,Individual Pitching Stats,Complete Games,Pud Galvin,Buffalo,72
+1883,Individual Pitching Stats,ERA,Jim McCormick,Cleveland,1.84
+1883,Individual Pitching Stats,Games,Pud Galvin,Buffalo,76
+1883,Individual Pitching Stats,Saves,Jim Whitney,Boston,2
+1883,Individual Pitching Stats,Shutouts,Pud Galvin,Buffalo,5
+1883,Individual Pitching Stats,Strikeouts,Jim Whitney,Boston,345
+1883,Individual Pitching Stats,Winning Percentage,Jim McCormick,Cleveland,.700
+1883,Individual Pitching Stats,Wins,Old Hoss Radbourn,Providence,48

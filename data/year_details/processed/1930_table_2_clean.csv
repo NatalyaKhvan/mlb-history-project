@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Erv Brame,Pittsburgh,22,Top 25
-table_2,ERA,Dazzy Vance,Brooklyn,2.61,Top 25
-table_2,Games,Hal Elliott,Philadelphia,48,Top 25
-table_2,Saves,Hi Bell,St. Louis,8,Top 25
-table_2,Shutouts,Charlie Root,Chicago,4,Top 25
-table_2,Strikeouts,Bill Hallahan,St. Louis,177,Top 25
-table_2,Winning Percentage,Freddie Fitzsimmons,New York,.731,Top 25
-table_2,Wins,Ray Kremer,Pittsburgh,20,Top 25
+Year,Category,Statistic,Player,Team,Value
+1930,Individual Pitching Stats,Complete Games,Erv Brame,Pittsburgh,22
+1930,Individual Pitching Stats,ERA,Dazzy Vance,Brooklyn,2.61
+1930,Individual Pitching Stats,Games,Hal Elliott,Philadelphia,48
+1930,Individual Pitching Stats,Saves,Hi Bell,St. Louis,8
+1930,Individual Pitching Stats,Shutouts,Charlie Root,Chicago,4
+1930,Individual Pitching Stats,Strikeouts,Bill Hallahan,St. Louis,177
+1930,Individual Pitching Stats,Winning Percentage,Freddie Fitzsimmons,New York,.731
+1930,Individual Pitching Stats,Wins,Ray Kremer,Pittsburgh,20

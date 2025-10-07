@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Chris Sale,Chicago,6,Top 25
-table_2,ERA,Aaron Sanchez,Toronto,3.00,Top 25
-table_2,Games,Bryan Shaw,Cleveland,75,Top 25
-table_2,Saves,Zach Britton,Baltimore,47,Top 25
-table_2,Shutouts,Corey Kluber,Cleveland,2,Top 25
-table_2,Strikeouts,Justin Verlander,Detroit,254,Top 25
-table_2,Winning Percentage,Aaron Sanchez,Toronto,.882,Top 25
-table_2,Wins,Rick Porcello,Boston,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+2016,Individual Pitching Stats,Complete Games,Chris Sale,Chicago,6
+2016,Individual Pitching Stats,ERA,Aaron Sanchez,Toronto,3.00
+2016,Individual Pitching Stats,Games,Bryan Shaw,Cleveland,75
+2016,Individual Pitching Stats,Saves,Zach Britton,Baltimore,47
+2016,Individual Pitching Stats,Shutouts,Corey Kluber,Cleveland,2
+2016,Individual Pitching Stats,Strikeouts,Justin Verlander,Detroit,254
+2016,Individual Pitching Stats,Winning Percentage,Aaron Sanchez,Toronto,.882
+2016,Individual Pitching Stats,Wins,Rick Porcello,Boston,22

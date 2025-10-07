@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jim Turner | Boston | 24 | Top 25
-table_2,ERA | Jim Turner | Boston | 2.38 | Top 25
-table_2,Games | Hugh Mulcahy | Philadelphia | 56 | Top 25
-table_2,Saves | Mace Brown | Pittsburgh | 7 | Top 25
-table_2,Shutouts | Lou Fette | Boston | 5 | Top 25
-table_2,Strikeouts | Carl Hubbell | New York | 159 | Top 25
-table_2,Winning Percentage | Carl Hubbell | New York | .733 | Top 25
-table_2,Wins | Carl Hubbell | New York | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 85
-table_5,ERA | Boston | 3.22
-table_5,"Fewest Hits Allowed | New York | 1,341"
-table_5,Fewest Home Runs Allowed | Cincinnati | 38
-table_5,Fewest Walks Allowed | Boston | 372
-table_5,Saves | Cincinnati | 18
-table_5,Shutouts | Boston | 16
-table_5,Strikeouts | New York | 653
+year,league,category,text
+1937,National League,table_2,Complete Games | Jim Turner | Boston | 24
+1937,National League,table_2,ERA | Jim Turner | Boston | 2.38
+1937,National League,table_2,Games | Hugh Mulcahy | Philadelphia | 56
+1937,National League,table_2,Saves | Mace Brown | Pittsburgh | 7
+1937,National League,table_2,Shutouts | Lou Fette | Boston | 5
+1937,National League,table_2,Strikeouts | Carl Hubbell | New York | 159
+1937,National League,table_2,Winning Percentage | Carl Hubbell | New York | .733
+1937,National League,table_2,Wins | Carl Hubbell | New York | 22
+1937,National League,table_5,Complete Games | Boston | 85
+1937,National League,table_5,ERA | Boston | 3.22
+1937,National League,table_5,"Fewest Hits Allowed | New York | 1,341"
+1937,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 38
+1937,National League,table_5,Fewest Walks Allowed | Boston | 372
+1937,National League,table_5,Saves | Cincinnati | 18
+1937,National League,table_5,Shutouts | Boston | 16
+1937,National League,table_5,Strikeouts | New York | 653

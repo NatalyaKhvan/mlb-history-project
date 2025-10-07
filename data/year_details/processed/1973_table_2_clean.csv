@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Steve Carlton,Philadelphia,18,Top 25
-table_2,ERA,Tom Seaver,New York,2.08,Top 25
-table_2,Games,Mike Marshall,Los Angeles,92,Top 25
-table_2,Saves,Mike Marshall,Los Angeles,31,Top 25
-table_2,Shutouts,Jack Billingham,Cincinnati,7,Top 25
-table_2,Strikeouts,Tom Seaver,New York,251,Top 25
-table_2,Winning Percentage,Tommy John,Los Angeles,.696,Top 25
-table_2,Wins,Ron Bryant,San Francisco,24,Top 25
+Year,Category,Statistic,Player,Team,Value
+1973,Individual Pitching Stats,Complete Games,Steve Carlton,Philadelphia,18
+1973,Individual Pitching Stats,ERA,Tom Seaver,New York,2.08
+1973,Individual Pitching Stats,Games,Mike Marshall,Los Angeles,92
+1973,Individual Pitching Stats,Saves,Mike Marshall,Los Angeles,31
+1973,Individual Pitching Stats,Shutouts,Jack Billingham,Cincinnati,7
+1973,Individual Pitching Stats,Strikeouts,Tom Seaver,New York,251
+1973,Individual Pitching Stats,Winning Percentage,Tommy John,Los Angeles,.696
+1973,Individual Pitching Stats,Wins,Ron Bryant,San Francisco,24

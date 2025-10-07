@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Vic Willis,Boston,45,Top 25
-table_2,ERA,Jack Taylor,Chicago,1.33,Top 25
-table_2,Games,Vic Willis,Boston,51,Top 25
-table_2,Saves,Vic Willis,Boston,3,Top 25
-table_2,Shutouts,Jack Chesbro,Pittsburgh,8,Top 25
-table_2,Strikeouts,Vic Willis,Boston,225,Top 25
-table_2,Winning Percentage,Jack Chesbro,Pittsburgh,.824,Top 25
-table_2,Wins,Jack Chesbro,Pittsburgh,28,Top 25
+Year,Category,Statistic,Player,Team,Value
+1902,Individual Pitching Stats,Complete Games,Vic Willis,Boston,45
+1902,Individual Pitching Stats,ERA,Jack Taylor,Chicago,1.33
+1902,Individual Pitching Stats,Games,Vic Willis,Boston,51
+1902,Individual Pitching Stats,Saves,Vic Willis,Boston,3
+1902,Individual Pitching Stats,Shutouts,Jack Chesbro,Pittsburgh,8
+1902,Individual Pitching Stats,Strikeouts,Vic Willis,Boston,225
+1902,Individual Pitching Stats,Winning Percentage,Jack Chesbro,Pittsburgh,.824
+1902,Individual Pitching Stats,Wins,Jack Chesbro,Pittsburgh,28

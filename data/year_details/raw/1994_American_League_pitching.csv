@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Randy Johnson | Seattle | 9 | Top 25
-table_2,ERA | Steve Ontiveros | Oakland | 2.65 | Top 25
-table_2,Games | Bob Wickman | New York | 53 | Top 25
-table_2,Saves | Lee Smith | Baltimore | 33 | Top 25
-table_2,Shutouts | Randy Johnson | Seattle | 4 | Top 25
-table_2,Strikeouts | Randy Johnson | Seattle | 204 | Top 25
-table_2,Winning Percentage | Jason Bere | Chicago | .857 | Top 25
-table_2,Wins | Jimmy Key | New York | 17 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 17
-table_5,ERA | Chicago | 3.96
-table_5,Fewest Hits Allowed | Chicago | 964
-table_5,Fewest Home Runs Allowed | Cleveland | 94
-table_5,Fewest Walks Allowed | Baltimore | 351
-table_5,Saves | Kansas City | 38
-table_5,Shutouts | Chicago | 9
-table_5,Strikeouts | Toronto | 832
+year,league,category,text
+1994,American League,table_2,Complete Games | Randy Johnson | Seattle | 9
+1994,American League,table_2,ERA | Steve Ontiveros | Oakland | 2.65
+1994,American League,table_2,Games | Bob Wickman | New York | 53
+1994,American League,table_2,Saves | Lee Smith | Baltimore | 33
+1994,American League,table_2,Shutouts | Randy Johnson | Seattle | 4
+1994,American League,table_2,Strikeouts | Randy Johnson | Seattle | 204
+1994,American League,table_2,Winning Percentage | Jason Bere | Chicago | .857
+1994,American League,table_2,Wins | Jimmy Key | New York | 17
+1994,American League,table_5,Complete Games | Cleveland | 17
+1994,American League,table_5,ERA | Chicago | 3.96
+1994,American League,table_5,Fewest Hits Allowed | Chicago | 964
+1994,American League,table_5,Fewest Home Runs Allowed | Cleveland | 94
+1994,American League,table_5,Fewest Walks Allowed | Baltimore | 351
+1994,American League,table_5,Saves | Kansas City | 38
+1994,American League,table_5,Shutouts | Chicago | 9
+1994,American League,table_5,Strikeouts | Toronto | 832

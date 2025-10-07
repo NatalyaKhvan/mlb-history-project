@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Walter Johnson,Washington,35,Top 25
-table_2,ERA,Smoky Joe Wood,Boston,1.49,Top 25
-table_2,Games,Harry Coveleski,Detroit,50,Top 25
-table_2,Saves,Carl Mays,Boston,7,Top 25
-table_2,Shutouts,Walter Johnson,Washington,7,Top 25
-table_2,Strikeouts,Walter Johnson,Washington,203,Top 25
-table_2,Winning Percentage,Smoky Joe Wood,Boston,.750,Top 25
-table_2,Wins,Walter Johnson,Washington,27,Top 25
+Year,Category,Statistic,Player,Team,Value
+1915,Individual Pitching Stats,Complete Games,Walter Johnson,Washington,35
+1915,Individual Pitching Stats,ERA,Smoky Joe Wood,Boston,1.49
+1915,Individual Pitching Stats,Games,Harry Coveleski,Detroit,50
+1915,Individual Pitching Stats,Saves,Carl Mays,Boston,7
+1915,Individual Pitching Stats,Shutouts,Walter Johnson,Washington,7
+1915,Individual Pitching Stats,Strikeouts,Walter Johnson,Washington,203
+1915,Individual Pitching Stats,Winning Percentage,Smoky Joe Wood,Boston,.750
+1915,Individual Pitching Stats,Wins,Walter Johnson,Washington,27

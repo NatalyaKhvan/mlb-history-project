@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bill Hutchison,Chicago,56,Top 25
-table_2,ERA,John Ewing,New York,2.27,Top 25
-table_2,Games,Bill Hutchison,Chicago,66,Top 25
-table_2,Saves,John Clarkson,Boston,3,Top 25
-table_2,Shutouts,Amos Rusie,New York,6,Top 25
-table_2,Strikeouts,Amos Rusie,New York,337,Top 25
-table_2,Winning Percentage,John Ewing,New York,.724,Top 25
-table_2,Wins,Bill Hutchison,Chicago,44,Top 25
+Year,Category,Statistic,Player,Team,Value
+1891,Individual Pitching Stats,Complete Games,Bill Hutchison,Chicago,56
+1891,Individual Pitching Stats,ERA,John Ewing,New York,2.27
+1891,Individual Pitching Stats,Games,Bill Hutchison,Chicago,66
+1891,Individual Pitching Stats,Saves,John Clarkson,Boston,3
+1891,Individual Pitching Stats,Shutouts,Amos Rusie,New York,6
+1891,Individual Pitching Stats,Strikeouts,Amos Rusie,New York,337
+1891,Individual Pitching Stats,Winning Percentage,John Ewing,New York,.724
+1891,Individual Pitching Stats,Wins,Bill Hutchison,Chicago,44

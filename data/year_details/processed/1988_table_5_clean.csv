@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Los Angeles,32
-table_5,ERA,New York,2.91
-table_5,Fewest Hits Allowed,New York,"1,253"
-table_5,Fewest Home Runs Allowed,New York,78
-table_5,Fewest Walks Allowed,New York,404
-table_5,Saves,Los Angeles,49
-table_5,Shutouts,Los Angeles,24
-table_5,Strikeouts,New York,"1,100"
+Year,Category,Statistic,Team,Value
+1988,Team Pitching Stats,Complete Games,Los Angeles,32
+1988,Team Pitching Stats,ERA,New York,2.91
+1988,Team Pitching Stats,Fewest Hits Allowed,New York,"1,253"
+1988,Team Pitching Stats,Fewest Home Runs Allowed,New York,78
+1988,Team Pitching Stats,Fewest Walks Allowed,New York,404
+1988,Team Pitching Stats,Saves,Los Angeles,49
+1988,Team Pitching Stats,Shutouts,Los Angeles,24
+1988,Team Pitching Stats,Strikeouts,New York,"1,100"

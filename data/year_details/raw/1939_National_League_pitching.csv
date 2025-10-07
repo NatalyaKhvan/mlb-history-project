@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Bucky Walters | Cincinnati | 31 | Top 25
-table_2,ERA | Bucky Walters | Cincinnati | 2.29 | Top 25
-table_2,Games | Clyde Shoun | St. Louis | 53 | Top 25
-table_2,Saves | Bob Bowman | St. Louis | 9 | Top 25
-table_2,Shutouts | Lou Fette | Boston | 6 | Top 25
-table_2,Strikeouts | Claude Passeau | Philadelphia | 137 | Top 25
-table_2,Winning Percentage | Paul Derringer | Cincinnati | .781 | Top 25
-table_2,Wins | Bucky Walters | Cincinnati | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cincinnati | 86
-table_5,ERA | Cincinnati | 3.28
-table_5,"Fewest Hits Allowed | Cincinnati | 1,340"
-table_5,Fewest Home Runs Allowed | Boston | 63
-table_5,Fewest Walks Allowed | Brooklyn | 399
-table_5,Saves | St. Louis | 32
-table_5,Shutouts | St. Louis | 18
-table_5,Strikeouts | Cincinnati | 637
+year,league,category,text
+1939,National League,table_2,Complete Games | Bucky Walters | Cincinnati | 31
+1939,National League,table_2,ERA | Bucky Walters | Cincinnati | 2.29
+1939,National League,table_2,Games | Clyde Shoun | St. Louis | 53
+1939,National League,table_2,Saves | Bob Bowman | St. Louis | 9
+1939,National League,table_2,Shutouts | Lou Fette | Boston | 6
+1939,National League,table_2,Strikeouts | Claude Passeau | Philadelphia | 137
+1939,National League,table_2,Winning Percentage | Paul Derringer | Cincinnati | .781
+1939,National League,table_2,Wins | Bucky Walters | Cincinnati | 27
+1939,National League,table_5,Complete Games | Cincinnati | 86
+1939,National League,table_5,ERA | Cincinnati | 3.28
+1939,National League,table_5,"Fewest Hits Allowed | Cincinnati | 1,340"
+1939,National League,table_5,Fewest Home Runs Allowed | Boston | 63
+1939,National League,table_5,Fewest Walks Allowed | Brooklyn | 399
+1939,National League,table_5,Saves | St. Louis | 32
+1939,National League,table_5,Shutouts | St. Louis | 18
+1939,National League,table_5,Strikeouts | Cincinnati | 637

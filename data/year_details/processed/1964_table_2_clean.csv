@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Juan Marichal,San Francisco,22,Top 25
-table_2,ERA,Sandy Koufax,Los Angeles,1.74,Top 25
-table_2,Games,Bob Miller,Los Angeles,74,Top 25
-table_2,Saves,Hal Woodeshick,Houston,23,Top 25
-table_2,Shutouts,Sandy Koufax,Los Angeles,7,Top 25
-table_2,Strikeouts,Bob Veale,Pittsburgh,250,Top 25
-table_2,Winning Percentage,Sandy Koufax,Los Angeles,.792,Top 25
-table_2,Wins,Larry Jackson,Chicago,24,Top 25
+Year,Category,Statistic,Player,Team,Value
+1964,Individual Pitching Stats,Complete Games,Juan Marichal,San Francisco,22
+1964,Individual Pitching Stats,ERA,Sandy Koufax,Los Angeles,1.74
+1964,Individual Pitching Stats,Games,Bob Miller,Los Angeles,74
+1964,Individual Pitching Stats,Saves,Hal Woodeshick,Houston,23
+1964,Individual Pitching Stats,Shutouts,Sandy Koufax,Los Angeles,7
+1964,Individual Pitching Stats,Strikeouts,Bob Veale,Pittsburgh,250
+1964,Individual Pitching Stats,Winning Percentage,Sandy Koufax,Los Angeles,.792
+1964,Individual Pitching Stats,Wins,Larry Jackson,Chicago,24

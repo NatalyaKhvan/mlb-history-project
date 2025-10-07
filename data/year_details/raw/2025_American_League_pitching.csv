@@ -1,16 +1,14 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Tanner Bibee | Cleveland | 2 | Top 25
-table_2,Framber Valdez | Houston | 2
-table_2,ERA | Tarik Skubal | Detroit | 2.21 | Top 25
-table_2,Games | Brendon Little | Toronto | 79 | Top 25
-table_2,Saves | Carlos Estévez | Kansas City | 42 | Top 25
-table_2,Shutouts | Tanner Bibee | Cleveland | 1 | Top 25
-table_2,Garrett Crochet | Boston | 1
-table_2,Nathan Eovaldi | Texas | 1
-table_2,Kevin Gausman | Toronto | 1
-table_2,Tarik Skubal | Detroit | 1
-table_2,Strikeouts | Garrett Crochet | Boston | 255 | Top 25
-table_2,Winning Percentage | Max Fried | New York | .792 | Top 25
-table_2,Wins | Max Fried | New York | 19 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2025,American League,table_2,Complete Games | Tanner Bibee | Cleveland | 2
+2025,American League,table_2,Framber Valdez | Houston | 2
+2025,American League,table_2,ERA | Tarik Skubal | Detroit | 2.21
+2025,American League,table_2,Games | Brendon Little | Toronto | 79
+2025,American League,table_2,Saves | Carlos Estévez | Kansas City | 42
+2025,American League,table_2,Shutouts | Tanner Bibee | Cleveland | 1
+2025,American League,table_2,Garrett Crochet | Boston | 1
+2025,American League,table_2,Nathan Eovaldi | Texas | 1
+2025,American League,table_2,Kevin Gausman | Toronto | 1
+2025,American League,table_2,Tarik Skubal | Detroit | 1
+2025,American League,table_2,Strikeouts | Garrett Crochet | Boston | 255
+2025,American League,table_2,Winning Percentage | Max Fried | New York | .792
+2025,American League,table_2,Wins | Max Fried | New York | 19

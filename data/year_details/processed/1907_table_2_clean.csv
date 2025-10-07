@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Ed Walsh,Chicago,37,Top 25
-table_2,ERA,Ed Walsh,Chicago,1.60,Top 25
-table_2,Games,Ed Walsh,Chicago,56,Top 25
-table_2,Saves,Bill Dinneen,Philadelphia,4,Top 25
-table_2,Shutouts,Eddie Plank,Philadelphia,8,Top 25
-table_2,Strikeouts,Rube Waddell,Philadelphia,232,Top 25
-table_2,Winning Percentage,Bill Donovan,Detroit,.862,Top 25
-table_2,Wins,Addie Joss,Cleveland,27,Top 25
+Year,Category,Statistic,Player,Team,Value
+1907,Individual Pitching Stats,Complete Games,Ed Walsh,Chicago,37
+1907,Individual Pitching Stats,ERA,Ed Walsh,Chicago,1.60
+1907,Individual Pitching Stats,Games,Ed Walsh,Chicago,56
+1907,Individual Pitching Stats,Saves,Bill Dinneen,Philadelphia,4
+1907,Individual Pitching Stats,Shutouts,Eddie Plank,Philadelphia,8
+1907,Individual Pitching Stats,Strikeouts,Rube Waddell,Philadelphia,232
+1907,Individual Pitching Stats,Winning Percentage,Bill Donovan,Detroit,.862
+1907,Individual Pitching Stats,Wins,Addie Joss,Cleveland,27

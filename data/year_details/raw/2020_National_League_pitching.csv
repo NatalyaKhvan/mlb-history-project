@@ -1,13 +1,11 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Trevor Bauer | Cincinnati Reds | 2 | Top 25
-table_2,Aaron Nola | Philadelphia Phillies | 2
-table_2,Adam Wainwright | St. Louis Cardinals | 2
-table_2,ERA | Trevor Bauer | Cincinnati Reds | 1.73 | Top 25
-table_2,Games | Tyler Rogers | San Francisco Giants | 29 | Top 25
-table_2,Saves | Josh Hader | Milwaukee Brewers | 13 | Top 25
-table_2,Shutouts | Trevor Bauer | Cincinnati Reds | 2 | Top 25
-table_2,Strikeouts | Jacob deGrom | New York Mets | 104 | Top 25
-table_2,Winning Percentage | Max Fried | Atlanta Braves | 1.000 | Top 25
-table_2,Wins | Yu Darvish | Chicago Cubs | 8 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2020,National League,table_2,Complete Games | Trevor Bauer | Cincinnati Reds | 2
+2020,National League,table_2,Aaron Nola | Philadelphia Phillies | 2
+2020,National League,table_2,Adam Wainwright | St. Louis Cardinals | 2
+2020,National League,table_2,ERA | Trevor Bauer | Cincinnati Reds | 1.73
+2020,National League,table_2,Games | Tyler Rogers | San Francisco Giants | 29
+2020,National League,table_2,Saves | Josh Hader | Milwaukee Brewers | 13
+2020,National League,table_2,Shutouts | Trevor Bauer | Cincinnati Reds | 2
+2020,National League,table_2,Strikeouts | Jacob deGrom | New York Mets | 104
+2020,National League,table_2,Winning Percentage | Max Fried | Atlanta Braves | 1.000
+2020,National League,table_2,Wins | Yu Darvish | Chicago Cubs | 8

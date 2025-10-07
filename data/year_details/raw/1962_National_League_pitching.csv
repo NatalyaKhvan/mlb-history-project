@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Warren Spahn | Milwaukee | 22 | Top 25
-table_2,ERA | Sandy Koufax | Los Angeles | 2.54 | Top 25
-table_2,Games | RonPerranoski | Los Angeles | 70 | Top 25
-table_2,Saves | Roy Face | Pittsburgh | 28 | Top 25
-table_2,Shutouts | Bob Friend | Pittsburgh | 5 | Top 25
-table_2,Strikeouts | Don Drysdale | Los Angeles | 232 | Top 25
-table_2,Winning Percentage | Bob Purkey | Cincinnati | .821 | Top 25
-table_2,Wins | Don Drysdale | Los Angeles | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | San Francisco Giants | 62
-table_5,ERA | Pittsburgh Pirates | 3.38
-table_5,"Fewest Hits Allowed | Los Angeles Dodgers | 1,386"
-table_5,Fewest Home Runs Allowed | Houston Colt .45s | 113
-table_5,Fewest Walks Allowed | Milwaukee Braves | 407
-table_5,Saves | Los Angeles Dodgers | 46
-table_5,Shutouts | St. Louis Cardinals | 17
-table_5,"Strikeouts | Los Angeles Dodgers | 1,104"
-table_5,Statistic | Team | #
+year,league,category,text
+1962,National League,table_2,Complete Games | Warren Spahn | Milwaukee | 22
+1962,National League,table_2,ERA | Sandy Koufax | Los Angeles | 2.54
+1962,National League,table_2,Games | RonPerranoski | Los Angeles | 70
+1962,National League,table_2,Saves | Roy Face | Pittsburgh | 28
+1962,National League,table_2,Shutouts | Bob Friend | Pittsburgh | 5
+1962,National League,table_2,Strikeouts | Don Drysdale | Los Angeles | 232
+1962,National League,table_2,Winning Percentage | Bob Purkey | Cincinnati | .821
+1962,National League,table_2,Wins | Don Drysdale | Los Angeles | 25
+1962,National League,table_5,Complete Games | San Francisco Giants | 62
+1962,National League,table_5,ERA | Pittsburgh Pirates | 3.38
+1962,National League,table_5,"Fewest Hits Allowed | Los Angeles Dodgers | 1,386"
+1962,National League,table_5,Fewest Home Runs Allowed | Houston Colt .45s | 113
+1962,National League,table_5,Fewest Walks Allowed | Milwaukee Braves | 407
+1962,National League,table_5,Saves | Los Angeles Dodgers | 46
+1962,National League,table_5,Shutouts | St. Louis Cardinals | 17
+1962,National League,table_5,"Strikeouts | Los Angeles Dodgers | 1,104"

@@ -1,15 +1,13 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Kevin Gausman | Toronto | 2 | Top 25
-table_2,ERA | Tarik Skubal | Detroit | 2.39 | Top 25
-table_2,Games | T.J. McFarland | Oakland | 79 | Top 25
-table_2,Saves | Emmanuel Clase | Cleveland | 47 | Top 25
-table_2,Shutouts | Ronel Blanco | Houston | 1 | Top 25
-table_2,Joey Estes | Oakland | 1
-table_2,Kevin Gausman | Toronto | 1
-table_2,Tanner Houck | Boston | 1
-table_2,Keider Montero | Detroit | 1
-table_2,Strikeouts | Tarik Skubal | Detroit | 228 | Top 25
-table_2,Winning Percentage | Tarik Skubal | Detroit | .818 | Top 25
-table_2,Wins | Tarik Skubal | Detroit | 18 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2024,American League,table_2,Complete Games | Kevin Gausman | Toronto | 2
+2024,American League,table_2,ERA | Tarik Skubal | Detroit | 2.39
+2024,American League,table_2,Games | T.J. McFarland | Oakland | 79
+2024,American League,table_2,Saves | Emmanuel Clase | Cleveland | 47
+2024,American League,table_2,Shutouts | Ronel Blanco | Houston | 1
+2024,American League,table_2,Joey Estes | Oakland | 1
+2024,American League,table_2,Kevin Gausman | Toronto | 1
+2024,American League,table_2,Tanner Houck | Boston | 1
+2024,American League,table_2,Keider Montero | Detroit | 1
+2024,American League,table_2,Strikeouts | Tarik Skubal | Detroit | 228
+2024,American League,table_2,Winning Percentage | Tarik Skubal | Detroit | .818
+2024,American League,table_2,Wins | Tarik Skubal | Detroit | 18

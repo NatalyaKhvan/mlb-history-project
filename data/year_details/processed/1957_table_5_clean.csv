@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,59
-table_5,ERA,New York,3.00
-table_5,Fewest Hits Allowed,New York,"1,198"
-table_5,Fewest Home Runs Allowed,Baltimore,95
-table_5,Fewest Walks Allowed,Chicago,470
-table_5,Saves,New York,42
-table_5,Shutouts,Chicago,16
-table_5,Strikeouts,New York,810
+Year,Category,Statistic,Team,Value
+1957,Team Pitching Stats,Complete Games,Chicago,59
+1957,Team Pitching Stats,ERA,New York,3.00
+1957,Team Pitching Stats,Fewest Hits Allowed,New York,"1,198"
+1957,Team Pitching Stats,Fewest Home Runs Allowed,Baltimore,95
+1957,Team Pitching Stats,Fewest Walks Allowed,Chicago,470
+1957,Team Pitching Stats,Saves,New York,42
+1957,Team Pitching Stats,Shutouts,Chicago,16
+1957,Team Pitching Stats,Strikeouts,New York,810

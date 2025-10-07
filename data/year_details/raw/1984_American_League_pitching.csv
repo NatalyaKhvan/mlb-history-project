@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Charlie Hough | Texas | 17 | Top 25
-table_2,ERA | Mike Boddicker | Baltimore | 2.79 | Top 25
-table_2,Games | Willie Hernandez | Detroit | 80 | Top 25
-table_2,Saves | Dan Quisenberry | Kansas City | 44 | Top 25
-table_2,Shutouts | Bob Ojeda | Boston | 5 | Top 25
-table_2,Strikeouts | Mark Langston | Seattle | 204 | Top 25
-table_2,Winning Percentage | Doyle Alexander | Toronto | .739 | Top 25
-table_2,Wins | Mike Boddicker | Baltimore | 20 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Baltimore | 48
-table_5,ERA | Detroit | 3.49
-table_5,"Fewest Hits Allowed | Detroit | 1,358"
-table_5,Fewest Home Runs Allowed | New York | 120
-table_5,Fewest Walks Allowed | Kansas City | 433
-table_5,Saves | Detroit | 51
-table_5,Shutouts | Baltimore | 13
-table_5,Strikeouts | New York | 992
+year,league,category,text
+1984,American League,table_2,Complete Games | Charlie Hough | Texas | 17
+1984,American League,table_2,ERA | Mike Boddicker | Baltimore | 2.79
+1984,American League,table_2,Games | Willie Hernandez | Detroit | 80
+1984,American League,table_2,Saves | Dan Quisenberry | Kansas City | 44
+1984,American League,table_2,Shutouts | Bob Ojeda | Boston | 5
+1984,American League,table_2,Strikeouts | Mark Langston | Seattle | 204
+1984,American League,table_2,Winning Percentage | Doyle Alexander | Toronto | .739
+1984,American League,table_2,Wins | Mike Boddicker | Baltimore | 20
+1984,American League,table_5,Complete Games | Baltimore | 48
+1984,American League,table_5,ERA | Detroit | 3.49
+1984,American League,table_5,"Fewest Hits Allowed | Detroit | 1,358"
+1984,American League,table_5,Fewest Home Runs Allowed | New York | 120
+1984,American League,table_5,Fewest Walks Allowed | Kansas City | 433
+1984,American League,table_5,Saves | Detroit | 51
+1984,American League,table_5,Shutouts | Baltimore | 13
+1984,American League,table_5,Strikeouts | New York | 992

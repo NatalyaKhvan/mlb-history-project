@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Juan Marichal | San Francisco | 22 | Top 25
-table_2,ERA | Sandy Koufax | Los Angeles | 1.74 | Top 25
-table_2,Games | Bob Miller | Los Angeles | 74 | Top 25
-table_2,Saves | Hal Woodeshick | Houston | 23 | Top 25
-table_2,Shutouts | Sandy Koufax | Los Angeles | 7 | Top 25
-table_2,Strikeouts | Bob Veale | Pittsburgh | 250 | Top 25
-table_2,Winning Percentage | Sandy Koufax | Los Angeles | .792 | Top 25
-table_2,Wins | Larry Jackson | Chicago | 24 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 58
-table_5,ERA | Los Angeles | 2.96
-table_5,"Fewest Hits Allowed | Los Angeles | 1,289"
-table_5,Fewest Home Runs Allowed | Los Angeles | 88
-table_5,Fewest Walks Allowed | Houston | 353
-table_5,Saves | Philadelphia | 41
-table_5,Shutouts | Los Angeles | 19
-table_5,"Strikeouts | Cincinnati | 1,122"
+year,league,category,text
+1964,National League,table_2,Complete Games | Juan Marichal | San Francisco | 22
+1964,National League,table_2,ERA | Sandy Koufax | Los Angeles | 1.74
+1964,National League,table_2,Games | Bob Miller | Los Angeles | 74
+1964,National League,table_2,Saves | Hal Woodeshick | Houston | 23
+1964,National League,table_2,Shutouts | Sandy Koufax | Los Angeles | 7
+1964,National League,table_2,Strikeouts | Bob Veale | Pittsburgh | 250
+1964,National League,table_2,Winning Percentage | Sandy Koufax | Los Angeles | .792
+1964,National League,table_2,Wins | Larry Jackson | Chicago | 24
+1964,National League,table_5,Complete Games | Chicago | 58
+1964,National League,table_5,ERA | Los Angeles | 2.96
+1964,National League,table_5,"Fewest Hits Allowed | Los Angeles | 1,289"
+1964,National League,table_5,Fewest Home Runs Allowed | Los Angeles | 88
+1964,National League,table_5,Fewest Walks Allowed | Houston | 353
+1964,National League,table_5,Saves | Philadelphia | 41
+1964,National League,table_5,Shutouts | Los Angeles | 19
+1964,National League,table_5,"Strikeouts | Cincinnati | 1,122"

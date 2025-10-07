@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Wes Ferrell,Cleveland,27,Top 25
-table_2,ERA,Lefty Grove,Philadelphia,2.06,Top 25
-table_2,Games,Bump Hadley,Washington,55,Top 25
-table_2,Saves,Wilcy Moore,Boston,10,Top 25
-table_2,Shutouts,Lefty Grove,Philadelphia,4,Top 25
-table_2,Strikeouts,Lefty Grove,Philadelphia,175,Top 25
-table_2,Winning Percentage,Lefty Grove,Philadelphia,.886,Top 25
-table_2,Wins,Lefty Grove,Philadelphia,31,Top 25
+Year,Category,Statistic,Player,Team,Value
+1931,Individual Pitching Stats,Complete Games,Wes Ferrell,Cleveland,27
+1931,Individual Pitching Stats,ERA,Lefty Grove,Philadelphia,2.06
+1931,Individual Pitching Stats,Games,Bump Hadley,Washington,55
+1931,Individual Pitching Stats,Saves,Wilcy Moore,Boston,10
+1931,Individual Pitching Stats,Shutouts,Lefty Grove,Philadelphia,4
+1931,Individual Pitching Stats,Strikeouts,Lefty Grove,Philadelphia,175
+1931,Individual Pitching Stats,Winning Percentage,Lefty Grove,Philadelphia,.886
+1931,Individual Pitching Stats,Wins,Lefty Grove,Philadelphia,31

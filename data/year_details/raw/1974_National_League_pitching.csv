@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Phil Niekro | Atlanta | 18 | Top 25
-table_2,ERA | Buzz Capra | Atlanta | 2.28 | Top 25
-table_2,Games | Mike Marshall | Los Angeles | 106 | Top 25
-table_2,Saves | Mike Marshall | Los Angeles | 21 | Top 25
-table_2,Shutouts | Jon Matlack | New York | 7 | Top 25
-table_2,Strikeouts | Steve Carlton | Philadelphia | 240 | Top 25
-table_2,Winning Percentage | Andy Messersmith | Los Angeles | .769 | Top 25
-table_2,Wins | Andy Messersmith | Los Angeles | 20 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Pittsburgh | 51
-table_5,ERA | Los Angeles | 2.98
-table_5,"Fewest Hits Allowed | Los Angeles | 1,272"
-table_5,Fewest Home Runs Allowed | Houston | 84
-table_5,Fewest Walks Allowed | Los Angeles | 464
-table_5,Saves | Cincinnati | 27
-table_5,Shutouts | Atlanta | 21
-table_5,Strikeouts | Los Angeles | 943
+year,league,category,text
+1974,National League,table_2,Complete Games | Phil Niekro | Atlanta | 18
+1974,National League,table_2,ERA | Buzz Capra | Atlanta | 2.28
+1974,National League,table_2,Games | Mike Marshall | Los Angeles | 106
+1974,National League,table_2,Saves | Mike Marshall | Los Angeles | 21
+1974,National League,table_2,Shutouts | Jon Matlack | New York | 7
+1974,National League,table_2,Strikeouts | Steve Carlton | Philadelphia | 240
+1974,National League,table_2,Winning Percentage | Andy Messersmith | Los Angeles | .769
+1974,National League,table_2,Wins | Andy Messersmith | Los Angeles | 20
+1974,National League,table_5,Complete Games | Pittsburgh | 51
+1974,National League,table_5,ERA | Los Angeles | 2.98
+1974,National League,table_5,"Fewest Hits Allowed | Los Angeles | 1,272"
+1974,National League,table_5,Fewest Home Runs Allowed | Houston | 84
+1974,National League,table_5,Fewest Walks Allowed | Los Angeles | 464
+1974,National League,table_5,Saves | Cincinnati | 27
+1974,National League,table_5,Shutouts | Atlanta | 21
+1974,National League,table_5,Strikeouts | Los Angeles | 943

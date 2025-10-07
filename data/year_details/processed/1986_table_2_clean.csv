@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Fernando Valenzuela,Los Angeles,20,Top 25
-table_2,ERA,Mike Scott,Houston,2.22,Top 25
-table_2,Games,Craig Lefferts,San Diego,83,Top 25
-table_2,Saves,Todd Worrell,St. Louis,36,Top 25
-table_2,Shutouts,Bob Knepper,Houston,5,Top 25
-table_2,Strikeouts,Mike Scott,Houston,306,Top 25
-table_2,Winning Percentage,Bob Ojeda,New York,.783,Top 25
-table_2,Wins,Fernando Valenzuela,Los Angeles,21,Top 25
+Year,Category,Statistic,Player,Team,Value
+1986,Individual Pitching Stats,Complete Games,Fernando Valenzuela,Los Angeles,20
+1986,Individual Pitching Stats,ERA,Mike Scott,Houston,2.22
+1986,Individual Pitching Stats,Games,Craig Lefferts,San Diego,83
+1986,Individual Pitching Stats,Saves,Todd Worrell,St. Louis,36
+1986,Individual Pitching Stats,Shutouts,Bob Knepper,Houston,5
+1986,Individual Pitching Stats,Strikeouts,Mike Scott,Houston,306
+1986,Individual Pitching Stats,Winning Percentage,Bob Ojeda,New York,.783
+1986,Individual Pitching Stats,Wins,Fernando Valenzuela,Los Angeles,21

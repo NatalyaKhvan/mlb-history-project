@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Frank Lary,Detroit,22,Top 25
-table_2,ERA,Dick Donovan,Washington,2.40,Top 25
-table_2,Games,Luis Arroyo,New York,65,Top 25
-table_2,Saves,Luis Arroyo,New York,29,Top 25
-table_2,Shutouts,Steve Barber,Baltimore,8,Top 25
-table_2,Strikeouts,Camilo Pascual,Minnesota,221,Top 25
-table_2,Winning Percentage,Whitey Ford,New York,.862,Top 25
-table_2,Wins,Whitey Ford,New York,25,Top 25
+Year,Category,Statistic,Player,Team,Value
+1961,Individual Pitching Stats,Complete Games,Frank Lary,Detroit,22
+1961,Individual Pitching Stats,ERA,Dick Donovan,Washington,2.40
+1961,Individual Pitching Stats,Games,Luis Arroyo,New York,65
+1961,Individual Pitching Stats,Saves,Luis Arroyo,New York,29
+1961,Individual Pitching Stats,Shutouts,Steve Barber,Baltimore,8
+1961,Individual Pitching Stats,Strikeouts,Camilo Pascual,Minnesota,221
+1961,Individual Pitching Stats,Winning Percentage,Whitey Ford,New York,.862
+1961,Individual Pitching Stats,Wins,Whitey Ford,New York,25

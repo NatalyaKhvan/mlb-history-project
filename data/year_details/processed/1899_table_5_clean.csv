@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,147
-table_5,ERA,Brooklyn,3.25
-table_5,Fewest Hits Allowed,Boston,"1,273"
-table_5,Fewest Home Runs Allowed,Baltimore,13
-table_5,Fewest Walks Allowed,St. Louis,321
-table_5,Saves,Brooklyn,9
-table_5,Shutouts,Philadelphia,15
-table_5,Strikeouts,New York,397
+Year,Category,Statistic,Team,Value
+1899,Team Pitching Stats,Complete Games,Chicago,147
+1899,Team Pitching Stats,ERA,Brooklyn,3.25
+1899,Team Pitching Stats,Fewest Hits Allowed,Boston,"1,273"
+1899,Team Pitching Stats,Fewest Home Runs Allowed,Baltimore,13
+1899,Team Pitching Stats,Fewest Walks Allowed,St. Louis,321
+1899,Team Pitching Stats,Saves,Brooklyn,9
+1899,Team Pitching Stats,Shutouts,Philadelphia,15
+1899,Team Pitching Stats,Strikeouts,New York,397

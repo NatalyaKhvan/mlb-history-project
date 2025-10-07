@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Roger Clemens,Boston,18,Top 25
-table_2,ERA,Jimmy Key,Toronto,2.76,Top 25
-table_2,Games,Mark Eichhorn,Toronto,89,Top 25
-table_2,Saves,Tom Henke,Toronto,34,Top 25
-table_2,Shutouts,Roger Clemens,Boston,7,Top 25
-table_2,Strikeouts,Mark Langston,Seattle,262,Top 25
-table_2,Winning Percentage,Roger Clemens,Boston,.690,Top 25
-table_2,Wins,Roger Clemens,Boston,20,Top 25
+Year,Category,Statistic,Player,Team,Value
+1987,Individual Pitching Stats,Complete Games,Roger Clemens,Boston,18
+1987,Individual Pitching Stats,ERA,Jimmy Key,Toronto,2.76
+1987,Individual Pitching Stats,Games,Mark Eichhorn,Toronto,89
+1987,Individual Pitching Stats,Saves,Tom Henke,Toronto,34
+1987,Individual Pitching Stats,Shutouts,Roger Clemens,Boston,7
+1987,Individual Pitching Stats,Strikeouts,Mark Langston,Seattle,262
+1987,Individual Pitching Stats,Winning Percentage,Roger Clemens,Boston,.690
+1987,Individual Pitching Stats,Wins,Roger Clemens,Boston,20

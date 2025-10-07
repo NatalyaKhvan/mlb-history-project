@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import sqlite3
+import re
 
 # Paths
 processed_folder = "data/year_details/processed"
@@ -10,7 +11,6 @@ db_path = os.path.join(db_folder, "mlb_history.db")
 
 # Connect to SQLite
 conn = sqlite3.connect(db_path)
-cursor = conn.cursor()
 
 # Import each CSV as a separate table
 for filename in os.listdir(processed_folder):
@@ -18,16 +18,28 @@ for filename in os.listdir(processed_folder):
         continue
 
     csv_path = os.path.join(processed_folder, filename)
-    table_name = os.path.splitext(filename)[0]  # Remove ".csv"
 
     try:
         df = pd.read_csv(csv_path)
 
-        # Normalize column names (lowercase, replace spaces)
+        # Normalize column names
         df.columns = [c.strip().replace(" ", "_").lower() for c in df.columns]
 
-        # Convert numeric columns where possible
+        # Extract year and category
+        year = str(df["year"].iloc[0]) if "year" in df.columns else "unknown"
+        category = (
+            df["category"].iloc[0].lower().replace(" ", "_")
+            if "category" in df.columns
+            else "misc"
+        )
+
+        # Safe table name
+        table_name = re.sub(r"\W+", "_", f"{year}_{category}")
+
+        # Clean numeric columns (remove commas, convert to numbers)
         for col in df.columns:
+            if df[col].dtype == object:
+                df[col] = df[col].str.replace(",", "", regex=True)
             df[col] = pd.to_numeric(df[col], errors="ignore")
 
         # Import to SQLite

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Pat Hentgen,Toronto,10,Top 25
-table_2,ERA,Juan Guzman,Toronto,2.93,Top 25
-table_2,Games,Eddie Guardado,Minnesota,83,Top 25
-table_2,Saves,John Wetteland,New York,43,Top 25
-table_2,Shutouts,Pat Hentgen,Toronto,3,Top 25
-table_2,Strikeouts,Roger Clemens,Boston,257,Top 25
-table_2,Winning Percentage,Charles Nagy,Cleveland,.773,Top 25
-table_2,Wins,Andy Pettitte,New York,21,Top 25
+Year,Category,Statistic,Player,Team,Value
+1996,Individual Pitching Stats,Complete Games,Pat Hentgen,Toronto,10
+1996,Individual Pitching Stats,ERA,Juan Guzman,Toronto,2.93
+1996,Individual Pitching Stats,Games,Eddie Guardado,Minnesota,83
+1996,Individual Pitching Stats,Saves,John Wetteland,New York,43
+1996,Individual Pitching Stats,Shutouts,Pat Hentgen,Toronto,3
+1996,Individual Pitching Stats,Strikeouts,Roger Clemens,Boston,257
+1996,Individual Pitching Stats,Winning Percentage,Charles Nagy,Cleveland,.773
+1996,Individual Pitching Stats,Wins,Andy Pettitte,New York,21

@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Robin Roberts | Philadelphia | 30 | Top 25
-table_2,ERA | Hoyt Wilhelm | New York | 2.43 | Top 25
-table_2,Games | Hoyt Wilhelm | New York | 71 | Top 25
-table_2,Saves | Al Brazle | St. Louis | 16 | Top 25
-table_2,Shutouts | Ken Raffensberger | Cincinnati | 6 | Top 25
-table_2,Strikeouts | Warren Spahn | Boston | 183 | Top 25
-table_2,Winning Percentage | Hoyt Wilhelm | New York | .833 | Top 25
-table_2,Wins | Robin Roberts | Philadelphia | 28 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Philadelphia | 80
-table_5,ERA | Philadelphia | 3.07
-table_5,"Fewest Hits Allowed | Chicago | 1,265"
-table_5,Fewest Home Runs Allowed | Philadelphia | 96
-table_5,Fewest Walks Allowed | Philadelphia | 373
-table_5,Saves | New York | 31
-table_5,Shutouts | Philadelphia | 17
-table_5,Strikeouts | Brooklyn | 773
+year,league,category,text
+1952,National League,table_2,Complete Games | Robin Roberts | Philadelphia | 30
+1952,National League,table_2,ERA | Hoyt Wilhelm | New York | 2.43
+1952,National League,table_2,Games | Hoyt Wilhelm | New York | 71
+1952,National League,table_2,Saves | Al Brazle | St. Louis | 16
+1952,National League,table_2,Shutouts | Ken Raffensberger | Cincinnati | 6
+1952,National League,table_2,Strikeouts | Warren Spahn | Boston | 183
+1952,National League,table_2,Winning Percentage | Hoyt Wilhelm | New York | .833
+1952,National League,table_2,Wins | Robin Roberts | Philadelphia | 28
+1952,National League,table_5,Complete Games | Philadelphia | 80
+1952,National League,table_5,ERA | Philadelphia | 3.07
+1952,National League,table_5,"Fewest Hits Allowed | Chicago | 1,265"
+1952,National League,table_5,Fewest Home Runs Allowed | Philadelphia | 96
+1952,National League,table_5,Fewest Walks Allowed | Philadelphia | 373
+1952,National League,table_5,Saves | New York | 31
+1952,National League,table_5,Shutouts | Philadelphia | 17
+1952,National League,table_5,Strikeouts | Brooklyn | 773

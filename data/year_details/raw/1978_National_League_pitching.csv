@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Phil Niekro | Atlanta | 22 | Top 25
-table_2,ERA | Craig Swan | New York | 2.43 | Top 25
-table_2,Games | Kent Tekulve | Pittsburgh | 91 | Top 25
-table_2,Saves | Rollie Fingers | San Diego | 37 | Top 25
-table_2,Shutouts | Bob Knepper | San Francisco | 6 | Top 25
-table_2,Strikeouts | J.R. Richard | Houston | 303 | Top 25
-table_2,Winning Percentage | Gaylord Perry | San Diego | .778 | Top 25
-table_2,Wins | Gaylord Perry | San Diego | 21 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Houston | 48
-table_5,ERA | Los Angeles | 3.12
-table_5,"Fewest Hits Allowed | St. Louis | 1,300"
-table_5,Fewest Home Runs Allowed | San Diego | 74
-table_5,Fewest Walks Allowed | Philadelphia | 393
-table_5,Saves | San Diego | 55
-table_5,Shutouts | Houston | 17
-table_5,Strikeouts | Houston | 930
+year,league,category,text
+1978,National League,table_2,Complete Games | Phil Niekro | Atlanta | 22
+1978,National League,table_2,ERA | Craig Swan | New York | 2.43
+1978,National League,table_2,Games | Kent Tekulve | Pittsburgh | 91
+1978,National League,table_2,Saves | Rollie Fingers | San Diego | 37
+1978,National League,table_2,Shutouts | Bob Knepper | San Francisco | 6
+1978,National League,table_2,Strikeouts | J.R. Richard | Houston | 303
+1978,National League,table_2,Winning Percentage | Gaylord Perry | San Diego | .778
+1978,National League,table_2,Wins | Gaylord Perry | San Diego | 21
+1978,National League,table_5,Complete Games | Houston | 48
+1978,National League,table_5,ERA | Los Angeles | 3.12
+1978,National League,table_5,"Fewest Hits Allowed | St. Louis | 1,300"
+1978,National League,table_5,Fewest Home Runs Allowed | San Diego | 74
+1978,National League,table_5,Fewest Walks Allowed | Philadelphia | 393
+1978,National League,table_5,Saves | San Diego | 55
+1978,National League,table_5,Shutouts | Houston | 17
+1978,National League,table_5,Strikeouts | Houston | 930

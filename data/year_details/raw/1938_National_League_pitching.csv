@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Paul Derringer | Cincinnati | 26 | Top 25
-table_2,ERA | Bill Lee | Chicago | 2.66 | Top 25
-table_2,Games | Mace Brown | Pittsburgh | 51 | Top 25
-table_2,Saves | Dick Coffman | New York | 12 | Top 25
-table_2,Shutouts | Bill Lee | Chicago | 9 | Top 25
-table_2,Strikeouts | Clay Bryant | Chicago | 135 | Top 25
-table_2,Winning Percentage | Bill Lee | Chicago | .710 | Top 25
-table_2,Wins | Bill Lee | Chicago | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 83
-table_5,ERA | Chicago | 3.38
-table_5,"Fewest Hits Allowed | Cincinnati | 1,329"
-table_5,Fewest Home Runs Allowed | Boston | 66
-table_5,Fewest Walks Allowed | New York | 389
-table_5,Saves | Chicago | 18
-table_5,Shutouts | Chicago | 16
-table_5,Strikeouts | Chicago | 583
+year,league,category,text
+1938,National League,table_2,Complete Games | Paul Derringer | Cincinnati | 26
+1938,National League,table_2,ERA | Bill Lee | Chicago | 2.66
+1938,National League,table_2,Games | Mace Brown | Pittsburgh | 51
+1938,National League,table_2,Saves | Dick Coffman | New York | 12
+1938,National League,table_2,Shutouts | Bill Lee | Chicago | 9
+1938,National League,table_2,Strikeouts | Clay Bryant | Chicago | 135
+1938,National League,table_2,Winning Percentage | Bill Lee | Chicago | .710
+1938,National League,table_2,Wins | Bill Lee | Chicago | 22
+1938,National League,table_5,Complete Games | Boston | 83
+1938,National League,table_5,ERA | Chicago | 3.38
+1938,National League,table_5,"Fewest Hits Allowed | Cincinnati | 1,329"
+1938,National League,table_5,Fewest Home Runs Allowed | Boston | 66
+1938,National League,table_5,Fewest Walks Allowed | New York | 389
+1938,National League,table_5,Saves | Chicago | 18
+1938,National League,table_5,Shutouts | Chicago | 16
+1938,National League,table_5,Strikeouts | Chicago | 583

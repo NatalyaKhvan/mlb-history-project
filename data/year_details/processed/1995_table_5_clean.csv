@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Baltimore,19
-table_5,ERA,Cleveland,3.83
-table_5,Fewest Hits Allowed,Baltimore,"1,165"
-table_5,Fewest Home Runs Allowed,Boston,127
-table_5,Fewest Walks Allowed,Cleveland,445
-table_5,Saves,Cleveland,50
-table_5,Shutouts,Baltimore,10
-table_5,Strikeouts,Seattle,"1,068"
+Year,Category,Statistic,Team,Value
+1995,Team Pitching Stats,Complete Games,Baltimore,19
+1995,Team Pitching Stats,ERA,Cleveland,3.83
+1995,Team Pitching Stats,Fewest Hits Allowed,Baltimore,"1,165"
+1995,Team Pitching Stats,Fewest Home Runs Allowed,Boston,127
+1995,Team Pitching Stats,Fewest Walks Allowed,Cleveland,445
+1995,Team Pitching Stats,Saves,Cleveland,50
+1995,Team Pitching Stats,Shutouts,Baltimore,10
+1995,Team Pitching Stats,Strikeouts,Seattle,"1,068"

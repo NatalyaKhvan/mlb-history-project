@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Pete Donohue | Cincinnati | 27 | Top 25
-table_2,ERA | Dolf Luque | Cincinnati | 2.63 | Top 25
-table_2,Games | Johnny Morrison | Pittsburgh | 44 | Top 25
-table_2,Saves | Guy Bush | Chicago | 4 | Top 25
-table_2,Shutouts | Hal Carlson | Philadelphia | 4 | Top 25
-table_2,Strikeouts | Dazzy Vance | Brooklyn | 221 | Top 25
-table_2,Winning Percentage | Bill Sherdel | St. Louis | .714 | Top 25
-table_2,Wins | Dazzy Vance | Brooklyn | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cincinnati | 92
-table_5,ERA | Cincinnati | 3.39
-table_5,"Fewest Hits Allowed | Cincinnati | 1,447"
-table_5,Fewest Home Runs Allowed | Cincinnati | 35
-table_5,Fewest Walks Allowed | Cincinnati | 324
-table_5,Saves | Pittsburgh | 13
-table_5,Shutouts | Cincinnati | 11
-table_5,Strikeouts | Brooklyn | 518
+year,league,category,text
+1925,National League,table_2,Complete Games | Pete Donohue | Cincinnati | 27
+1925,National League,table_2,ERA | Dolf Luque | Cincinnati | 2.63
+1925,National League,table_2,Games | Johnny Morrison | Pittsburgh | 44
+1925,National League,table_2,Saves | Guy Bush | Chicago | 4
+1925,National League,table_2,Shutouts | Hal Carlson | Philadelphia | 4
+1925,National League,table_2,Strikeouts | Dazzy Vance | Brooklyn | 221
+1925,National League,table_2,Winning Percentage | Bill Sherdel | St. Louis | .714
+1925,National League,table_2,Wins | Dazzy Vance | Brooklyn | 22
+1925,National League,table_5,Complete Games | Cincinnati | 92
+1925,National League,table_5,ERA | Cincinnati | 3.39
+1925,National League,table_5,"Fewest Hits Allowed | Cincinnati | 1,447"
+1925,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 35
+1925,National League,table_5,Fewest Walks Allowed | Cincinnati | 324
+1925,National League,table_5,Saves | Pittsburgh | 13
+1925,National League,table_5,Shutouts | Cincinnati | 11
+1925,National League,table_5,Strikeouts | Brooklyn | 518

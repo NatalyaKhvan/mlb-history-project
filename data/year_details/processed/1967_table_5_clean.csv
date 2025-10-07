@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,San Francisco,64
-table_5,ERA,San Francisco,2.92
-table_5,Fewest Hits Allowed,San Francisco,"1,283"
-table_5,Fewest Home Runs Allowed,Philadelphia,86
-table_5,Fewest Walks Allowed,Los Angeles,393
-table_5,Saves,St. Louis,45
-table_5,Shutouts,Cincinnati,18
-table_5,Strikeouts,Cincinnati,"1,065"
+Year,Category,Statistic,Team,Value
+1967,Team Pitching Stats,Complete Games,San Francisco,64
+1967,Team Pitching Stats,ERA,San Francisco,2.92
+1967,Team Pitching Stats,Fewest Hits Allowed,San Francisco,"1,283"
+1967,Team Pitching Stats,Fewest Home Runs Allowed,Philadelphia,86
+1967,Team Pitching Stats,Fewest Walks Allowed,Los Angeles,393
+1967,Team Pitching Stats,Saves,St. Louis,45
+1967,Team Pitching Stats,Shutouts,Cincinnati,18
+1967,Team Pitching Stats,Strikeouts,Cincinnati,"1,065"

@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Ed Walsh | Chicago | 37 | Top 25
-table_2,ERA | Ed Walsh | Chicago | 1.60 | Top 25
-table_2,Games | Ed Walsh | Chicago | 56 | Top 25
-table_2,Saves | Bill Dinneen | Philadelphia | 4 | Top 25
-table_2,Shutouts | Eddie Plank | Philadelphia | 8 | Top 25
-table_2,Strikeouts | Rube Waddell | Philadelphia | 232 | Top 25
-table_2,Winning Percentage | Bill Donovan | Detroit | .862 | Top 25
-table_2,Wins | Addie Joss | Cleveland | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | St. Louis | 129
-table_5,ERA | Chicago | 2.22
-table_5,"Fewest Hits Allowed | Philadelphia | 1,106"
-table_5,Fewest Home Runs Allowed | Cleveland | 8
-table_5,Fewest Walks Allowed | Chicago | 305
-table_5,Saves | Chicago | 9
-table_5,Shutouts | Philadelphia | 27
-table_5,Strikeouts | Philadelphia | 789
-table_5,Statistic | Team | #
+year,league,category,text
+1907,American League,table_2,Complete Games | Ed Walsh | Chicago | 37
+1907,American League,table_2,ERA | Ed Walsh | Chicago | 1.60
+1907,American League,table_2,Games | Ed Walsh | Chicago | 56
+1907,American League,table_2,Saves | Bill Dinneen | Philadelphia | 4
+1907,American League,table_2,Shutouts | Eddie Plank | Philadelphia | 8
+1907,American League,table_2,Strikeouts | Rube Waddell | Philadelphia | 232
+1907,American League,table_2,Winning Percentage | Bill Donovan | Detroit | .862
+1907,American League,table_2,Wins | Addie Joss | Cleveland | 27
+1907,American League,table_5,Complete Games | St. Louis | 129
+1907,American League,table_5,ERA | Chicago | 2.22
+1907,American League,table_5,"Fewest Hits Allowed | Philadelphia | 1,106"
+1907,American League,table_5,Fewest Home Runs Allowed | Cleveland | 8
+1907,American League,table_5,Fewest Walks Allowed | Chicago | 305
+1907,American League,table_5,Saves | Chicago | 9
+1907,American League,table_5,Shutouts | Philadelphia | 27
+1907,American League,table_5,Strikeouts | Philadelphia | 789

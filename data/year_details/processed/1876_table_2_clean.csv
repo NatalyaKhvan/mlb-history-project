@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Jim Devlin,Louisville,66,Top 25
-table_2,ERA,George Bradley,St. Louis,1.23,Top 25
-table_2,Games,Jim Devlin,Louisville,68,Top 25
-table_2,Saves,Jack Manning,Boston,5,Top 25
-table_2,Shutouts,George Bradley,St. Louis,16,Top 25
-table_2,Strikeouts,Jim Devlin,Louisville,122,Top 25
-table_2,Winning Percentage,Al Spalding,Chicago,.797,Top 25
-table_2,Wins,Al Spalding,Chicago,47,Top 25
+Year,Category,Statistic,Player,Team,Value
+1876,Individual Pitching Stats,Complete Games,Jim Devlin,Louisville,66
+1876,Individual Pitching Stats,ERA,George Bradley,St. Louis,1.23
+1876,Individual Pitching Stats,Games,Jim Devlin,Louisville,68
+1876,Individual Pitching Stats,Saves,Jack Manning,Boston,5
+1876,Individual Pitching Stats,Shutouts,George Bradley,St. Louis,16
+1876,Individual Pitching Stats,Strikeouts,Jim Devlin,Louisville,122
+1876,Individual Pitching Stats,Winning Percentage,Al Spalding,Chicago,.797
+1876,Individual Pitching Stats,Wins,Al Spalding,Chicago,47

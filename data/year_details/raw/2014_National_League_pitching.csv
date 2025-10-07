@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Clayton Kershaw | Los Angeles | 6 | Top 25
-table_2,ERA | Clayton Kershaw | Los Angeles | 1.77 | Top 25
-table_2,Games | Will Smith | Milwaukee | 78 | Top 25
-table_2,Saves | Craig Kimbrel | Atlanta | 47 | Top 25
-table_2,Shutouts | Henderson Alvarez | Miami | 4 | Top 25
-table_2,Strikeouts | Johnny Cueto | Cincinnati | 242 | Top 25
-table_2,Winning Percentage | Clayton Kershaw | Los Angeles | .875 | Top 25
-table_2,Wins | Clayton Kershaw | Los Angeles | 21 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2014,National League,table_2,Complete Games | Clayton Kershaw | Los Angeles | 6
+2014,National League,table_2,ERA | Clayton Kershaw | Los Angeles | 1.77
+2014,National League,table_2,Games | Will Smith | Milwaukee | 78
+2014,National League,table_2,Saves | Craig Kimbrel | Atlanta | 47
+2014,National League,table_2,Shutouts | Henderson Alvarez | Miami | 4
+2014,National League,table_2,Strikeouts | Johnny Cueto | Cincinnati | 242
+2014,National League,table_2,Winning Percentage | Clayton Kershaw | Los Angeles | .875
+2014,National League,table_2,Wins | Clayton Kershaw | Los Angeles | 21

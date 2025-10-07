@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Robin Roberts,Philadelphia,22,Top 25
-table_2,ERA,Lew Burdette,Milwaukee,2.70,Top 25
-table_2,Games,Roy Face,Pittsburgh,68,Top 25
-table_2,Saves,Clem Labine,Brooklyn,19,Top 25
-table_2,Shutouts,Lew Burdette,Milwaukee,6,Top 25
-table_2,Strikeouts,Sam Jones,Chicago,176,Top 25
-table_2,Winning Percentage,Don Newcombe,Brooklyn,.794,Top 25
-table_2,Wins,Don Newcombe,Brooklyn,27,Top 25
+Year,Category,Statistic,Player,Team,Value
+1956,Individual Pitching Stats,Complete Games,Robin Roberts,Philadelphia,22
+1956,Individual Pitching Stats,ERA,Lew Burdette,Milwaukee,2.70
+1956,Individual Pitching Stats,Games,Roy Face,Pittsburgh,68
+1956,Individual Pitching Stats,Saves,Clem Labine,Brooklyn,19
+1956,Individual Pitching Stats,Shutouts,Lew Burdette,Milwaukee,6
+1956,Individual Pitching Stats,Strikeouts,Sam Jones,Chicago,176
+1956,Individual Pitching Stats,Winning Percentage,Don Newcombe,Brooklyn,.794
+1956,Individual Pitching Stats,Wins,Don Newcombe,Brooklyn,27

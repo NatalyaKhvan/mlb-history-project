@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,New York,88
-table_5,ERA,New York,2.91
-table_5,Fewest Hits Allowed,New York,"1,259"
-table_5,Fewest Home Runs Allowed,Washington,50
-table_5,Fewest Walks Allowed,New York,431
-table_5,Saves,Boston,17
-table_5,Shutouts,New York,18
-table_5,Strikeouts,Detroit,671
+Year,Category,Statistic,Team,Value
+1942,Team Pitching Stats,Complete Games,New York,88
+1942,Team Pitching Stats,ERA,New York,2.91
+1942,Team Pitching Stats,Fewest Hits Allowed,New York,"1,259"
+1942,Team Pitching Stats,Fewest Home Runs Allowed,Washington,50
+1942,Team Pitching Stats,Fewest Walks Allowed,New York,431
+1942,Team Pitching Stats,Saves,Boston,17
+1942,Team Pitching Stats,Shutouts,New York,18
+1942,Team Pitching Stats,Strikeouts,Detroit,671

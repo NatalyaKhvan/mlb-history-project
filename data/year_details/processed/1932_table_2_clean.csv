@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Lefty Grove,Philadelphia,27,Top 25
-table_2,ERA,Lefty Grove,Philadelphia,2.84,Top 25
-table_2,Games,Firpo Marberry,Washington,54,Top 25
-table_2,Saves,Firpo Marberry,Washington,13,Top 25
-table_2,Shutouts,Tommy Bridges,Detroit,4,Top 25
-table_2,Strikeouts,Red Ruffing,New York,190,Top 25
-table_2,Winning Percentage,Johnny Allen,New York,.810,Top 25
-table_2,Wins,Alvin Crowder,Washington,26,Top 25
+Year,Category,Statistic,Player,Team,Value
+1932,Individual Pitching Stats,Complete Games,Lefty Grove,Philadelphia,27
+1932,Individual Pitching Stats,ERA,Lefty Grove,Philadelphia,2.84
+1932,Individual Pitching Stats,Games,Firpo Marberry,Washington,54
+1932,Individual Pitching Stats,Saves,Firpo Marberry,Washington,13
+1932,Individual Pitching Stats,Shutouts,Tommy Bridges,Detroit,4
+1932,Individual Pitching Stats,Strikeouts,Red Ruffing,New York,190
+1932,Individual Pitching Stats,Winning Percentage,Johnny Allen,New York,.810
+1932,Individual Pitching Stats,Wins,Alvin Crowder,Washington,26

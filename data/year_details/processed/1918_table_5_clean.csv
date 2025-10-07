@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,105
-table_5,ERA,Washington,2.14
-table_5,Fewest Hits Allowed,Boston,931
-table_5,Fewest Home Runs Allowed,Boston,9
-table_5,Fewest Walks Allowed,Chicago,300
-table_5,Saves,Cleveland,13
-table_5,Shutouts,Boston,26
-table_5,Strikeouts,Washington,505
+Year,Category,Statistic,Team,Value
+1918,Team Pitching Stats,Complete Games,Boston,105
+1918,Team Pitching Stats,ERA,Washington,2.14
+1918,Team Pitching Stats,Fewest Hits Allowed,Boston,931
+1918,Team Pitching Stats,Fewest Home Runs Allowed,Boston,9
+1918,Team Pitching Stats,Fewest Walks Allowed,Chicago,300
+1918,Team Pitching Stats,Saves,Cleveland,13
+1918,Team Pitching Stats,Shutouts,Boston,26
+1918,Team Pitching Stats,Strikeouts,Washington,505

@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Fergie Jenkins | Chicago | 30 | Top 25
-table_2,ERA | Tom Seaver | New York | 1.76 | Top 25
-table_2,Games | Wayne Granger | Cincinnati | 70 | Top 25
-table_2,Saves | Dave Giusti | Pittsburgh | 30 | Top 25
-table_2,Shutouts | Steve Blass | Pittsburgh | 5 | Top 25
-table_2,Strikeouts | Tom Seaver | New York | 289 | Top 25
-table_2,Winning Percentage | Don Gullett | Cincinnati | .727 | Top 25
-table_2,Wins | Fergie Jenkins | Chicago | 24 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 75
-table_5,ERA | New York | 2.99
-table_5,"Fewest Hits Allowed | New York | 1,227"
-table_5,Fewest Home Runs Allowed | Houston | 75
-table_5,Fewest Walks Allowed | Los Angeles | 399
-table_5,Saves | Pittsburgh | 48
-table_5,Shutouts | Los Angeles | 18
-table_5,"Strikeouts | New York | 1,157"
-table_5,Statistic | Team | #
+year,league,category,text
+1971,National League,table_2,Complete Games | Fergie Jenkins | Chicago | 30
+1971,National League,table_2,ERA | Tom Seaver | New York | 1.76
+1971,National League,table_2,Games | Wayne Granger | Cincinnati | 70
+1971,National League,table_2,Saves | Dave Giusti | Pittsburgh | 30
+1971,National League,table_2,Shutouts | Steve Blass | Pittsburgh | 5
+1971,National League,table_2,Strikeouts | Tom Seaver | New York | 289
+1971,National League,table_2,Winning Percentage | Don Gullett | Cincinnati | .727
+1971,National League,table_2,Wins | Fergie Jenkins | Chicago | 24
+1971,National League,table_5,Complete Games | Chicago | 75
+1971,National League,table_5,ERA | New York | 2.99
+1971,National League,table_5,"Fewest Hits Allowed | New York | 1,227"
+1971,National League,table_5,Fewest Home Runs Allowed | Houston | 75
+1971,National League,table_5,Fewest Walks Allowed | Los Angeles | 399
+1971,National League,table_5,Saves | Pittsburgh | 48
+1971,National League,table_5,Shutouts | Los Angeles | 18
+1971,National League,table_5,"Strikeouts | New York | 1,157"

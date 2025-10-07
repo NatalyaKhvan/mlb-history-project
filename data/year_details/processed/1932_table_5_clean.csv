@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,New York,96
-table_5,ERA,New York,3.99
-table_5,Fewest Hits Allowed,Detroit,"1,421"
-table_5,Fewest Home Runs Allowed,Cleveland,70
-table_5,Fewest Walks Allowed,Cleveland,446
-table_5,Saves,Washington,22
-table_5,Shutouts,New York,11
-table_5,Strikeouts,New York,780
+Year,Category,Statistic,Team,Value
+1932,Team Pitching Stats,Complete Games,New York,96
+1932,Team Pitching Stats,ERA,New York,3.99
+1932,Team Pitching Stats,Fewest Hits Allowed,Detroit,"1,421"
+1932,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,70
+1932,Team Pitching Stats,Fewest Walks Allowed,Cleveland,446
+1932,Team Pitching Stats,Saves,Washington,22
+1932,Team Pitching Stats,Shutouts,New York,11
+1932,Team Pitching Stats,Strikeouts,New York,780

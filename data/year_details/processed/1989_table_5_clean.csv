@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,California,32
-table_5,ERA,Oakland,3.09
-table_5,Fewest Hits Allowed,Texas,"1,279"
-table_5,Fewest Home Runs Allowed,Kansas City,86
-table_5,Fewest Walks Allowed,Cleveland,452
-table_5,Saves,Oakland,57
-table_5,Shutouts,California,20
-table_5,Strikeouts,Texas,"1,112"
+Year,Category,Statistic,Team,Value
+1989,Team Pitching Stats,Complete Games,California,32
+1989,Team Pitching Stats,ERA,Oakland,3.09
+1989,Team Pitching Stats,Fewest Hits Allowed,Texas,"1,279"
+1989,Team Pitching Stats,Fewest Home Runs Allowed,Kansas City,86
+1989,Team Pitching Stats,Fewest Walks Allowed,Cleveland,452
+1989,Team Pitching Stats,Saves,Oakland,57
+1989,Team Pitching Stats,Shutouts,California,20
+1989,Team Pitching Stats,Strikeouts,Texas,"1,112"

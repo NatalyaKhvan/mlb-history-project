@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bill Donovan,Detroit,34,Top 25
-table_2,ERA,Earl Moore,Cleveland,1.74,Top 25
-table_2,Games,Eddie Plank,Philadelphia,43,Top 25
-table_2,Saves,Bill Dinneen,Boston,2,Top 25
-table_2,Shutouts,Cy Young,Boston,7,Top 25
-table_2,Strikeouts,Rube Waddell,Philadelphia,302,Top 25
-table_2,Winning Percentage,Cy Young,Boston,.757,Top 25
-table_2,Wins,Cy Young,Boston,28,Top 25
+Year,Category,Statistic,Player,Team,Value
+1903,Individual Pitching Stats,Complete Games,Bill Donovan,Detroit,34
+1903,Individual Pitching Stats,ERA,Earl Moore,Cleveland,1.74
+1903,Individual Pitching Stats,Games,Eddie Plank,Philadelphia,43
+1903,Individual Pitching Stats,Saves,Bill Dinneen,Boston,2
+1903,Individual Pitching Stats,Shutouts,Cy Young,Boston,7
+1903,Individual Pitching Stats,Strikeouts,Rube Waddell,Philadelphia,302
+1903,Individual Pitching Stats,Winning Percentage,Cy Young,Boston,.757
+1903,Individual Pitching Stats,Wins,Cy Young,Boston,28

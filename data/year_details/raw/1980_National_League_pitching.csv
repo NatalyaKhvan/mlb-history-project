@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Steve Rogers | Montreal | 14 | Top 25
-table_2,ERA | Don Sutton | Los Angeles | 2.20 | Top 25
-table_2,Games | Dick Tidrow | Chicago | 84 | Top 25
-table_2,Saves | Bruce Sutter | St. Louis | 28 | Top 25
-table_2,Shutouts | Jerry Reuss | Los Angeles | 6 | Top 25
-table_2,Strikeouts | Steve Carlton | Philadelphia | 286 | Top 25
-table_2,Winning Percentage | Jim Bibby | Pittsburgh | .760 | Top 25
-table_2,Wins | Steve Carlton | Philadelphia | 24 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | St. Louis | 34
-table_5,ERA | Houston | 3.11
-table_5,"Fewest Hits Allowed | Los Angeles | 1,358"
-table_5,Fewest Home Runs Allowed | Houston | 69
-table_5,Fewest Walks Allowed | Pittsburgh | 451
-table_5,Saves | Pittsburgh | 43
-table_5,Shutouts | Los Angeles | 19
-table_5,Strikeouts | Houston | 929
+year,league,category,text
+1980,National League,table_2,Complete Games | Steve Rogers | Montreal | 14
+1980,National League,table_2,ERA | Don Sutton | Los Angeles | 2.20
+1980,National League,table_2,Games | Dick Tidrow | Chicago | 84
+1980,National League,table_2,Saves | Bruce Sutter | St. Louis | 28
+1980,National League,table_2,Shutouts | Jerry Reuss | Los Angeles | 6
+1980,National League,table_2,Strikeouts | Steve Carlton | Philadelphia | 286
+1980,National League,table_2,Winning Percentage | Jim Bibby | Pittsburgh | .760
+1980,National League,table_2,Wins | Steve Carlton | Philadelphia | 24
+1980,National League,table_5,Complete Games | St. Louis | 34
+1980,National League,table_5,ERA | Houston | 3.11
+1980,National League,table_5,"Fewest Hits Allowed | Los Angeles | 1,358"
+1980,National League,table_5,Fewest Home Runs Allowed | Houston | 69
+1980,National League,table_5,Fewest Walks Allowed | Pittsburgh | 451
+1980,National League,table_5,Saves | Pittsburgh | 43
+1980,National League,table_5,Shutouts | Los Angeles | 19
+1980,National League,table_5,Strikeouts | Houston | 929

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Andy Messersmith,Los Angeles,19,Top 25
-table_2,ERA,Randy Jones,San Diego,2.24,Top 25
-table_2,Games,Gene Garber,Philadelphia,71,Top 25
-table_2,Saves,Rawly Eastwick,Cincinnati,22,Top 25
-table_2,Shutouts,Andy Messersmith,Los Angeles,7,Top 25
-table_2,Strikeouts,Tom Seaver,New York,243,Top 25
-table_2,Winning Percentage,Don Gullett,Cincinnati,.789,Top 25
-table_2,Wins,Tom Seaver,New York,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+1975,Individual Pitching Stats,Complete Games,Andy Messersmith,Los Angeles,19
+1975,Individual Pitching Stats,ERA,Randy Jones,San Diego,2.24
+1975,Individual Pitching Stats,Games,Gene Garber,Philadelphia,71
+1975,Individual Pitching Stats,Saves,Rawly Eastwick,Cincinnati,22
+1975,Individual Pitching Stats,Shutouts,Andy Messersmith,Los Angeles,7
+1975,Individual Pitching Stats,Strikeouts,Tom Seaver,New York,243
+1975,Individual Pitching Stats,Winning Percentage,Don Gullett,Cincinnati,.789
+1975,Individual Pitching Stats,Wins,Tom Seaver,New York,22

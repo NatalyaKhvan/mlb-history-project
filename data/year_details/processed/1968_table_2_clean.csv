@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Denny McLain,Detroit,28,Top 25
-table_2,ERA,Luis Tiant,Cleveland,1.60,Top 25
-table_2,Games,Wilbur Wood,Chicago,88,Top 25
-table_2,Saves,Al Worthington,Minnesota,18,Top 25
-table_2,Shutouts,Luis Tiant,Cleveland,9,Top 25
-table_2,Strikeouts,Sam McDowell,Cleveland,283,Top 25
-table_2,Winning Percentage,Denny McLain,Detroit,.838,Top 25
-table_2,Wins,Denny McLain,Detroit,31,Top 25
+Year,Category,Statistic,Player,Team,Value
+1968,Individual Pitching Stats,Complete Games,Denny McLain,Detroit,28
+1968,Individual Pitching Stats,ERA,Luis Tiant,Cleveland,1.60
+1968,Individual Pitching Stats,Games,Wilbur Wood,Chicago,88
+1968,Individual Pitching Stats,Saves,Al Worthington,Minnesota,18
+1968,Individual Pitching Stats,Shutouts,Luis Tiant,Cleveland,9
+1968,Individual Pitching Stats,Strikeouts,Sam McDowell,Cleveland,283
+1968,Individual Pitching Stats,Winning Percentage,Denny McLain,Detroit,.838
+1968,Individual Pitching Stats,Wins,Denny McLain,Detroit,31

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Cleveland,81
-table_5,ERA,New York,3.21
-table_5,Fewest Hits Allowed,New York,"1,286"
-table_5,Fewest Home Runs Allowed,Boston,92
-table_5,Fewest Walks Allowed,Washington,478
-table_5,Saves,New York,39
-table_5,Shutouts,New York,18
-table_5,Strikeouts,Chicago,714
+Year,Category,Statistic,Team,Value
+1953,Team Pitching Stats,Complete Games,Cleveland,81
+1953,Team Pitching Stats,ERA,New York,3.21
+1953,Team Pitching Stats,Fewest Hits Allowed,New York,"1,286"
+1953,Team Pitching Stats,Fewest Home Runs Allowed,Boston,92
+1953,Team Pitching Stats,Fewest Walks Allowed,Washington,478
+1953,Team Pitching Stats,Saves,New York,39
+1953,Team Pitching Stats,Shutouts,New York,18
+1953,Team Pitching Stats,Strikeouts,Chicago,714

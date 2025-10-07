@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Ted Lyons | Chicago | 29 | Top 25
-table_2,ERA | Lefty Grove | Philadelphia | 2.54 | Top 25
-table_2,Games | Lefty Grove | Philadelphia | 50 | Top 25
-table_2,Saves | Lefty Grove | Philadelphia | 9 | Top 25
-table_2,Shutouts | Clint Brown | Cleveland | 3 | Top 25
-table_2,Strikeouts | Lefty Grove | Philadelphia | 209 | Top 25
-table_2,Winning Percentage | Lefty Grove | Philadelphia | .848 | Top 25
-table_2,Wins | Lefty Grove | Philadelphia | 28 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Washington | 78
-table_5,ERA | Washington | 3.97
-table_5,"Fewest Hits Allowed | Washington | 1,367"
-table_5,Fewest Home Runs Allowed | Washington | 52
-table_5,Fewest Walks Allowed | Chicago | 407
-table_5,Saves | Philadelphia | 21
-table_5,Shutouts | Philadelphia | 8
-table_5,Strikeouts | Philadelphia | 672
+year,league,category,text
+1930,American League,table_2,Complete Games | Ted Lyons | Chicago | 29
+1930,American League,table_2,ERA | Lefty Grove | Philadelphia | 2.54
+1930,American League,table_2,Games | Lefty Grove | Philadelphia | 50
+1930,American League,table_2,Saves | Lefty Grove | Philadelphia | 9
+1930,American League,table_2,Shutouts | Clint Brown | Cleveland | 3
+1930,American League,table_2,Strikeouts | Lefty Grove | Philadelphia | 209
+1930,American League,table_2,Winning Percentage | Lefty Grove | Philadelphia | .848
+1930,American League,table_2,Wins | Lefty Grove | Philadelphia | 28
+1930,American League,table_5,Complete Games | Washington | 78
+1930,American League,table_5,ERA | Washington | 3.97
+1930,American League,table_5,"Fewest Hits Allowed | Washington | 1,367"
+1930,American League,table_5,Fewest Home Runs Allowed | Washington | 52
+1930,American League,table_5,Fewest Walks Allowed | Chicago | 407
+1930,American League,table_5,Saves | Philadelphia | 21
+1930,American League,table_5,Shutouts | Philadelphia | 8
+1930,American League,table_5,Strikeouts | Philadelphia | 672

@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Ron Guidry | New York | 21 | Top 25
-table_2,ERA | Rick Honeycutt | Texas | 2.42 | Top 25
-table_2,Games | Dan Quisenberry | Kansas City | 69 | Top 25
-table_2,Saves | Dan Quisenberry | Kansas City | 45 | Top 25
-table_2,Shutouts | Mike Boddicker | Baltimore | 5 | Top 25
-table_2,Strikeouts | Jack Morris | Detroit | 232 | Top 25
-table_2,Winning Percentage | Richard Dotson | Chicago | .759 | Top 25
-table_2,Wins | La Marr Hoyt | Chicago | 24 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 47
-table_5,ERA | Texas | 3.31
-table_5,"Fewest Hits Allowed | Detroit | 1,318"
-table_5,Fewest Home Runs Allowed | Texas | 97
-table_5,Fewest Walks Allowed | Chicago | 447
-table_5,Saves | Kansas City | 49
-table_5,Shutouts | Baltimore | 15
-table_5,Strikeouts | Seattle | 910
+year,league,category,text
+1983,American League,table_2,Complete Games | Ron Guidry | New York | 21
+1983,American League,table_2,ERA | Rick Honeycutt | Texas | 2.42
+1983,American League,table_2,Games | Dan Quisenberry | Kansas City | 69
+1983,American League,table_2,Saves | Dan Quisenberry | Kansas City | 45
+1983,American League,table_2,Shutouts | Mike Boddicker | Baltimore | 5
+1983,American League,table_2,Strikeouts | Jack Morris | Detroit | 232
+1983,American League,table_2,Winning Percentage | Richard Dotson | Chicago | .759
+1983,American League,table_2,Wins | La Marr Hoyt | Chicago | 24
+1983,American League,table_5,Complete Games | New York | 47
+1983,American League,table_5,ERA | Texas | 3.31
+1983,American League,table_5,"Fewest Hits Allowed | Detroit | 1,318"
+1983,American League,table_5,Fewest Home Runs Allowed | Texas | 97
+1983,American League,table_5,Fewest Walks Allowed | Chicago | 447
+1983,American League,table_5,Saves | Kansas City | 49
+1983,American League,table_5,Shutouts | Baltimore | 15
+1983,American League,table_5,Strikeouts | Seattle | 910

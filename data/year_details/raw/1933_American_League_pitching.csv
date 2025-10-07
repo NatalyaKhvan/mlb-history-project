@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Lefty Grove | Philadelphia | 21 | Top 25
-table_2,ERA | Monte Pearson | Cleveland | 2.33 | Top 25
-table_2,Games | Alvin Crowder | Washington | 52 | Top 25
-table_2,Saves | Jack Russell | Washington | 13 | Top 25
-table_2,Shutouts | Oral Hildebrand | Cleveland | 6 | Top 25
-table_2,Strikeouts | Lefty Gomez | New York | 163 | Top 25
-table_2,Winning Percentage | Lefty Grove | Philadelphia | .750 | Top 25
-table_2,Wins | Lefty Grove | Philadelphia | 24 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 74
-table_5,ERA | Cleveland | 3.71
-table_5,"Fewest Hits Allowed | Cleveland | 1,382"
-table_5,Fewest Home Runs Allowed | Cleveland | 60
-table_5,Fewest Walks Allowed | Washington | 452
-table_5,Saves | Washington | 26
-table_5,Shutouts | Cleveland | 12
-table_5,Strikeouts | New York | 711
+year,league,category,text
+1933,American League,table_2,Complete Games | Lefty Grove | Philadelphia | 21
+1933,American League,table_2,ERA | Monte Pearson | Cleveland | 2.33
+1933,American League,table_2,Games | Alvin Crowder | Washington | 52
+1933,American League,table_2,Saves | Jack Russell | Washington | 13
+1933,American League,table_2,Shutouts | Oral Hildebrand | Cleveland | 6
+1933,American League,table_2,Strikeouts | Lefty Gomez | New York | 163
+1933,American League,table_2,Winning Percentage | Lefty Grove | Philadelphia | .750
+1933,American League,table_2,Wins | Lefty Grove | Philadelphia | 24
+1933,American League,table_5,Complete Games | Cleveland | 74
+1933,American League,table_5,ERA | Cleveland | 3.71
+1933,American League,table_5,"Fewest Hits Allowed | Cleveland | 1,382"
+1933,American League,table_5,Fewest Home Runs Allowed | Cleveland | 60
+1933,American League,table_5,Fewest Walks Allowed | Washington | 452
+1933,American League,table_5,Saves | Washington | 26
+1933,American League,table_5,Shutouts | Cleveland | 12
+1933,American League,table_5,Strikeouts | New York | 711

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Pittsburgh,88
-table_5,ERA,Pittsburgh,3.17
-table_5,Fewest Hits Allowed,Pittsburgh,"1,448"
-table_5,Fewest Home Runs Allowed,Pittsburgh,37
-table_5,Fewest Walks Allowed,New York,295
-table_5,Saves,New York,18
-table_5,Shutouts,Boston,11
-table_5,Strikeouts,Pittsburgh,500
+Year,Category,Statistic,Team,Value
+1921,Team Pitching Stats,Complete Games,Pittsburgh,88
+1921,Team Pitching Stats,ERA,Pittsburgh,3.17
+1921,Team Pitching Stats,Fewest Hits Allowed,Pittsburgh,"1,448"
+1921,Team Pitching Stats,Fewest Home Runs Allowed,Pittsburgh,37
+1921,Team Pitching Stats,Fewest Walks Allowed,New York,295
+1921,Team Pitching Stats,Saves,New York,18
+1921,Team Pitching Stats,Shutouts,Boston,11
+1921,Team Pitching Stats,Strikeouts,Pittsburgh,500

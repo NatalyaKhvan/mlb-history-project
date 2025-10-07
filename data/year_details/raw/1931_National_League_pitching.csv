@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Red Lucas | Cincinnati | 24 | Top 25
-table_2,ERA | Bill Walker | New York | 2.26 | Top 25
-table_2,Games | Jumbo Elliott | Philadelphia | 52 | Top 25
-table_2,Saves | Jack Quinn | Brooklyn | 15 | Top 25
-table_2,Shutouts | Bill Walker | New York | 6 | Top 25
-table_2,Strikeouts | Bill Hallahan | St. Louis | 159 | Top 25
-table_2,Winning Percentage | Paul Derringer | St. Louis | .692 | Top 25
-table_2,Wins | Jumbo Elliott | Philadelphia | 19 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Pittsburgh | 80
-table_5,ERA | Brooklyn | 4.03
-table_5,"Fewest Hits Allowed | Brooklyn | 1,480"
-table_5,Fewest Home Runs Allowed | Cincinnati | 75
-table_5,Fewest Walks Allowed | Brooklyn | 394
-table_5,Saves | St. Louis | 21
-table_5,Shutouts | Brooklyn | 13
-table_5,Strikeouts | St. Louis | 639
+year,league,category,text
+1931,National League,table_2,Complete Games | Red Lucas | Cincinnati | 24
+1931,National League,table_2,ERA | Bill Walker | New York | 2.26
+1931,National League,table_2,Games | Jumbo Elliott | Philadelphia | 52
+1931,National League,table_2,Saves | Jack Quinn | Brooklyn | 15
+1931,National League,table_2,Shutouts | Bill Walker | New York | 6
+1931,National League,table_2,Strikeouts | Bill Hallahan | St. Louis | 159
+1931,National League,table_2,Winning Percentage | Paul Derringer | St. Louis | .692
+1931,National League,table_2,Wins | Jumbo Elliott | Philadelphia | 19
+1931,National League,table_5,Complete Games | Pittsburgh | 80
+1931,National League,table_5,ERA | Brooklyn | 4.03
+1931,National League,table_5,"Fewest Hits Allowed | Brooklyn | 1,480"
+1931,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 75
+1931,National League,table_5,Fewest Walks Allowed | Brooklyn | 394
+1931,National League,table_5,Saves | St. Louis | 21
+1931,National League,table_5,Shutouts | Brooklyn | 13
+1931,National League,table_5,Strikeouts | St. Louis | 639

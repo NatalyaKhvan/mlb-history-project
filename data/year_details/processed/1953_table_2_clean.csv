@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bob Porterfield,Washington,24,Top 25
-table_2,ERA,Ed Lopat,New York,2.42,Top 25
-table_2,Games,Ellis Kinder,Boston,69,Top 25
-table_2,Saves,Ellis Kinder,Boston,27,Top 25
-table_2,Shutouts,Bob Porterfield,Washington,9,Top 25
-table_2,Strikeouts,Billy Pierce,New York,186,Top 25
-table_2,Winning Percentage,Ed Lopat,New York,.800,Top 25
-table_2,Wins,Bob Porterfield,Washington,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+1953,Individual Pitching Stats,Complete Games,Bob Porterfield,Washington,24
+1953,Individual Pitching Stats,ERA,Ed Lopat,New York,2.42
+1953,Individual Pitching Stats,Games,Ellis Kinder,Boston,69
+1953,Individual Pitching Stats,Saves,Ellis Kinder,Boston,27
+1953,Individual Pitching Stats,Shutouts,Bob Porterfield,Washington,9
+1953,Individual Pitching Stats,Strikeouts,Billy Pierce,New York,186
+1953,Individual Pitching Stats,Winning Percentage,Ed Lopat,New York,.800
+1953,Individual Pitching Stats,Wins,Bob Porterfield,Washington,22

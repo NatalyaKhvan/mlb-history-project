@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,148
-table_5,ERA,Boston,2.12
-table_5,Fewest Hits Allowed,Philadelphia,"1,149"
-table_5,Fewest Home Runs Allowed,Cleveland,10
-table_5,Fewest Walks Allowed,Boston,233
-table_5,Saves,Washington,4
-table_5,Shutouts,Chicago,26
-table_5,Strikeouts,Philadelphia,887
+Year,Category,Statistic,Team,Value
+1904,Team Pitching Stats,Complete Games,Boston,148
+1904,Team Pitching Stats,ERA,Boston,2.12
+1904,Team Pitching Stats,Fewest Hits Allowed,Philadelphia,"1,149"
+1904,Team Pitching Stats,Fewest Home Runs Allowed,Cleveland,10
+1904,Team Pitching Stats,Fewest Walks Allowed,Boston,233
+1904,Team Pitching Stats,Saves,Washington,4
+1904,Team Pitching Stats,Shutouts,Chicago,26
+1904,Team Pitching Stats,Strikeouts,Philadelphia,887

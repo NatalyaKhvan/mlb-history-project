@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Irv Young,Boston,41,Top 25
-table_2,ERA,Christy Mathewson,New York,1.28,Top 25
-table_2,Games,Joe McGinnity,New York,46,Top 25
-table_2,Saves,Claud Elliott,New York,6,Top 25
-table_2,Shutouts,Christy Mathewson,New York,8,Top 25
-table_2,Strikeouts,Christy Mathewson,New York,206,Top 25
-table_2,Winning Percentage,Sam Leever,Pittsburgh,.800,Top 25
-table_2,Wins,Christy Mathewson,New York,31,Top 25
+Year,Category,Statistic,Player,Team,Value
+1905,Individual Pitching Stats,Complete Games,Irv Young,Boston,41
+1905,Individual Pitching Stats,ERA,Christy Mathewson,New York,1.28
+1905,Individual Pitching Stats,Games,Joe McGinnity,New York,46
+1905,Individual Pitching Stats,Saves,Claud Elliott,New York,6
+1905,Individual Pitching Stats,Shutouts,Christy Mathewson,New York,8
+1905,Individual Pitching Stats,Strikeouts,Christy Mathewson,New York,206
+1905,Individual Pitching Stats,Winning Percentage,Sam Leever,Pittsburgh,.800
+1905,Individual Pitching Stats,Wins,Christy Mathewson,New York,31

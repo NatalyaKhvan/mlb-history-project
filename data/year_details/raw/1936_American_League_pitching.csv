@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Wes Ferrell | Boston | 28 | Top 25
-table_2,ERA | Lefty Grove | Philadelphia | 2.81 | Top 25
-table_2,Games | Russ Van Atta | St. Louis | 52 | Top 25
-table_2,Saves | Pat Malone | New York | 9 | Top 25
-table_2,Shutouts | Lefty Grove | Philadelphia | 6 | Top 25
-table_2,Strikeouts | Tommy Bridges | Detroit | 175 | Top 25
-table_2,Winning Percentage | Bump Hadley | New York | .778 | Top 25
-table_2,Wins | Tommy Bridges | Detroit | 23 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 80
-table_5,ERA | New York | 4.18
-table_5,"Fewest Hits Allowed | New York | 1,474"
-table_5,Fewest Home Runs Allowed | Cleveland | 73
-table_5,Fewest Walks Allowed | Boston | 552
-table_5,Saves | New York | 21
-table_5,Shutouts | Detroit | 13
-table_5,Strikeouts | New York | 624
-table_5,Statistic | Team | #
+year,league,category,text
+1936,American League,table_2,Complete Games | Wes Ferrell | Boston | 28
+1936,American League,table_2,ERA | Lefty Grove | Philadelphia | 2.81
+1936,American League,table_2,Games | Russ Van Atta | St. Louis | 52
+1936,American League,table_2,Saves | Pat Malone | New York | 9
+1936,American League,table_2,Shutouts | Lefty Grove | Philadelphia | 6
+1936,American League,table_2,Strikeouts | Tommy Bridges | Detroit | 175
+1936,American League,table_2,Winning Percentage | Bump Hadley | New York | .778
+1936,American League,table_2,Wins | Tommy Bridges | Detroit | 23
+1936,American League,table_5,Complete Games | Chicago | 80
+1936,American League,table_5,ERA | New York | 4.18
+1936,American League,table_5,"Fewest Hits Allowed | New York | 1,474"
+1936,American League,table_5,Fewest Home Runs Allowed | Cleveland | 73
+1936,American League,table_5,Fewest Walks Allowed | Boston | 552
+1936,American League,table_5,Saves | New York | 21
+1936,American League,table_5,Shutouts | Detroit | 13
+1936,American League,table_5,Strikeouts | New York | 624

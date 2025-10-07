@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Smoky Joe Wood,Boston,35,Top 25
-table_2,ERA,Walter Johnson,Washington,1.39,Top 25
-table_2,Games,Ed Walsh,Chicago,62,Top 25
-table_2,Saves,Ed Walsh,Chicago,10,Top 25
-table_2,Shutouts,Smoky Joe Wood,Boston,10,Top 25
-table_2,Strikeouts,Walter Johnson,Washington,303,Top 25
-table_2,Winning Percentage,Smoky Joe Wood,Boston,.872,Top 25
-table_2,Wins,Smoky Joe Wood,Boston,34,Top 25
+Year,Category,Statistic,Player,Team,Value
+1912,Individual Pitching Stats,Complete Games,Smoky Joe Wood,Boston,35
+1912,Individual Pitching Stats,ERA,Walter Johnson,Washington,1.39
+1912,Individual Pitching Stats,Games,Ed Walsh,Chicago,62
+1912,Individual Pitching Stats,Saves,Ed Walsh,Chicago,10
+1912,Individual Pitching Stats,Shutouts,Smoky Joe Wood,Boston,10
+1912,Individual Pitching Stats,Strikeouts,Walter Johnson,Washington,303
+1912,Individual Pitching Stats,Winning Percentage,Smoky Joe Wood,Boston,.872
+1912,Individual Pitching Stats,Wins,Smoky Joe Wood,Boston,34

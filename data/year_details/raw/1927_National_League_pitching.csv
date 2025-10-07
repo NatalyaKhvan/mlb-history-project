@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jesse Haines | St. Louis | 25 | Top 25
-table_2,ERA | Ray Kremer | Pittsburgh | 2.47 | Top 25
-table_2,Games | Charlie Root | Chicago | 48 | Top 25
-table_2,Saves | Bill Sherdel | St. Louis | 6 | Top 25
-table_2,Shutouts | Jesse Haines | St. Louis | 6 | Top 25
-table_2,Strikeouts | Dazzy Vance | Brooklyn | 184 | Top 25
-table_2,Winning Percentage | Larry Benton | Boston | .708 | Top 25
-table_2,Wins | Charlie Root | Chicago | 26 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Pittsburgh | 90
-table_5,ERA | Brooklyn | 3.36
-table_5,"Fewest Hits Allowed | Brooklyn | 1,382"
-table_5,Fewest Home Runs Allowed | Cincinnati | 36
-table_5,Fewest Walks Allowed | Cincinnati | 316
-table_5,Saves | New York | 16
-table_5,Shutouts | St. Louis | 14
-table_5,Strikeouts | Brooklyn | 574
+year,league,category,text
+1927,National League,table_2,Complete Games | Jesse Haines | St. Louis | 25
+1927,National League,table_2,ERA | Ray Kremer | Pittsburgh | 2.47
+1927,National League,table_2,Games | Charlie Root | Chicago | 48
+1927,National League,table_2,Saves | Bill Sherdel | St. Louis | 6
+1927,National League,table_2,Shutouts | Jesse Haines | St. Louis | 6
+1927,National League,table_2,Strikeouts | Dazzy Vance | Brooklyn | 184
+1927,National League,table_2,Winning Percentage | Larry Benton | Boston | .708
+1927,National League,table_2,Wins | Charlie Root | Chicago | 26
+1927,National League,table_5,Complete Games | Pittsburgh | 90
+1927,National League,table_5,ERA | Brooklyn | 3.36
+1927,National League,table_5,"Fewest Hits Allowed | Brooklyn | 1,382"
+1927,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 36
+1927,National League,table_5,Fewest Walks Allowed | Cincinnati | 316
+1927,National League,table_5,Saves | New York | 16
+1927,National League,table_5,Shutouts | St. Louis | 14
+1927,National League,table_5,Strikeouts | Brooklyn | 574

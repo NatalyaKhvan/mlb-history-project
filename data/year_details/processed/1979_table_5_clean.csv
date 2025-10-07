@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Milwaukee,61
-table_5,ERA,Baltimore,3.26
-table_5,Fewest Hits Allowed,Baltimore,"1,279"
-table_5,Fewest Home Runs Allowed,Chicago,114
-table_5,Fewest Walks Allowed,Milwaukee,381
-table_5,Saves,Texas,42
-table_5,Shutouts,Baltimore,12
-table_5,Strikeouts,California,820
+Year,Category,Statistic,Team,Value
+1979,Team Pitching Stats,Complete Games,Milwaukee,61
+1979,Team Pitching Stats,ERA,Baltimore,3.26
+1979,Team Pitching Stats,Fewest Hits Allowed,Baltimore,"1,279"
+1979,Team Pitching Stats,Fewest Home Runs Allowed,Chicago,114
+1979,Team Pitching Stats,Fewest Walks Allowed,Milwaukee,381
+1979,Team Pitching Stats,Saves,Texas,42
+1979,Team Pitching Stats,Shutouts,Baltimore,12
+1979,Team Pitching Stats,Strikeouts,California,820

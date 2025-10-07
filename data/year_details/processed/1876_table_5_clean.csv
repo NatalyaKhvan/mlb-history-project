@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Hartford,69
-table_5,ERA,St. Louis,1.22
-table_5,Fewest Hits Allowed,St. Louis,472
-table_5,Fewest Home Runs Allowed,Hartford,2
-table_5,Fewest Walks Allowed,New York,24
-table_5,Saves,Boston,7
-table_5,Shutouts,St. Louis,16
-table_5,Strikeouts,Louisville,125
+Year,Category,Statistic,Team,Value
+1876,Team Pitching Stats,Complete Games,Hartford,69
+1876,Team Pitching Stats,ERA,St. Louis,1.22
+1876,Team Pitching Stats,Fewest Hits Allowed,St. Louis,472
+1876,Team Pitching Stats,Fewest Home Runs Allowed,Hartford,2
+1876,Team Pitching Stats,Fewest Walks Allowed,New York,24
+1876,Team Pitching Stats,Saves,Boston,7
+1876,Team Pitching Stats,Shutouts,St. Louis,16
+1876,Team Pitching Stats,Strikeouts,Louisville,125

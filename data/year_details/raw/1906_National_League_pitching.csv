@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Irv Young | Boston | 37 | Top 25
-table_2,ERA | Mordecai Brown | Chicago | 1.04 | Top 25
-table_2,Games | Joe McGinnity | New York | 45 | Top 25
-table_2,Saves | George Ferguson | New York | 7 | Top 25
-table_2,Shutouts | Mordecai Brown | Chicago | 9 | Top 25
-table_2,Strikeouts | Fred Beebe | Chicago | 171 | Top 25
-table_2,Winning Percentage | Ed Reulbach | Chicago | .826 | Top 25
-table_2,Wins | Joe McGinnity | New York | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 137
-table_5,ERA | Chicago | 1.75
-table_5,"Fewest Hits Allowed | Chicago | 1,018"
-table_5,Fewest Home Runs Allowed | Chicago | 12
-table_5,Fewest Walks Allowed | Pittsburgh | 309
-table_5,Saves | New York | 18
-table_5,Shutouts | Chicago | 30
-table_5,Strikeouts | Chicago | 702
-table_5,Statistic | Team | #
+year,league,category,text
+1906,National League,table_2,Complete Games | Irv Young | Boston | 37
+1906,National League,table_2,ERA | Mordecai Brown | Chicago | 1.04
+1906,National League,table_2,Games | Joe McGinnity | New York | 45
+1906,National League,table_2,Saves | George Ferguson | New York | 7
+1906,National League,table_2,Shutouts | Mordecai Brown | Chicago | 9
+1906,National League,table_2,Strikeouts | Fred Beebe | Chicago | 171
+1906,National League,table_2,Winning Percentage | Ed Reulbach | Chicago | .826
+1906,National League,table_2,Wins | Joe McGinnity | New York | 27
+1906,National League,table_5,Complete Games | Boston | 137
+1906,National League,table_5,ERA | Chicago | 1.75
+1906,National League,table_5,"Fewest Hits Allowed | Chicago | 1,018"
+1906,National League,table_5,Fewest Home Runs Allowed | Chicago | 12
+1906,National League,table_5,Fewest Walks Allowed | Pittsburgh | 309
+1906,National League,table_5,Saves | New York | 18
+1906,National League,table_5,Shutouts | Chicago | 30
+1906,National League,table_5,Strikeouts | Chicago | 702

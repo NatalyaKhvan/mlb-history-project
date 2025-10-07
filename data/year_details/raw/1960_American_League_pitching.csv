@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Frank Lary | Detroit | 15 | Top 25
-table_2,ERA | Frank Baumann | Chicago | 2.67 | Top 25
-table_2,Games | Mike Fornieles | Boston | 70 | Top 25
-table_2,Saves | Johnny Klippstein | Cleveland | 14 | Top 25
-table_2,Shutouts | Whitey Ford | New York | 4 | Top 25
-table_2,Strikeouts | Jim Bunning | Detroit | 201 | Top 25
-table_2,Winning Percentage | Jim Perry | Cleveland | .643 | Top 25
-table_2,Wins | Chuck Estrada | Baltimore | 18 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Baltimore | 48
-table_5,ERA | New York | 3.52
-table_5,"Fewest Hits Allowed | Baltimore | 1,222"
-table_5,Fewest Home Runs Allowed | Baltimore | 117
-table_5,Fewest Walks Allowed | Detroit | 474
-table_5,Saves | New York | 42
-table_5,Shutouts | New York | 16
-table_5,Strikeouts | Detroit | 824
+year,league,category,text
+1960,American League,table_2,Complete Games | Frank Lary | Detroit | 15
+1960,American League,table_2,ERA | Frank Baumann | Chicago | 2.67
+1960,American League,table_2,Games | Mike Fornieles | Boston | 70
+1960,American League,table_2,Saves | Johnny Klippstein | Cleveland | 14
+1960,American League,table_2,Shutouts | Whitey Ford | New York | 4
+1960,American League,table_2,Strikeouts | Jim Bunning | Detroit | 201
+1960,American League,table_2,Winning Percentage | Jim Perry | Cleveland | .643
+1960,American League,table_2,Wins | Chuck Estrada | Baltimore | 18
+1960,American League,table_5,Complete Games | Baltimore | 48
+1960,American League,table_5,ERA | New York | 3.52
+1960,American League,table_5,"Fewest Hits Allowed | Baltimore | 1,222"
+1960,American League,table_5,Fewest Home Runs Allowed | Baltimore | 117
+1960,American League,table_5,Fewest Walks Allowed | Detroit | 474
+1960,American League,table_5,Saves | New York | 42
+1960,American League,table_5,Shutouts | New York | 16
+1960,American League,table_5,Strikeouts | Detroit | 824

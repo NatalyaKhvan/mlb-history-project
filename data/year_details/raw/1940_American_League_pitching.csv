@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Bob Feller | Cleveland | 31 | Top 25
-table_2,ERA | Bob Feller | Cleveland | 2.61 | Top 25
-table_2,Games | Bob Feller | Cleveland | 43 | Top 25
-table_2,Saves | Al Benton | Detroit | 17 | Top 25
-table_2,Shutouts | Bob Feller | Cleveland | 4 | Top 25
-table_2,Strikeouts | Bob Feller | Cleveland | 261 | Top 25
-table_2,Winning Percentage | Schoolboy Rowe | Detroit | .842 | Top 25
-table_2,Wins | Bob Feller | Cleveland | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 83
-table_5,ERA | Cleveland | 3.64
-table_5,"Fewest Hits Allowed | Cleveland | 1,328"
-table_5,Fewest Home Runs Allowed | Cleveland | 86
-table_5,Fewest Walks Allowed | Chicago | 480
-table_5,Saves | Detroit | 23
-table_5,Shutouts | Cleveland | 13
-table_5,Strikeouts | Detroit | 752
+year,league,category,text
+1940,American League,table_2,Complete Games | Bob Feller | Cleveland | 31
+1940,American League,table_2,ERA | Bob Feller | Cleveland | 2.61
+1940,American League,table_2,Games | Bob Feller | Cleveland | 43
+1940,American League,table_2,Saves | Al Benton | Detroit | 17
+1940,American League,table_2,Shutouts | Bob Feller | Cleveland | 4
+1940,American League,table_2,Strikeouts | Bob Feller | Cleveland | 261
+1940,American League,table_2,Winning Percentage | Schoolboy Rowe | Detroit | .842
+1940,American League,table_2,Wins | Bob Feller | Cleveland | 27
+1940,American League,table_5,Complete Games | Chicago | 83
+1940,American League,table_5,ERA | Cleveland | 3.64
+1940,American League,table_5,"Fewest Hits Allowed | Cleveland | 1,328"
+1940,American League,table_5,Fewest Home Runs Allowed | Cleveland | 86
+1940,American League,table_5,Fewest Walks Allowed | Chicago | 480
+1940,American League,table_5,Saves | Detroit | 23
+1940,American League,table_5,Shutouts | Cleveland | 13
+1940,American League,table_5,Strikeouts | Detroit | 752

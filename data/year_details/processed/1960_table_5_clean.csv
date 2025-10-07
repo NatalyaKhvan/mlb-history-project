@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Milwaukee,55
-table_5,ERA,Los Angeles,3.40
-table_5,Fewest Hits Allowed,Los Angeles,"1,218"
-table_5,Fewest Home Runs Allowed,Pittsburgh,105
-table_5,Fewest Walks Allowed,Pittsburgh,386
-table_5,Saves,Cincinnati,35
-table_5,Shutouts,San Francisco,16
-table_5,Strikeouts,Los Angeles,"1,122"
+Year,Category,Statistic,Team,Value
+1960,Team Pitching Stats,Complete Games,Milwaukee,55
+1960,Team Pitching Stats,ERA,Los Angeles,3.40
+1960,Team Pitching Stats,Fewest Hits Allowed,Los Angeles,"1,218"
+1960,Team Pitching Stats,Fewest Home Runs Allowed,Pittsburgh,105
+1960,Team Pitching Stats,Fewest Walks Allowed,Pittsburgh,386
+1960,Team Pitching Stats,Saves,Cincinnati,35
+1960,Team Pitching Stats,Shutouts,San Francisco,16
+1960,Team Pitching Stats,Strikeouts,Los Angeles,"1,122"

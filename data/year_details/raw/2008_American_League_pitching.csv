@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Roy Halladay | Toronto | 9 | Top 25
-table_2,ERA | Cliff Lee | Cleveland | 2.54 | Top 25
-table_2,Games | Matt Guerrier | Minnesota | 76 | Top 25
-table_2,Saves | Francisco Rodriguez | Los Angeles | 62 | Top 25
-table_2,Shutouts | Matt Garza | Tampa Bay | 2 | Top 25
-table_2,Strikeouts | A.J. Burnett | Toronto | 231 | Top 25
-table_2,Winning Percentage | Cliff Lee | Cleveland | .880 | Top 25
-table_2,Wins | Cliff Lee | Cleveland | 22 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2008,American League,table_2,Complete Games | Roy Halladay | Toronto | 9
+2008,American League,table_2,ERA | Cliff Lee | Cleveland | 2.54
+2008,American League,table_2,Games | Matt Guerrier | Minnesota | 76
+2008,American League,table_2,Saves | Francisco Rodriguez | Los Angeles | 62
+2008,American League,table_2,Shutouts | Matt Garza | Tampa Bay | 2
+2008,American League,table_2,Strikeouts | A.J. Burnett | Toronto | 231
+2008,American League,table_2,Winning Percentage | Cliff Lee | Cleveland | .880
+2008,American League,table_2,Wins | Cliff Lee | Cleveland | 22

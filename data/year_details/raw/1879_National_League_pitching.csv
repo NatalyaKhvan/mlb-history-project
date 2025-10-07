@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Will White | Cincinnati | 75 | Top 25
-table_2,ERA | Tommy Bond | Boston | 1.96 | Top 25
-table_2,Games | Will White | Cincinnati | 76 | Top 25
-table_2,Saves | Bobby Mathews | Providence | 2 | Top 25
-table_2,Shutouts | Tommy Bond | Boston | 11 | Top 25
-table_2,Strikeouts | John Ward | Providence | 239 | Top 25
-table_2,Winning Percentage | John Ward | Providence | .712 | Top 25
-table_2,Wins | John Ward | Providence | 47 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 82
-table_5,ERA | Providence | 2.18
-table_5,Fewest Hits Allowed | Buffalo | 698
-table_5,Fewest Home Runs Allowed | Buffalo | 3
-table_5,Fewest Walks Allowed | Boston | 46
-table_5,Saves | Providence | 2
-table_5,Shutouts | Boston | 13
-table_5,Strikeouts | Providence | 329
-table_5,Statistic | Team | #
+year,league,category,text
+1879,National League,table_2,Complete Games | Will White | Cincinnati | 75
+1879,National League,table_2,ERA | Tommy Bond | Boston | 1.96
+1879,National League,table_2,Games | Will White | Cincinnati | 76
+1879,National League,table_2,Saves | Bobby Mathews | Providence | 2
+1879,National League,table_2,Shutouts | Tommy Bond | Boston | 11
+1879,National League,table_2,Strikeouts | John Ward | Providence | 239
+1879,National League,table_2,Winning Percentage | John Ward | Providence | .712
+1879,National League,table_2,Wins | John Ward | Providence | 47
+1879,National League,table_5,Complete Games | Chicago | 82
+1879,National League,table_5,ERA | Providence | 2.18
+1879,National League,table_5,Fewest Hits Allowed | Buffalo | 698
+1879,National League,table_5,Fewest Home Runs Allowed | Buffalo | 3
+1879,National League,table_5,Fewest Walks Allowed | Boston | 46
+1879,National League,table_5,Saves | Providence | 2
+1879,National League,table_5,Shutouts | Boston | 13
+1879,National League,table_5,Strikeouts | Providence | 329

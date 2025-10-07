@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Walter Johnson | Washington | 29 | Top 25
-table_2,ERA | Walter Johnson | Washington | 1.14 | Top 25
-table_2,Games | Reb Russell | Chicago | 52 | Top 25
-table_2,Saves | Chief Bender | Philadelphia | 13 | Top 25
-table_2,Shutouts | Walter Johnson | Washington | 11 | Top 25
-table_2,Strikeouts | Walter Johnson | Washington | 243 | Top 25
-table_2,Winning Percentage | Walter Johnson | Washington | .837 | Top 25
-table_2,Wins | Walter Johnson | Washington | 36 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | St. Louis | 104
-table_5,ERA | Chicago | 2.33
-table_5,"Fewest Hits Allowed | Washington | 1,177"
-table_5,Fewest Home Runs Allowed | Boston | 6
-table_5,Fewest Walks Allowed | Chicago | 438
-table_5,Saves | Philadelphia | 22
-table_5,Shutouts | Washington | 23
-table_5,Strikeouts | Washington | 758
-table_5,Statistic | Team | #
+year,league,category,text
+1913,American League,table_2,Complete Games | Walter Johnson | Washington | 29
+1913,American League,table_2,ERA | Walter Johnson | Washington | 1.14
+1913,American League,table_2,Games | Reb Russell | Chicago | 52
+1913,American League,table_2,Saves | Chief Bender | Philadelphia | 13
+1913,American League,table_2,Shutouts | Walter Johnson | Washington | 11
+1913,American League,table_2,Strikeouts | Walter Johnson | Washington | 243
+1913,American League,table_2,Winning Percentage | Walter Johnson | Washington | .837
+1913,American League,table_2,Wins | Walter Johnson | Washington | 36
+1913,American League,table_5,Complete Games | St. Louis | 104
+1913,American League,table_5,ERA | Chicago | 2.33
+1913,American League,table_5,"Fewest Hits Allowed | Washington | 1,177"
+1913,American League,table_5,Fewest Home Runs Allowed | Boston | 6
+1913,American League,table_5,Fewest Walks Allowed | Chicago | 438
+1913,American League,table_5,Saves | Philadelphia | 22
+1913,American League,table_5,Shutouts | Washington | 23
+1913,American League,table_5,Strikeouts | Washington | 758

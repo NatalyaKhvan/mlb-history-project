@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Lew Burdette,Milwaukee,18,Top 25
-table_2,ERA,Mike McCormick,San Francisco,2.70,Top 25
-table_2,Games,Roy Face,Pittsburgh,68,Top 25
-table_2,Saves,Lindy McDaniel,St. Louis,26,Top 25
-table_2,Shutouts,Jack Sanford,San Francisco,6,Top 25
-table_2,Strikeouts,Don Drysdale,Los Angeles,246,Top 25
-table_2,Winning Percentage,Ernie Broglio,St. Louis,.700,Top 25
-table_2,Wins,Ernie Broglio,St. Louis,21,Top 25
+Year,Category,Statistic,Player,Team,Value
+1960,Individual Pitching Stats,Complete Games,Lew Burdette,Milwaukee,18
+1960,Individual Pitching Stats,ERA,Mike McCormick,San Francisco,2.70
+1960,Individual Pitching Stats,Games,Roy Face,Pittsburgh,68
+1960,Individual Pitching Stats,Saves,Lindy McDaniel,St. Louis,26
+1960,Individual Pitching Stats,Shutouts,Jack Sanford,San Francisco,6
+1960,Individual Pitching Stats,Strikeouts,Don Drysdale,Los Angeles,246
+1960,Individual Pitching Stats,Winning Percentage,Ernie Broglio,St. Louis,.700
+1960,Individual Pitching Stats,Wins,Ernie Broglio,St. Louis,21

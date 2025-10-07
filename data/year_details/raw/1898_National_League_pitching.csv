@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jack Taylor | St. Louis | 42 | Top 25
-table_2,ERA | Clark Griffith | Chicago | 1.88 | Top 25
-table_2,Games | Kid Nichols | Boston | 50 | Top 25
-table_2,Saves | Kid Nichols | Boston | 4 | Top 25
-table_2,Shutouts | Wiley Piatt | Philadelphia | 6 | Top 25
-table_2,Strikeouts | Cy Seymour | New York | 239 | Top 25
-table_2,Winning Percentage | Ted Lewis | Boston | .765 | Top 25
-table_2,Wins | Kid Nichols | Boston | 31 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 142
-table_5,ERA | Chicago | 2.83
-table_5,"Fewest Hits Allowed | Boston | 1,186"
-table_5,Fewest Home Runs Allowed | Pittsburgh | 14
-table_5,Fewest Walks Allowed | Cleveland | 309
-table_5,Saves | Boston | 8
-table_5,Shutouts | Chicago | 13
-table_5,Strikeouts | New York | 558
-table_5,Statistic | Team | #
+year,league,category,text
+1898,National League,table_2,Complete Games | Jack Taylor | St. Louis | 42
+1898,National League,table_2,ERA | Clark Griffith | Chicago | 1.88
+1898,National League,table_2,Games | Kid Nichols | Boston | 50
+1898,National League,table_2,Saves | Kid Nichols | Boston | 4
+1898,National League,table_2,Shutouts | Wiley Piatt | Philadelphia | 6
+1898,National League,table_2,Strikeouts | Cy Seymour | New York | 239
+1898,National League,table_2,Winning Percentage | Ted Lewis | Boston | .765
+1898,National League,table_2,Wins | Kid Nichols | Boston | 31
+1898,National League,table_5,Complete Games | Cleveland | 142
+1898,National League,table_5,ERA | Chicago | 2.83
+1898,National League,table_5,"Fewest Hits Allowed | Boston | 1,186"
+1898,National League,table_5,Fewest Home Runs Allowed | Pittsburgh | 14
+1898,National League,table_5,Fewest Walks Allowed | Cleveland | 309
+1898,National League,table_5,Saves | Boston | 8
+1898,National League,table_5,Shutouts | Chicago | 13
+1898,National League,table_5,Strikeouts | New York | 558

@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jim Devlin | Louisville | 61 | Top 25
-table_2,ERA | Tommy Bond | Boston | 2.11 | Top 25
-table_2,Games | Jim Devlin | Louisville | 61 | Top 25
-table_2,Saves | Cal McVey | Chicago | 2 | Top 25
-table_2,Shutouts | Tommy Bond | Boston | 6 | Top 25
-table_2,Strikeouts | Tommy Bond | Boston | 170 | Top 25
-table_2,Winning Percentage | Tommy Bond | Boston | .702 | Top 25
-table_2,Wins | Tommy Bond | Boston | 40 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Boston | 61
-table_5,ERA | Boston | 2.15
-table_5,Fewest Hits Allowed | Boston | 557
-table_5,Fewest Home Runs Allowed | Hartford | 2
-table_5,Fewest Walks Allowed | Boston | 38
-table_5,Saves | Chicago | 3
-table_5,Shutouts | Boston | 7
-table_5,Strikeouts | Boston | 177
-table_5,Statistic | Team | #
+year,league,category,text
+1877,National League,table_2,Complete Games | Jim Devlin | Louisville | 61
+1877,National League,table_2,ERA | Tommy Bond | Boston | 2.11
+1877,National League,table_2,Games | Jim Devlin | Louisville | 61
+1877,National League,table_2,Saves | Cal McVey | Chicago | 2
+1877,National League,table_2,Shutouts | Tommy Bond | Boston | 6
+1877,National League,table_2,Strikeouts | Tommy Bond | Boston | 170
+1877,National League,table_2,Winning Percentage | Tommy Bond | Boston | .702
+1877,National League,table_2,Wins | Tommy Bond | Boston | 40
+1877,National League,table_5,Complete Games | Boston | 61
+1877,National League,table_5,ERA | Boston | 2.15
+1877,National League,table_5,Fewest Hits Allowed | Boston | 557
+1877,National League,table_5,Fewest Home Runs Allowed | Hartford | 2
+1877,National League,table_5,Fewest Walks Allowed | Boston | 38
+1877,National League,table_5,Saves | Chicago | 3
+1877,National League,table_5,Shutouts | Boston | 7
+1877,National League,table_5,Strikeouts | Boston | 177

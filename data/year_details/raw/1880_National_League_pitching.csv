@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Jim McCormick | Cleveland | 72 | Top 25
-table_2,ERA | Tim Keefe | Troy | 0.86 | Top 25
-table_2,Games | Jim McCormick | Cleveland | 74 | Top 25
-table_2,Saves | Lee Richmond | Worcester | 3 | Top 25
-table_2,Shutouts | John Ward | Providence | 8 | Top 25
-table_2,Strikeouts | Larry Corcoran | Chicago | 268 | Top 25
-table_2,Winning Percentage | Fred Goldsmith | Chicago | .875 | Top 25
-table_2,Wins | Jim McCormick | Cleveland | 45 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 83
-table_5,ERA | Providence | 1.64
-table_5,Fewest Hits Allowed | Chicago | 622
-table_5,Fewest Home Runs Allowed | Boston | 2
-table_5,Fewest Walks Allowed | Providence | 51
-table_5,Saves | Worcester | 5
-table_5,Shutouts | Providence | 13
-table_5,Strikeouts | Chicago | 367
-table_5,Statistic | Team | #
+year,league,category,text
+1880,National League,table_2,Complete Games | Jim McCormick | Cleveland | 72
+1880,National League,table_2,ERA | Tim Keefe | Troy | 0.86
+1880,National League,table_2,Games | Jim McCormick | Cleveland | 74
+1880,National League,table_2,Saves | Lee Richmond | Worcester | 3
+1880,National League,table_2,Shutouts | John Ward | Providence | 8
+1880,National League,table_2,Strikeouts | Larry Corcoran | Chicago | 268
+1880,National League,table_2,Winning Percentage | Fred Goldsmith | Chicago | .875
+1880,National League,table_2,Wins | Jim McCormick | Cleveland | 45
+1880,National League,table_5,Complete Games | Cleveland | 83
+1880,National League,table_5,ERA | Providence | 1.64
+1880,National League,table_5,Fewest Hits Allowed | Chicago | 622
+1880,National League,table_5,Fewest Home Runs Allowed | Boston | 2
+1880,National League,table_5,Fewest Walks Allowed | Providence | 51
+1880,National League,table_5,Saves | Worcester | 5
+1880,National League,table_5,Shutouts | Providence | 13
+1880,National League,table_5,Strikeouts | Chicago | 367

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Detroit,59
-table_5,ERA,Cleveland,2.66
-table_5,Fewest Hits Allowed,Cleveland,"1,087"
-table_5,Fewest Home Runs Allowed,Minnesota,92
-table_5,Fewest Walks Allowed,Minnesota,414
-table_5,Saves,Chicago,40
-table_5,Shutouts,Cleveland,23
-table_5,Strikeouts,Cleveland,"1,157"
+Year,Category,Statistic,Team,Value
+1968,Team Pitching Stats,Complete Games,Detroit,59
+1968,Team Pitching Stats,ERA,Cleveland,2.66
+1968,Team Pitching Stats,Fewest Hits Allowed,Cleveland,"1,087"
+1968,Team Pitching Stats,Fewest Home Runs Allowed,Minnesota,92
+1968,Team Pitching Stats,Fewest Walks Allowed,Minnesota,414
+1968,Team Pitching Stats,Saves,Chicago,40
+1968,Team Pitching Stats,Shutouts,Cleveland,23
+1968,Team Pitching Stats,Strikeouts,Cleveland,"1,157"

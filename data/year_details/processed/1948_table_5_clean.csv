@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Philadelphia,74
-table_5,ERA,Cleveland,3.23
-table_5,Fewest Hits Allowed,Cleveland,"1,246"
-table_5,Fewest Home Runs Allowed,Washington,81
-table_5,Fewest Walks Allowed,Detroit,589
-table_5,Saves,Cleveland,30
-table_5,Shutouts,Cleveland,26
-table_5,Strikeouts,Detroit,678
+Year,Category,Statistic,Team,Value
+1948,Team Pitching Stats,Complete Games,Philadelphia,74
+1948,Team Pitching Stats,ERA,Cleveland,3.23
+1948,Team Pitching Stats,Fewest Hits Allowed,Cleveland,"1,246"
+1948,Team Pitching Stats,Fewest Home Runs Allowed,Washington,81
+1948,Team Pitching Stats,Fewest Walks Allowed,Detroit,589
+1948,Team Pitching Stats,Saves,Cleveland,30
+1948,Team Pitching Stats,Shutouts,Cleveland,26
+1948,Team Pitching Stats,Strikeouts,Detroit,678

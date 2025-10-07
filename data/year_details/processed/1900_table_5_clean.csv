@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,137
-table_5,ERA,Pittsburgh,3.06
-table_5,Fewest Hits Allowed,Pittsburgh,"1,232"
-table_5,Fewest Home Runs Allowed,Chicago,21
-table_5,Fewest Walks Allowed,Pittsburgh,295
-table_5,Saves,Brooklyn,4
-table_5,Shutouts,St. Louis,12
-table_5,Strikeouts,Pittsburgh,415
+Year,Category,Statistic,Team,Value
+1900,Team Pitching Stats,Complete Games,Chicago,137
+1900,Team Pitching Stats,ERA,Pittsburgh,3.06
+1900,Team Pitching Stats,Fewest Hits Allowed,Pittsburgh,"1,232"
+1900,Team Pitching Stats,Fewest Home Runs Allowed,Chicago,21
+1900,Team Pitching Stats,Fewest Walks Allowed,Pittsburgh,295
+1900,Team Pitching Stats,Saves,Brooklyn,4
+1900,Team Pitching Stats,Shutouts,St. Louis,12
+1900,Team Pitching Stats,Strikeouts,Pittsburgh,415

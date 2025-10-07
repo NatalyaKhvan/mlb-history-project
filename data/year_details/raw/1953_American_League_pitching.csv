@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Bob Porterfield | Washington | 24 | Top 25
-table_2,ERA | Ed Lopat | New York | 2.42 | Top 25
-table_2,Games | Ellis Kinder | Boston | 69 | Top 25
-table_2,Saves | Ellis Kinder | Boston | 27 | Top 25
-table_2,Shutouts | Bob Porterfield | Washington | 9 | Top 25
-table_2,Strikeouts | Billy Pierce | New York | 186 | Top 25
-table_2,Winning Percentage | Ed Lopat | New York | .800 | Top 25
-table_2,Wins | Bob Porterfield | Washington | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 81
-table_5,ERA | New York | 3.21
-table_5,"Fewest Hits Allowed | New York | 1,286"
-table_5,Fewest Home Runs Allowed | Boston | 92
-table_5,Fewest Walks Allowed | Washington | 478
-table_5,Saves | New York | 39
-table_5,Shutouts | New York | 18
-table_5,Strikeouts | Chicago | 714
+year,league,category,text
+1953,American League,table_2,Complete Games | Bob Porterfield | Washington | 24
+1953,American League,table_2,ERA | Ed Lopat | New York | 2.42
+1953,American League,table_2,Games | Ellis Kinder | Boston | 69
+1953,American League,table_2,Saves | Ellis Kinder | Boston | 27
+1953,American League,table_2,Shutouts | Bob Porterfield | Washington | 9
+1953,American League,table_2,Strikeouts | Billy Pierce | New York | 186
+1953,American League,table_2,Winning Percentage | Ed Lopat | New York | .800
+1953,American League,table_2,Wins | Bob Porterfield | Washington | 22
+1953,American League,table_5,Complete Games | Cleveland | 81
+1953,American League,table_5,ERA | New York | 3.21
+1953,American League,table_5,"Fewest Hits Allowed | New York | 1,286"
+1953,American League,table_5,Fewest Home Runs Allowed | Boston | 92
+1953,American League,table_5,Fewest Walks Allowed | Washington | 478
+1953,American League,table_5,Saves | New York | 39
+1953,American League,table_5,Shutouts | New York | 18
+1953,American League,table_5,Strikeouts | Chicago | 714

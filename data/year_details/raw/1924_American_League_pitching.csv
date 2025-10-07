@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Sloppy Thurston | Chicago | 28 | Top 25
-table_2,ERA | Walter Johnson | Washington | 2.72 | Top 25
-table_2,Games | Firpo Marberry | Washington | 50 | Top 25
-table_2,Saves | Firpo Marberry | Washington | 15 | Top 25
-table_2,Shutouts | Walter Johnson | Washington | 6 | Top 25
-table_2,Strikeouts | Walter Johnson | Washington | 158 | Top 25
-table_2,Winning Percentage | Walter Johnson | Washington | .767 | Top 25
-table_2,Wins | Walter Johnson | Washington | 23 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cleveland | 87
-table_5,ERA | Washington | 3.35
-table_5,"Fewest Hits Allowed | Washington | 1,329"
-table_5,Fewest Home Runs Allowed | Washington | 34
-table_5,Fewest Walks Allowed | Detroit | 467
-table_5,Saves | Washington | 25
-table_5,Shutouts | New York | 13
-table_5,Strikeouts | New York | 487
+year,league,category,text
+1924,American League,table_2,Complete Games | Sloppy Thurston | Chicago | 28
+1924,American League,table_2,ERA | Walter Johnson | Washington | 2.72
+1924,American League,table_2,Games | Firpo Marberry | Washington | 50
+1924,American League,table_2,Saves | Firpo Marberry | Washington | 15
+1924,American League,table_2,Shutouts | Walter Johnson | Washington | 6
+1924,American League,table_2,Strikeouts | Walter Johnson | Washington | 158
+1924,American League,table_2,Winning Percentage | Walter Johnson | Washington | .767
+1924,American League,table_2,Wins | Walter Johnson | Washington | 23
+1924,American League,table_5,Complete Games | Cleveland | 87
+1924,American League,table_5,ERA | Washington | 3.35
+1924,American League,table_5,"Fewest Hits Allowed | Washington | 1,329"
+1924,American League,table_5,Fewest Home Runs Allowed | Washington | 34
+1924,American League,table_5,Fewest Walks Allowed | Detroit | 467
+1924,American League,table_5,Saves | Washington | 25
+1924,American League,table_5,Shutouts | New York | 13
+1924,American League,table_5,Strikeouts | New York | 487

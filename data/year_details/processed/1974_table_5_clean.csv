@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Boston,71
-table_5,ERA,Oakland,2.96
-table_5,Fewest Hits Allowed,Oakland,"1,322"
-table_5,Fewest Home Runs Allowed,Oakland,90
-table_5,Fewest Walks Allowed,Oakland,430
-table_5,Saves,Chicago,29
-table_5,Shutouts,Baltimore,16
-table_5,Strikeouts,California,986
+Year,Category,Statistic,Team,Value
+1974,Team Pitching Stats,Complete Games,Boston,71
+1974,Team Pitching Stats,ERA,Oakland,2.96
+1974,Team Pitching Stats,Fewest Hits Allowed,Oakland,"1,322"
+1974,Team Pitching Stats,Fewest Home Runs Allowed,Oakland,90
+1974,Team Pitching Stats,Fewest Walks Allowed,Oakland,430
+1974,Team Pitching Stats,Saves,Chicago,29
+1974,Team Pitching Stats,Shutouts,Baltimore,16
+1974,Team Pitching Stats,Strikeouts,California,986

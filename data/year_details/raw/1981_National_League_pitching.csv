@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Fernando Valenzuela | Los Angeles | 11 | Top 25
-table_2,ERA | Nolan Ryan | Houston | 1.69 | Top 25
-table_2,Games | Gary Lucas | San Diego | 57 | Top 25
-table_2,Saves | Bruce Sutter | St. Louis | 25 | Top 25
-table_2,Shutouts | Fernando Valenzuela | Los Angeles | 8 | Top 25
-table_2,Strikeouts | Fernando Valenzuela | Los Angeles | 180 | Top 25
-table_2,Winning Percentage | Tom Seaver | Cincinnati | .875 | Top 25
-table_2,Wins | Tom Seaver | Cincinnati | 14 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Los Angeles | 26
-table_5,ERA | Houston | 2.67
-table_5,Fewest Hits Allowed | Houston | 842
-table_5,Fewest Home Runs Allowed | Houston | 40
-table_5,Fewest Walks Allowed | Montreal | 268
-table_5,Saves | San Francisco | 33
-table_5,Shutouts | Houston | 19
-table_5,Strikeouts | Houston | 610
+year,league,category,text
+1981,National League,table_2,Complete Games | Fernando Valenzuela | Los Angeles | 11
+1981,National League,table_2,ERA | Nolan Ryan | Houston | 1.69
+1981,National League,table_2,Games | Gary Lucas | San Diego | 57
+1981,National League,table_2,Saves | Bruce Sutter | St. Louis | 25
+1981,National League,table_2,Shutouts | Fernando Valenzuela | Los Angeles | 8
+1981,National League,table_2,Strikeouts | Fernando Valenzuela | Los Angeles | 180
+1981,National League,table_2,Winning Percentage | Tom Seaver | Cincinnati | .875
+1981,National League,table_2,Wins | Tom Seaver | Cincinnati | 14
+1981,National League,table_5,Complete Games | Los Angeles | 26
+1981,National League,table_5,ERA | Houston | 2.67
+1981,National League,table_5,Fewest Hits Allowed | Houston | 842
+1981,National League,table_5,Fewest Home Runs Allowed | Houston | 40
+1981,National League,table_5,Fewest Walks Allowed | Montreal | 268
+1981,National League,table_5,Saves | San Francisco | 33
+1981,National League,table_5,Shutouts | Houston | 19
+1981,National League,table_5,Strikeouts | Houston | 610

@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Walter Johnson | Washington | 33 | Top 25
-table_2,ERA | Dutch Leonard | Boston | 0.96 | Top 25
-table_2,Games | Walter Johnson | Washington | 51 | Top 25
-table_2,Saves | Jack Bentley | Washington | 4 | Top 25
-table_2,Shutouts | Walter Johnson | Washington | 9 | Top 25
-table_2,Strikeouts | Walter Johnson | Washington | 225 | Top 25
-table_2,Winning Percentage | Chief Bender | Philadelphia | .850 | Top 25
-table_2,Wins | Walter Johnson | Washington | 28 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 98
-table_5,ERA | Boston | 2.36
-table_5,"Fewest Hits Allowed | Washington | 1,170"
-table_5,Fewest Home Runs Allowed | Cleveland | 10
-table_5,Fewest Walks Allowed | New York | 390
-table_5,Saves | Washington | 20
-table_5,Shutouts | Washington | 25
-table_5,Strikeouts | Washington | 784
-table_5,Statistic | Team | #
+year,league,category,text
+1914,American League,table_2,Complete Games | Walter Johnson | Washington | 33
+1914,American League,table_2,ERA | Dutch Leonard | Boston | 0.96
+1914,American League,table_2,Games | Walter Johnson | Washington | 51
+1914,American League,table_2,Saves | Jack Bentley | Washington | 4
+1914,American League,table_2,Shutouts | Walter Johnson | Washington | 9
+1914,American League,table_2,Strikeouts | Walter Johnson | Washington | 225
+1914,American League,table_2,Winning Percentage | Chief Bender | Philadelphia | .850
+1914,American League,table_2,Wins | Walter Johnson | Washington | 28
+1914,American League,table_5,Complete Games | New York | 98
+1914,American League,table_5,ERA | Boston | 2.36
+1914,American League,table_5,"Fewest Hits Allowed | Washington | 1,170"
+1914,American League,table_5,Fewest Home Runs Allowed | Cleveland | 10
+1914,American League,table_5,Fewest Walks Allowed | New York | 390
+1914,American League,table_5,Saves | Washington | 20
+1914,American League,table_5,Shutouts | Washington | 25
+1914,American League,table_5,Strikeouts | Washington | 784

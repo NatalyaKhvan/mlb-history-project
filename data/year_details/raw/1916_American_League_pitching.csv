@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Walter Johnson | Washington | 36 | Top 25
-table_2,ERA | Babe Ruth | Boston | 1.75 | Top 25
-table_2,Games | Dave Davenport | St. Louis | 59 | Top 25
-table_2,Saves | Bob Shawkey | New York | 8 | Top 25
-table_2,Shutouts | Babe Ruth | Boston | 9 | Top 25
-table_2,Strikeouts | Walter Johnson | Washington | 228 | Top 25
-table_2,Winning Percentage | Nick Cullop | New York | .684 | Top 25
-table_2,Wins | Walter Johnson | Washington | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Philadelphia | 94
-table_5,ERA | Chicago | 2.36
-table_5,"Fewest Hits Allowed | Chicago | 1,189"
-table_5,Fewest Home Runs Allowed | Boston | 10
-table_5,Fewest Walks Allowed | Chicago | 405
-table_5,Saves | New York | 17
-table_5,Shutouts | Boston | 24
-table_5,Strikeouts | Washington | 706
-table_5,Statistic | Team | #
+year,league,category,text
+1916,American League,table_2,Complete Games | Walter Johnson | Washington | 36
+1916,American League,table_2,ERA | Babe Ruth | Boston | 1.75
+1916,American League,table_2,Games | Dave Davenport | St. Louis | 59
+1916,American League,table_2,Saves | Bob Shawkey | New York | 8
+1916,American League,table_2,Shutouts | Babe Ruth | Boston | 9
+1916,American League,table_2,Strikeouts | Walter Johnson | Washington | 228
+1916,American League,table_2,Winning Percentage | Nick Cullop | New York | .684
+1916,American League,table_2,Wins | Walter Johnson | Washington | 25
+1916,American League,table_5,Complete Games | Philadelphia | 94
+1916,American League,table_5,ERA | Chicago | 2.36
+1916,American League,table_5,"Fewest Hits Allowed | Chicago | 1,189"
+1916,American League,table_5,Fewest Home Runs Allowed | Boston | 10
+1916,American League,table_5,Fewest Walks Allowed | Chicago | 405
+1916,American League,table_5,Saves | New York | 17
+1916,American League,table_5,Shutouts | Boston | 24
+1916,American League,table_5,Strikeouts | Washington | 706

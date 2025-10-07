@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Wilbur Cooper | Pittsburgh | 27 | Top 25
-table_2,ERA | Phil Douglas | New York | 2.63 | Top 25
-table_2,Games | Lou North | St. Louis | 53 | Top 25
-table_2,Saves | Claude Jonnard | New York | 5 | Top 25
-table_2,Shutouts | Johnny Morrison | Pittsburgh | 5 | Top 25
-table_2,Strikeouts | Dazzy Vance | Brooklyn | 134 | Top 25
-table_2,Winning Percentage | Pete Donohue | Cincinnati | .667 | Top 25
-table_2,Wins | Eppa Rixey | Cincinnati | 25 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Cincinnati | 88
-table_5,ERA | New York | 3.45
-table_5,"Fewest Hits Allowed | New York | 1,454"
-table_5,Fewest Home Runs Allowed | Cincinnati | 49
-table_5,Fewest Walks Allowed | Cincinnati | 326
-table_5,Saves | New York | 15
-table_5,Shutouts | Pittsburgh | 15
-table_5,Strikeouts | Brooklyn | 499
-table_5,Statistic | Team | #
+year,league,category,text
+1922,National League,table_2,Complete Games | Wilbur Cooper | Pittsburgh | 27
+1922,National League,table_2,ERA | Phil Douglas | New York | 2.63
+1922,National League,table_2,Games | Lou North | St. Louis | 53
+1922,National League,table_2,Saves | Claude Jonnard | New York | 5
+1922,National League,table_2,Shutouts | Johnny Morrison | Pittsburgh | 5
+1922,National League,table_2,Strikeouts | Dazzy Vance | Brooklyn | 134
+1922,National League,table_2,Winning Percentage | Pete Donohue | Cincinnati | .667
+1922,National League,table_2,Wins | Eppa Rixey | Cincinnati | 25
+1922,National League,table_5,Complete Games | Cincinnati | 88
+1922,National League,table_5,ERA | New York | 3.45
+1922,National League,table_5,"Fewest Hits Allowed | New York | 1,454"
+1922,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 49
+1922,National League,table_5,Fewest Walks Allowed | Cincinnati | 326
+1922,National League,table_5,Saves | New York | 15
+1922,National League,table_5,Shutouts | Pittsburgh | 15
+1922,National League,table_5,Strikeouts | Brooklyn | 499

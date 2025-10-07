@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Dick Donovan | Chicago | 16 | Top 25
-table_2,ERA | Bobby Shantz | New York | 2.45 | Top 25
-table_2,Games | George Zuverink | Baltimore | 56 | Top 25
-table_2,Saves | Bob Grim | New York | 19 | Top 25
-table_2,Shutouts | Jim Wilson | Chicago | 5 | Top 25
-table_2,Strikeouts | Early Wynn | Cleveland | 184 | Top 25
-table_2,Winning Percentage | Dick Donovan | Chicago | .727 | Top 25
-table_2,Wins | Jim Bunning | Detroit | 20 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Chicago | 59
-table_5,ERA | New York | 3.00
-table_5,"Fewest Hits Allowed | New York | 1,198"
-table_5,Fewest Home Runs Allowed | Baltimore | 95
-table_5,Fewest Walks Allowed | Chicago | 470
-table_5,Saves | New York | 42
-table_5,Shutouts | Chicago | 16
-table_5,Strikeouts | New York | 810
+year,league,category,text
+1957,American League,table_2,Complete Games | Dick Donovan | Chicago | 16
+1957,American League,table_2,ERA | Bobby Shantz | New York | 2.45
+1957,American League,table_2,Games | George Zuverink | Baltimore | 56
+1957,American League,table_2,Saves | Bob Grim | New York | 19
+1957,American League,table_2,Shutouts | Jim Wilson | Chicago | 5
+1957,American League,table_2,Strikeouts | Early Wynn | Cleveland | 184
+1957,American League,table_2,Winning Percentage | Dick Donovan | Chicago | .727
+1957,American League,table_2,Wins | Jim Bunning | Detroit | 20
+1957,American League,table_5,Complete Games | Chicago | 59
+1957,American League,table_5,ERA | New York | 3.00
+1957,American League,table_5,"Fewest Hits Allowed | New York | 1,198"
+1957,American League,table_5,Fewest Home Runs Allowed | Baltimore | 95
+1957,American League,table_5,Fewest Walks Allowed | Chicago | 470
+1957,American League,table_5,Saves | New York | 42
+1957,American League,table_5,Shutouts | Chicago | 16
+1957,American League,table_5,Strikeouts | New York | 810

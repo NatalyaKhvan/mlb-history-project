@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Bret Saberhagen,Kansas City,12,Top 25
-table_2,ERA,Bret Saberhagen,Kansas City,2.16,Top 25
-table_2,Games,Chuck Crim,Milwaukee,76,Top 25
-table_2,Saves,Jeff Russell,Texas,38,Top 25
-table_2,Shutouts,Bert Blyleven,California,5,Top 25
-table_2,Strikeouts,Nolan Ryan,Texas,301,Top 25
-table_2,Winning Percentage,Bret Saberhagen,Kansas City,.793,Top 25
-table_2,Wins,Bret Saberhagen,Kansas City,23,Top 25
+Year,Category,Statistic,Player,Team,Value
+1989,Individual Pitching Stats,Complete Games,Bret Saberhagen,Kansas City,12
+1989,Individual Pitching Stats,ERA,Bret Saberhagen,Kansas City,2.16
+1989,Individual Pitching Stats,Games,Chuck Crim,Milwaukee,76
+1989,Individual Pitching Stats,Saves,Jeff Russell,Texas,38
+1989,Individual Pitching Stats,Shutouts,Bert Blyleven,California,5
+1989,Individual Pitching Stats,Strikeouts,Nolan Ryan,Texas,301
+1989,Individual Pitching Stats,Winning Percentage,Bret Saberhagen,Kansas City,.793
+1989,Individual Pitching Stats,Wins,Bret Saberhagen,Kansas City,23

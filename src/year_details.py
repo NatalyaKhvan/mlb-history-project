@@ -44,7 +44,7 @@ for entry in years:
     try:
         wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
     except:
-        print(f"⚠️ Could not load {url}")
+        print(f"Could not load {url}")
         continue
 
     pitching_sections = []
@@ -62,13 +62,24 @@ for entry in years:
         for row in rows:
             cols = row.find_elements(By.TAG_NAME, "td")
             col_texts = [c.text.strip() for c in cols if c.text.strip()]
-            if len(col_texts) >= 3:  # Keep rows with meaningful data
+
+            # Skip rows with too few columns or repeated header rows
+            if len(col_texts) >= 3 and col_texts[0].lower() != "statistic":
+                # Remove trailing "Top 25" if present in the last column
+                if col_texts[-1].lower() == "top 25":
+                    col_texts = col_texts[:-1]
+
                 pitching_sections.append(
-                    {"category": f"table_{idx}", "text": " | ".join(col_texts)}
+                    {
+                        "year": year,
+                        "league": league,
+                        "category": f"table_{idx}",
+                        "text": " | ".join(col_texts),
+                    }
                 )
 
     if not pitching_sections:
-        print(f"⚠️ No pitching tables found for {year}")
+        print(f"No pitching tables found for {year}")
         continue
 
     # Save to CSV
@@ -77,7 +88,7 @@ for entry in years:
     csv_path = os.path.join(raw_folder, csv_filename)
 
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["category", "text"])
+        writer = csv.DictWriter(f, fieldnames=["year", "league", "category", "text"])
         writer.writeheader()
         writer.writerows(pitching_sections)
 

@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Randy Johnson | Arizona | 12 | Top 25
-table_2,ERA | Randy Johnson | Arizona | 2.48 | Top 25
-table_2,Games | Steve Kline | Montreal | 82 | Top 25
-table_2,Saves | Ugueth Urbina | Montreal | 41 | Top 25
-table_2,Shutouts | Andy Ashby | San Diego | 3 | Top 25
-table_2,Strikeouts | Randy Johnson | Arizona | 364 | Top 25
-table_2,Winning Percentage | Mike Hampton | Houston | .846 | Top 25
-table_2,Wins | Mike Hampton | Houston | 22 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Arizona | 16
-table_5,ERA | Atlanta | 3.65
-table_5,"Fewest Hits Allowed | Cincinnati | 1,309"
-table_5,Fewest Home Runs Allowed | Houston | 128
-table_5,Fewest Walks Allowed | Houston | 478
-table_5,Saves | Cincinnati | 55
-table_5,Shutouts | Houston | 5
-table_5,"Strikeouts | Houston | 1,204"
+year,league,category,text
+1999,National League,table_2,Complete Games | Randy Johnson | Arizona | 12
+1999,National League,table_2,ERA | Randy Johnson | Arizona | 2.48
+1999,National League,table_2,Games | Steve Kline | Montreal | 82
+1999,National League,table_2,Saves | Ugueth Urbina | Montreal | 41
+1999,National League,table_2,Shutouts | Andy Ashby | San Diego | 3
+1999,National League,table_2,Strikeouts | Randy Johnson | Arizona | 364
+1999,National League,table_2,Winning Percentage | Mike Hampton | Houston | .846
+1999,National League,table_2,Wins | Mike Hampton | Houston | 22
+1999,National League,table_5,Complete Games | Arizona | 16
+1999,National League,table_5,ERA | Atlanta | 3.65
+1999,National League,table_5,"Fewest Hits Allowed | Cincinnati | 1,309"
+1999,National League,table_5,Fewest Home Runs Allowed | Houston | 128
+1999,National League,table_5,Fewest Walks Allowed | Houston | 478
+1999,National League,table_5,Saves | Cincinnati | 55
+1999,National League,table_5,Shutouts | Houston | 5
+1999,National League,table_5,"Strikeouts | Houston | 1,204"

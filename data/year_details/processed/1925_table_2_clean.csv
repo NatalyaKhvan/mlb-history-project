@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Pete Donohue,Cincinnati,27,Top 25
-table_2,ERA,Dolf Luque,Cincinnati,2.63,Top 25
-table_2,Games,Johnny Morrison,Pittsburgh,44,Top 25
-table_2,Saves,Guy Bush,Chicago,4,Top 25
-table_2,Shutouts,Hal Carlson,Philadelphia,4,Top 25
-table_2,Strikeouts,Dazzy Vance,Brooklyn,221,Top 25
-table_2,Winning Percentage,Bill Sherdel,St. Louis,.714,Top 25
-table_2,Wins,Dazzy Vance,Brooklyn,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+1925,Individual Pitching Stats,Complete Games,Pete Donohue,Cincinnati,27
+1925,Individual Pitching Stats,ERA,Dolf Luque,Cincinnati,2.63
+1925,Individual Pitching Stats,Games,Johnny Morrison,Pittsburgh,44
+1925,Individual Pitching Stats,Saves,Guy Bush,Chicago,4
+1925,Individual Pitching Stats,Shutouts,Hal Carlson,Philadelphia,4
+1925,Individual Pitching Stats,Strikeouts,Dazzy Vance,Brooklyn,221
+1925,Individual Pitching Stats,Winning Percentage,Bill Sherdel,St. Louis,.714
+1925,Individual Pitching Stats,Wins,Dazzy Vance,Brooklyn,22

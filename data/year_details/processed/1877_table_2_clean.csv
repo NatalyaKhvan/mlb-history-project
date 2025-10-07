@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Jim Devlin,Louisville,61,Top 25
-table_2,ERA,Tommy Bond,Boston,2.11,Top 25
-table_2,Games,Jim Devlin,Louisville,61,Top 25
-table_2,Saves,Cal McVey,Chicago,2,Top 25
-table_2,Shutouts,Tommy Bond,Boston,6,Top 25
-table_2,Strikeouts,Tommy Bond,Boston,170,Top 25
-table_2,Winning Percentage,Tommy Bond,Boston,.702,Top 25
-table_2,Wins,Tommy Bond,Boston,40,Top 25
+Year,Category,Statistic,Player,Team,Value
+1877,Individual Pitching Stats,Complete Games,Jim Devlin,Louisville,61
+1877,Individual Pitching Stats,ERA,Tommy Bond,Boston,2.11
+1877,Individual Pitching Stats,Games,Jim Devlin,Louisville,61
+1877,Individual Pitching Stats,Saves,Cal McVey,Chicago,2
+1877,Individual Pitching Stats,Shutouts,Tommy Bond,Boston,6
+1877,Individual Pitching Stats,Strikeouts,Tommy Bond,Boston,170
+1877,Individual Pitching Stats,Winning Percentage,Tommy Bond,Boston,.702
+1877,Individual Pitching Stats,Wins,Tommy Bond,Boston,40

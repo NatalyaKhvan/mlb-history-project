@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Chicago,75
-table_5,ERA,New York,2.99
-table_5,Fewest Hits Allowed,New York,"1,227"
-table_5,Fewest Home Runs Allowed,Houston,75
-table_5,Fewest Walks Allowed,Los Angeles,399
-table_5,Saves,Pittsburgh,48
-table_5,Shutouts,Los Angeles,18
-table_5,Strikeouts,New York,"1,157"
+Year,Category,Statistic,Team,Value
+1971,Team Pitching Stats,Complete Games,Chicago,75
+1971,Team Pitching Stats,ERA,New York,2.99
+1971,Team Pitching Stats,Fewest Hits Allowed,New York,"1,227"
+1971,Team Pitching Stats,Fewest Home Runs Allowed,Houston,75
+1971,Team Pitching Stats,Fewest Walks Allowed,Los Angeles,399
+1971,Team Pitching Stats,Saves,Pittsburgh,48
+1971,Team Pitching Stats,Shutouts,Los Angeles,18
+1971,Team Pitching Stats,Strikeouts,New York,"1,157"

@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Dave Stieb | Toronto | 19 | Top 25
-table_2,ERA | Rick Sutcliffe | Cleveland | 2.96 | Top 25
-table_2,Games | Ed Vande Berg | Seattle | 78 | Top 25
-table_2,Saves | Dan Quisenberry | Kansas City | 35 | Top 25
-table_2,Shutouts | Dave Stieb | Toronto | 5 | Top 25
-table_2,Strikeouts | Floyd Bannister | Seattle | 209 | Top 25
-table_2,Winning Percentage | Pete Vuckovich | Milwaukee | .750 | Top 25
-table_2,Wins | La Marr Hoyt | Chicago | 19 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Detroit | 45
-table_5,ERA | Detroit | 3.80
-table_5,"Fewest Hits Allowed | Detroit | 1,371"
-table_5,Fewest Home Runs Allowed | Chicago | 99
-table_5,Fewest Walks Allowed | Chicago | 460
-table_5,Saves | Milwaukee | 47
-table_5,Shutouts | Toronto | 13
-table_5,"Strikeouts | Seattle | 1,002"
+year,league,category,text
+1982,American League,table_2,Complete Games | Dave Stieb | Toronto | 19
+1982,American League,table_2,ERA | Rick Sutcliffe | Cleveland | 2.96
+1982,American League,table_2,Games | Ed Vande Berg | Seattle | 78
+1982,American League,table_2,Saves | Dan Quisenberry | Kansas City | 35
+1982,American League,table_2,Shutouts | Dave Stieb | Toronto | 5
+1982,American League,table_2,Strikeouts | Floyd Bannister | Seattle | 209
+1982,American League,table_2,Winning Percentage | Pete Vuckovich | Milwaukee | .750
+1982,American League,table_2,Wins | La Marr Hoyt | Chicago | 19
+1982,American League,table_5,Complete Games | Detroit | 45
+1982,American League,table_5,ERA | Detroit | 3.80
+1982,American League,table_5,"Fewest Hits Allowed | Detroit | 1,371"
+1982,American League,table_5,Fewest Home Runs Allowed | Chicago | 99
+1982,American League,table_5,Fewest Walks Allowed | Chicago | 460
+1982,American League,table_5,Saves | Milwaukee | 47
+1982,American League,table_5,Shutouts | Toronto | 13
+1982,American League,table_5,"Strikeouts | Seattle | 1,002"

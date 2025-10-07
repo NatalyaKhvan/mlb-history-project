@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Philadelphia,94
-table_5,ERA,Chicago,2.36
-table_5,Fewest Hits Allowed,Chicago,"1,189"
-table_5,Fewest Home Runs Allowed,Boston,10
-table_5,Fewest Walks Allowed,Chicago,405
-table_5,Saves,New York,17
-table_5,Shutouts,Boston,24
-table_5,Strikeouts,Washington,706
+Year,Category,Statistic,Team,Value
+1916,Team Pitching Stats,Complete Games,Philadelphia,94
+1916,Team Pitching Stats,ERA,Chicago,2.36
+1916,Team Pitching Stats,Fewest Hits Allowed,Chicago,"1,189"
+1916,Team Pitching Stats,Fewest Home Runs Allowed,Boston,10
+1916,Team Pitching Stats,Fewest Walks Allowed,Chicago,405
+1916,Team Pitching Stats,Saves,New York,17
+1916,Team Pitching Stats,Shutouts,Boston,24
+1916,Team Pitching Stats,Strikeouts,Washington,706

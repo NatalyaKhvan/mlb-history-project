@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Mark Fidrych | Detroit | 24 | Top 25
-table_2,ERA | Mark Fidrych | Detroit | 2.34 | Top 25
-table_2,Games | Bill Campbell | Minnesota | 78 | Top 25
-table_2,Saves | Sparky Lyle | New York | 23 | Top 25
-table_2,Shutouts | Nolan Ryan | California | 7 | Top 25
-table_2,Strikeouts | Nolan Ryan | California | 327 | Top 25
-table_2,Winning Percentage | Bill Campbell | Minnesota | .773 | Top 25
-table_2,Wins | Jim Palmer | Baltimore | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | California | 64
-table_5,ERA | New York | 3.20
-table_5,"Fewest Hits Allowed | New York | 1,300"
-table_5,Fewest Home Runs Allowed | Baltimore | 90
-table_5,Fewest Walks Allowed | Boston | 409
-table_5,Saves | Cleveland | 46
-table_5,Shutouts | Cleveland | 17
-table_5,Strikeouts | California | 992
+year,league,category,text
+1976,American League,table_2,Complete Games | Mark Fidrych | Detroit | 24
+1976,American League,table_2,ERA | Mark Fidrych | Detroit | 2.34
+1976,American League,table_2,Games | Bill Campbell | Minnesota | 78
+1976,American League,table_2,Saves | Sparky Lyle | New York | 23
+1976,American League,table_2,Shutouts | Nolan Ryan | California | 7
+1976,American League,table_2,Strikeouts | Nolan Ryan | California | 327
+1976,American League,table_2,Winning Percentage | Bill Campbell | Minnesota | .773
+1976,American League,table_2,Wins | Jim Palmer | Baltimore | 22
+1976,American League,table_5,Complete Games | California | 64
+1976,American League,table_5,ERA | New York | 3.20
+1976,American League,table_5,"Fewest Hits Allowed | New York | 1,300"
+1976,American League,table_5,Fewest Home Runs Allowed | Baltimore | 90
+1976,American League,table_5,Fewest Walks Allowed | Boston | 409
+1976,American League,table_5,Saves | Cleveland | 46
+1976,American League,table_5,Shutouts | Cleveland | 17
+1976,American League,table_5,Strikeouts | California | 992

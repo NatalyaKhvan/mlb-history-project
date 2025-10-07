@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Carl Hubbell | New York | 25 | Top 25
-table_2,ERA | Carl Hubbell | New York | 2.30 | Top 25
-table_2,Games | Curt Davis | Philadelphia | 51 | Top 25
-table_2,Saves | Carl Hubbell | New York | 7 | Top 25
-table_2,Shutouts | Dizzy Dean | St. Louis | 7 | Top 25
-table_2,Strikeouts | Dizzy Dean | St. Louis | 195 | Top 25
-table_2,Winning Percentage | Dizzy Dean | St. Louis | .811 | Top 25
-table_2,Wins | Dizzy Dean | St. Louis | 30 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | St. Louis | 78
-table_5,ERA | New York | 3.19
-table_5,"Fewest Hits Allowed | New York | 1,384"
-table_5,Fewest Home Runs Allowed | Cincinnati | 61
-table_5,Fewest Walks Allowed | New York | 351
-table_5,Saves | New York | 30
-table_5,Shutouts | St. Louis | 15
-table_5,Strikeouts | St. Louis | 689
+year,league,category,text
+1934,National League,table_2,Complete Games | Carl Hubbell | New York | 25
+1934,National League,table_2,ERA | Carl Hubbell | New York | 2.30
+1934,National League,table_2,Games | Curt Davis | Philadelphia | 51
+1934,National League,table_2,Saves | Carl Hubbell | New York | 7
+1934,National League,table_2,Shutouts | Dizzy Dean | St. Louis | 7
+1934,National League,table_2,Strikeouts | Dizzy Dean | St. Louis | 195
+1934,National League,table_2,Winning Percentage | Dizzy Dean | St. Louis | .811
+1934,National League,table_2,Wins | Dizzy Dean | St. Louis | 30
+1934,National League,table_5,Complete Games | St. Louis | 78
+1934,National League,table_5,ERA | New York | 3.19
+1934,National League,table_5,"Fewest Hits Allowed | New York | 1,384"
+1934,National League,table_5,Fewest Home Runs Allowed | Cincinnati | 61
+1934,National League,table_5,Fewest Walks Allowed | New York | 351
+1934,National League,table_5,Saves | New York | 30
+1934,National League,table_5,Shutouts | St. Louis | 15
+1934,National League,table_5,Strikeouts | St. Louis | 689

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Milwaukee,64
-table_5,ERA,Milwaukee,3.12
-table_5,Fewest Hits Allowed,Brooklyn,"1,251"
-table_5,Fewest Home Runs Allowed,Milwaukee,133
-table_5,Fewest Walks Allowed,Philadelphia,437
-table_5,Saves,Brooklyn,30
-table_5,Shutouts,Brooklyn,12
-table_5,Strikeouts,Brooklyn,772
+Year,Category,Statistic,Team,Value
+1956,Team Pitching Stats,Complete Games,Milwaukee,64
+1956,Team Pitching Stats,ERA,Milwaukee,3.12
+1956,Team Pitching Stats,Fewest Hits Allowed,Brooklyn,"1,251"
+1956,Team Pitching Stats,Fewest Home Runs Allowed,Milwaukee,133
+1956,Team Pitching Stats,Fewest Walks Allowed,Philadelphia,437
+1956,Team Pitching Stats,Saves,Brooklyn,30
+1956,Team Pitching Stats,Shutouts,Brooklyn,12
+1956,Team Pitching Stats,Strikeouts,Brooklyn,772

@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Wes Ferrell,Boston,28,Top 25
-table_2,ERA,Lefty Grove,Philadelphia,2.81,Top 25
-table_2,Games,Russ Van Atta,St. Louis,52,Top 25
-table_2,Saves,Pat Malone,New York,9,Top 25
-table_2,Shutouts,Lefty Grove,Philadelphia,6,Top 25
-table_2,Strikeouts,Tommy Bridges,Detroit,175,Top 25
-table_2,Winning Percentage,Bump Hadley,New York,.778,Top 25
-table_2,Wins,Tommy Bridges,Detroit,23,Top 25
+Year,Category,Statistic,Player,Team,Value
+1936,Individual Pitching Stats,Complete Games,Wes Ferrell,Boston,28
+1936,Individual Pitching Stats,ERA,Lefty Grove,Philadelphia,2.81
+1936,Individual Pitching Stats,Games,Russ Van Atta,St. Louis,52
+1936,Individual Pitching Stats,Saves,Pat Malone,New York,9
+1936,Individual Pitching Stats,Shutouts,Lefty Grove,Philadelphia,6
+1936,Individual Pitching Stats,Strikeouts,Tommy Bridges,Detroit,175
+1936,Individual Pitching Stats,Winning Percentage,Bump Hadley,New York,.778
+1936,Individual Pitching Stats,Wins,Tommy Bridges,Detroit,23

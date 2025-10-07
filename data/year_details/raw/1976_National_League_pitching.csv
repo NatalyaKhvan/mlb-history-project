@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Randy Jones | San Diego | 25 | Top 25
-table_2,ERA | John Denny | St. Louis | 2.52 | Top 25
-table_2,Games | Dale Murray | Montreal | 81 | Top 25
-table_2,Saves | Rawly Eastwick | Cincinnati | 26 | Top 25
-table_2,Shutouts | Jon Matlack | New York | 6 | Top 25
-table_2,Strikeouts | Tom Seaver | New York | 235 | Top 25
-table_2,Winning Percentage | Steve Carlton | Philadelphia | .741 | Top 25
-table_2,Wins | Randy Jones | San Diego | 22 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | New York | 53
-table_5,ERA | New York | 2.94
-table_5,"Fewest Hits Allowed | New York | 1,248"
-table_5,Fewest Home Runs Allowed | San Francisco | 68
-table_5,Fewest Walks Allowed | Philadelphia | 397
-table_5,Saves | Cincinnati | 45
-table_5,Shutouts | New York | 18
-table_5,"Strikeouts | New York | 1,025"
+year,league,category,text
+1976,National League,table_2,Complete Games | Randy Jones | San Diego | 25
+1976,National League,table_2,ERA | John Denny | St. Louis | 2.52
+1976,National League,table_2,Games | Dale Murray | Montreal | 81
+1976,National League,table_2,Saves | Rawly Eastwick | Cincinnati | 26
+1976,National League,table_2,Shutouts | Jon Matlack | New York | 6
+1976,National League,table_2,Strikeouts | Tom Seaver | New York | 235
+1976,National League,table_2,Winning Percentage | Steve Carlton | Philadelphia | .741
+1976,National League,table_2,Wins | Randy Jones | San Diego | 22
+1976,National League,table_5,Complete Games | New York | 53
+1976,National League,table_5,ERA | New York | 2.94
+1976,National League,table_5,"Fewest Hits Allowed | New York | 1,248"
+1976,National League,table_5,Fewest Home Runs Allowed | San Francisco | 68
+1976,National League,table_5,Fewest Walks Allowed | Philadelphia | 397
+1976,National League,table_5,Saves | Cincinnati | 45
+1976,National League,table_5,Shutouts | New York | 18
+1976,National League,table_5,"Strikeouts | New York | 1,025"

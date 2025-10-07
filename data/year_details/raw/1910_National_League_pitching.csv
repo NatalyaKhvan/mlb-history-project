@@ -1,21 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Mordecai Brown | Chicago | 27 | Top 25
-table_2,ERA | King Cole | Chicago | 1.80 | Top 25
-table_2,Games | Al Mattern | Boston | 51 | Top 25
-table_2,Saves | Mordecai Brown | Chicago | 7 | Top 25
-table_2,Shutouts | Mordecai Brown | Chicago | 6 | Top 25
-table_2,Strikeouts | Earl Moore | Philadelphia | 185 | Top 25
-table_2,Winning Percentage | King Cole | Chicago | .833 | Top 25
-table_2,Wins | Christy Mathewson | New York | 27 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Brooklyn | 103
-table_5,ERA | Chicago | 2.51
-table_5,"Fewest Hits Allowed | Chicago | 1,171"
-table_5,Fewest Home Runs Allowed | Brooklyn | 17
-table_5,Fewest Walks Allowed | Pittsburgh | 392
-table_5,Saves | St. Louis | 14
-table_5,Shutouts | Chicago | 25
-table_5,Strikeouts | New York | 717
-table_5,Statistic | Team | #
+year,league,category,text
+1910,National League,table_2,Complete Games | Mordecai Brown | Chicago | 27
+1910,National League,table_2,ERA | King Cole | Chicago | 1.80
+1910,National League,table_2,Games | Al Mattern | Boston | 51
+1910,National League,table_2,Saves | Mordecai Brown | Chicago | 7
+1910,National League,table_2,Shutouts | Mordecai Brown | Chicago | 6
+1910,National League,table_2,Strikeouts | Earl Moore | Philadelphia | 185
+1910,National League,table_2,Winning Percentage | King Cole | Chicago | .833
+1910,National League,table_2,Wins | Christy Mathewson | New York | 27
+1910,National League,table_5,Complete Games | Brooklyn | 103
+1910,National League,table_5,ERA | Chicago | 2.51
+1910,National League,table_5,"Fewest Hits Allowed | Chicago | 1,171"
+1910,National League,table_5,Fewest Home Runs Allowed | Brooklyn | 17
+1910,National League,table_5,Fewest Walks Allowed | Pittsburgh | 392
+1910,National League,table_5,Saves | St. Louis | 14
+1910,National League,table_5,Shutouts | Chicago | 25
+1910,National League,table_5,Strikeouts | New York | 717

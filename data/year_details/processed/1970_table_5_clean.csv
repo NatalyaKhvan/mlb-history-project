@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Baltimore,60
-table_5,ERA,Baltimore,3.15
-table_5,Fewest Hits Allowed,Oakland,"1,253"
-table_5,Fewest Home Runs Allowed,Minnesota,130
-table_5,Fewest Walks Allowed,New York,451
-table_5,Saves,Minnesota,58
-table_5,Shutouts,Oakland,15
-table_5,Strikeouts,Cleveland,"1,076"
+Year,Category,Statistic,Team,Value
+1970,Team Pitching Stats,Complete Games,Baltimore,60
+1970,Team Pitching Stats,ERA,Baltimore,3.15
+1970,Team Pitching Stats,Fewest Hits Allowed,Oakland,"1,253"
+1970,Team Pitching Stats,Fewest Home Runs Allowed,Minnesota,130
+1970,Team Pitching Stats,Fewest Walks Allowed,New York,451
+1970,Team Pitching Stats,Saves,Minnesota,58
+1970,Team Pitching Stats,Shutouts,Oakland,15
+1970,Team Pitching Stats,Strikeouts,Cleveland,"1,076"

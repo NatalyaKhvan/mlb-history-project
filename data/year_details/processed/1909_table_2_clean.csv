@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Frank Smith,Chicago,37,Top 25
-table_2,ERA,Harry Krause,Philadelphia,1.39,Top 25
-table_2,Games,Frank Smith,Chicago,51,Top 25
-table_2,Saves,Frank Arellanes,Boston,8,Top 25
-table_2,Shutouts,Ed Walsh,Chicago,8,Top 25
-table_2,Strikeouts,Frank Smith,Chicago,177,Top 25
-table_2,Winning Percentage,George Mullin,Detroit,.784,Top 25
-table_2,Wins,George Mullin,Detroit,29,Top 25
+Year,Category,Statistic,Player,Team,Value
+1909,Individual Pitching Stats,Complete Games,Frank Smith,Chicago,37
+1909,Individual Pitching Stats,ERA,Harry Krause,Philadelphia,1.39
+1909,Individual Pitching Stats,Games,Frank Smith,Chicago,51
+1909,Individual Pitching Stats,Saves,Frank Arellanes,Boston,8
+1909,Individual Pitching Stats,Shutouts,Ed Walsh,Chicago,8
+1909,Individual Pitching Stats,Strikeouts,Frank Smith,Chicago,177
+1909,Individual Pitching Stats,Winning Percentage,George Mullin,Detroit,.784
+1909,Individual Pitching Stats,Wins,George Mullin,Detroit,29

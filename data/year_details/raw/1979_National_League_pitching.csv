@@ -1,20 +1,17 @@
-category,text
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_2,Complete Games | Phil Niekro | Atlanta | 23 | Top 25
-table_2,ERA | J.R. Richard | Houston | 2.71 | Top 25
-table_2,Games | Kent Tekulve | Pittsburgh | 94 | Top 25
-table_2,Saves | Bruce Sutter | Chicago | 37 | Top 25
-table_2,Shutouts | Phil Niekro | Atlanta | 5 | Top 25
-table_2,Strikeouts | J.R. Richard | Houston | 313 | Top 25
-table_2,Winning Percentage | Tom Seaver | Cincinnati | .727 | Top 25
-table_2,Wins | Joe Niekro | Houston | 21 | Top 25
-table_2,Statistic | Name(s) | Team(s) | # | Top 25
-table_5,Statistic | Team | #
-table_5,Complete Games | Houston | 55
-table_5,ERA | Montreal | 3.15
-table_5,"Fewest Hits Allowed | Houston | 1,278"
-table_5,Fewest Home Runs Allowed | Houston | 90
-table_5,Fewest Walks Allowed | Montreal | 450
-table_5,Saves | Pittsburgh | 52
-table_5,Shutouts | Houston | 19
-table_5,Strikeouts | Chicago | 933
+year,league,category,text
+1979,National League,table_2,Complete Games | Phil Niekro | Atlanta | 23
+1979,National League,table_2,ERA | J.R. Richard | Houston | 2.71
+1979,National League,table_2,Games | Kent Tekulve | Pittsburgh | 94
+1979,National League,table_2,Saves | Bruce Sutter | Chicago | 37
+1979,National League,table_2,Shutouts | Phil Niekro | Atlanta | 5
+1979,National League,table_2,Strikeouts | J.R. Richard | Houston | 313
+1979,National League,table_2,Winning Percentage | Tom Seaver | Cincinnati | .727
+1979,National League,table_2,Wins | Joe Niekro | Houston | 21
+1979,National League,table_5,Complete Games | Houston | 55
+1979,National League,table_5,ERA | Montreal | 3.15
+1979,National League,table_5,"Fewest Hits Allowed | Houston | 1,278"
+1979,National League,table_5,Fewest Home Runs Allowed | Houston | 90
+1979,National League,table_5,Fewest Walks Allowed | Montreal | 450
+1979,National League,table_5,Saves | Pittsburgh | 52
+1979,National League,table_5,Shutouts | Houston | 19
+1979,National League,table_5,Strikeouts | Chicago | 933

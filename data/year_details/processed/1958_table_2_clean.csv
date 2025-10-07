@@ -1,9 +1,9 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,Warren Spahn,Milwaukee,23,Top 25
-table_2,ERA,Stu Miller,San Francisco,2.47,Top 25
-table_2,Games,Don Elston,Chicago,69,Top 25
-table_2,Saves,Roy Face,Pittsburgh,20,Top 25
-table_2,Shutouts,Carl Willey,Milwaukee,4,Top 25
-table_2,Strikeouts,Sam Jones,St. Louis,225,Top 25
-table_2,Winning Percentage,Lew Burdette,Milwaukee,.667,Top 25
-table_2,Wins,Bob Friend,Pittsburgh,22,Top 25
+Year,Category,Statistic,Player,Team,Value
+1958,Individual Pitching Stats,Complete Games,Warren Spahn,Milwaukee,23
+1958,Individual Pitching Stats,ERA,Stu Miller,San Francisco,2.47
+1958,Individual Pitching Stats,Games,Don Elston,Chicago,69
+1958,Individual Pitching Stats,Saves,Roy Face,Pittsburgh,20
+1958,Individual Pitching Stats,Shutouts,Carl Willey,Milwaukee,4
+1958,Individual Pitching Stats,Strikeouts,Sam Jones,St. Louis,225
+1958,Individual Pitching Stats,Winning Percentage,Lew Burdette,Milwaukee,.667
+1958,Individual Pitching Stats,Wins,Bob Friend,Pittsburgh,22

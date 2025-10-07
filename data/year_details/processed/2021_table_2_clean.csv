@@ -1,14 +1,14 @@
-category,col1,col2,col3,col4,col5
-table_2,Complete Games,German Marquez,Colorado Rockies,3,Top 25
-table_2,Adam Wainwright,St. Louis Cardinals,3,,
-table_2,Zack Wheeler,Philadelphia Phillies,3,,
-table_2,ERA,Corbin Burnes,Milwaukee Brewers,2.43,Top 25
-table_2,Games,Tyler Rogers,San Francisco Giants,80,Top 25
-table_2,Saves,Mark Melancon,San Diego Padres,39,Top 25
-table_2,Shutouts,Anthony DeSclafani,San Francisco Giants,2,Top 25
-table_2,Max Fried,Atlanta Braves,2,,
-table_2,Joe Musgrove,San Diego Padres,2,,
-table_2,Zack Wheeler,Philadelphia Phillies,2,,
-table_2,Strikeouts,Zack Wheeler,Philadelphia Phillies,247,Top 25
-table_2,Winning Percentage,Julio Urias,Los Angeles Dodgers,.870,Top 25
-table_2,Wins,Julio Urias,Los Angeles Dodgers,20,Top 25
+Year,Category,Statistic,Player,Team,Value
+2021,Individual Pitching Stats,Complete Games,German Marquez,Colorado Rockies,3
+2021,Individual Pitching Stats,Adam Wainwright,St. Louis Cardinals,3,
+2021,Individual Pitching Stats,Zack Wheeler,Philadelphia Phillies,3,
+2021,Individual Pitching Stats,ERA,Corbin Burnes,Milwaukee Brewers,2.43
+2021,Individual Pitching Stats,Games,Tyler Rogers,San Francisco Giants,80
+2021,Individual Pitching Stats,Saves,Mark Melancon,San Diego Padres,39
+2021,Individual Pitching Stats,Shutouts,Anthony DeSclafani,San Francisco Giants,2
+2021,Individual Pitching Stats,Max Fried,Atlanta Braves,2,
+2021,Individual Pitching Stats,Joe Musgrove,San Diego Padres,2,
+2021,Individual Pitching Stats,Zack Wheeler,Philadelphia Phillies,2,
+2021,Individual Pitching Stats,Strikeouts,Zack Wheeler,Philadelphia Phillies,247
+2021,Individual Pitching Stats,Winning Percentage,Julio Urias,Los Angeles Dodgers,.870
+2021,Individual Pitching Stats,Wins,Julio Urias,Los Angeles Dodgers,20

@@ -1,9 +1,9 @@
-category,col1,col2,col3
-table_5,Complete Games,Philadelphia,80
-table_5,ERA,Philadelphia,3.07
-table_5,Fewest Hits Allowed,Chicago,"1,265"
-table_5,Fewest Home Runs Allowed,Philadelphia,96
-table_5,Fewest Walks Allowed,Philadelphia,373
-table_5,Saves,New York,31
-table_5,Shutouts,Philadelphia,17
-table_5,Strikeouts,Brooklyn,773
+Year,Category,Statistic,Team,Value
+1952,Team Pitching Stats,Complete Games,Philadelphia,80
+1952,Team Pitching Stats,ERA,Philadelphia,3.07
+1952,Team Pitching Stats,Fewest Hits Allowed,Chicago,"1,265"
+1952,Team Pitching Stats,Fewest Home Runs Allowed,Philadelphia,96
+1952,Team Pitching Stats,Fewest Walks Allowed,Philadelphia,373
+1952,Team Pitching Stats,Saves,New York,31
+1952,Team Pitching Stats,Shutouts,Philadelphia,17
+1952,Team Pitching Stats,Strikeouts,Brooklyn,773

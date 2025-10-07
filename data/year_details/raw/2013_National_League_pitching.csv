@@ -1,11 +1,9 @@
-category,text
-table_2,Statistic | Name | Team | # | Top 25
-table_2,Complete Games | Adam Wainwright | St. Louis | 4 | Top 25
-table_2,ERA | Clayton Kershaw | Los Angeles | 1.83 | Top 25
-table_2,Games | Brad Ziegler | Arizona | 78 | Top 25
-table_2,Saves | Craig Kimbrel | Atlanta | 50 | Top 25
-table_2,Shutouts | Clayton Kershaw | Los Angeles | 3 | Top 25
-table_2,Strikeouts | Clayton Kershaw | Los Angeles | 232 | Top 25
-table_2,Winning Percentage | Zack Greinke | Los Angeles | .789 | Top 25
-table_2,Wins | Adam Wainwright | St. Louis | 19 | Top 25
-table_2,Statistic | Name | Team | # | Top 25
+year,league,category,text
+2013,National League,table_2,Complete Games | Adam Wainwright | St. Louis | 4
+2013,National League,table_2,ERA | Clayton Kershaw | Los Angeles | 1.83
+2013,National League,table_2,Games | Brad Ziegler | Arizona | 78
+2013,National League,table_2,Saves | Craig Kimbrel | Atlanta | 50
+2013,National League,table_2,Shutouts | Clayton Kershaw | Los Angeles | 3
+2013,National League,table_2,Strikeouts | Clayton Kershaw | Los Angeles | 232
+2013,National League,table_2,Winning Percentage | Zack Greinke | Los Angeles | .789
+2013,National League,table_2,Wins | Adam Wainwright | St. Louis | 19
